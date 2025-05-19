@@ -2,14 +2,14 @@ import os
 import yaml
 from datetime import datetime
 
-FOLDER = 'emoji'
+INPUT_FOLDER = 'input'
 input_files = [
-    f'{FOLDER}/16_all_emoji.tsv',
-    # f'{FOLDER}/16_mod_emoji.tsv',
-    # f'{FOLDER}/16_zwj_emoji.tsv'
+    f'{INPUT_FOLDER}/all_emoji.tsv',
+    # f'{INPUT_FOLDER}/mod_emoji.tsv',
+    # f'{INPUT_FOLDER}/zwj_emoji.tsv'
 ]
-ranking_file = f'{FOLDER}/2021_ranked.tsv'
-EMOJI_FILE = f'{FOLDER}/emoji_data.yaml'
+ranking_file = f'{INPUT_FOLDER}/2021_ranked.tsv'
+EMOJI_FILE = f'emoji_data.yaml'
 
 def extract_emojis(input_paths, output_path=None, ranking_path=None):
     """Extract emojis from the input files"""
