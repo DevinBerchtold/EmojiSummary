@@ -1,0 +1,1472 @@
+№	Code	Browser	Sample	Sample Fallback	CLDR Short Name
+1	U+1F636 U+200D U+1F32B U+FE0F	😶‍🌫️	😶‍🌫️	😶 🌫	face in clouds
+2	U+1F62E U+200D U+1F4A8	😮‍💨	😮‍💨	😮 💨	face exhaling
+3	U+1F642 U+200D U+2194 U+FE0F	🙂‍↔️	🙂‍↔️	🙂 ↔	head shaking horizontally
+4	U+1F642 U+200D U+2195 U+FE0F	🙂‍↕️	🙂‍↕️	🙂 ↕	head shaking vertically
+5	U+1F635 U+200D U+1F4AB	😵‍💫	😵‍💫	😵 💫	face with spiral eyes
+6	U+2764 U+FE0F U+200D U+1F525	❤️‍🔥	❤️‍🔥	❤ 🔥	heart on fire
+7	U+2764 U+FE0F U+200D U+1FA79	❤️‍🩹	❤️‍🩹	❤ 🩹	mending heart
+8	U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F	👁️‍🗨️	👁️‍🗨️	👁 🗨	eye in speech bubble
+9	U+1FAF1 U+1F3FB U+200D U+1FAF2 U+1F3FC	🫱🏻‍🫲🏼	🫱🏻‍🫲🏼	🫱🏻 🫲🏼	handshake: light skin tone, medium-light skin tone
+10	U+1FAF1 U+1F3FB U+200D U+1FAF2 U+1F3FD	🫱🏻‍🫲🏽	🫱🏻‍🫲🏽	🫱🏻 🫲🏽	handshake: light skin tone, medium skin tone
+11	U+1FAF1 U+1F3FB U+200D U+1FAF2 U+1F3FE	🫱🏻‍🫲🏾	🫱🏻‍🫲🏾	🫱🏻 🫲🏾	handshake: light skin tone, medium-dark skin tone
+12	U+1FAF1 U+1F3FB U+200D U+1FAF2 U+1F3FF	🫱🏻‍🫲🏿	🫱🏻‍🫲🏿	🫱🏻 🫲🏿	handshake: light skin tone, dark skin tone
+13	U+1FAF1 U+1F3FC U+200D U+1FAF2 U+1F3FB	🫱🏼‍🫲🏻	🫱🏼‍🫲🏻	🫱🏼 🫲🏻	handshake: medium-light skin tone, light skin tone
+14	U+1FAF1 U+1F3FC U+200D U+1FAF2 U+1F3FD	🫱🏼‍🫲🏽	🫱🏼‍🫲🏽	🫱🏼 🫲🏽	handshake: medium-light skin tone, medium skin tone
+15	U+1FAF1 U+1F3FC U+200D U+1FAF2 U+1F3FE	🫱🏼‍🫲🏾	🫱🏼‍🫲🏾	🫱🏼 🫲🏾	handshake: medium-light skin tone, medium-dark skin tone
+16	U+1FAF1 U+1F3FC U+200D U+1FAF2 U+1F3FF	🫱🏼‍🫲🏿	🫱🏼‍🫲🏿	🫱🏼 🫲🏿	handshake: medium-light skin tone, dark skin tone
+17	U+1FAF1 U+1F3FD U+200D U+1FAF2 U+1F3FB	🫱🏽‍🫲🏻	🫱🏽‍🫲🏻	🫱🏽 🫲🏻	handshake: medium skin tone, light skin tone
+18	U+1FAF1 U+1F3FD U+200D U+1FAF2 U+1F3FC	🫱🏽‍🫲🏼	🫱🏽‍🫲🏼	🫱🏽 🫲🏼	handshake: medium skin tone, medium-light skin tone
+19	U+1FAF1 U+1F3FD U+200D U+1FAF2 U+1F3FE	🫱🏽‍🫲🏾	🫱🏽‍🫲🏾	🫱🏽 🫲🏾	handshake: medium skin tone, medium-dark skin tone
+20	U+1FAF1 U+1F3FD U+200D U+1FAF2 U+1F3FF	🫱🏽‍🫲🏿	🫱🏽‍🫲🏿	🫱🏽 🫲🏿	handshake: medium skin tone, dark skin tone
+21	U+1FAF1 U+1F3FE U+200D U+1FAF2 U+1F3FB	🫱🏾‍🫲🏻	🫱🏾‍🫲🏻	🫱🏾 🫲🏻	handshake: medium-dark skin tone, light skin tone
+22	U+1FAF1 U+1F3FE U+200D U+1FAF2 U+1F3FC	🫱🏾‍🫲🏼	🫱🏾‍🫲🏼	🫱🏾 🫲🏼	handshake: medium-dark skin tone, medium-light skin tone
+23	U+1FAF1 U+1F3FE U+200D U+1FAF2 U+1F3FD	🫱🏾‍🫲🏽	🫱🏾‍🫲🏽	🫱🏾 🫲🏽	handshake: medium-dark skin tone, medium skin tone
+24	U+1FAF1 U+1F3FE U+200D U+1FAF2 U+1F3FF	🫱🏾‍🫲🏿	🫱🏾‍🫲🏿	🫱🏾 🫲🏿	handshake: medium-dark skin tone, dark skin tone
+25	U+1FAF1 U+1F3FF U+200D U+1FAF2 U+1F3FB	🫱🏿‍🫲🏻	🫱🏿‍🫲🏻	🫱🏿 🫲🏻	handshake: dark skin tone, light skin tone
+26	U+1FAF1 U+1F3FF U+200D U+1FAF2 U+1F3FC	🫱🏿‍🫲🏼	🫱🏿‍🫲🏼	🫱🏿 🫲🏼	handshake: dark skin tone, medium-light skin tone
+27	U+1FAF1 U+1F3FF U+200D U+1FAF2 U+1F3FD	🫱🏿‍🫲🏽	🫱🏿‍🫲🏽	🫱🏿 🫲🏽	handshake: dark skin tone, medium skin tone
+28	U+1FAF1 U+1F3FF U+200D U+1FAF2 U+1F3FE	🫱🏿‍🫲🏾	🫱🏿‍🫲🏾	🫱🏿 🫲🏾	handshake: dark skin tone, medium-dark skin tone
+29	U+1F9D4 U+200D U+2642 U+FE0F	🧔‍♂️	🧔‍♂️	🧔 ♂	man: beard
+30	U+1F9D4 U+1F3FB U+200D U+2642 U+FE0F	🧔🏻‍♂️	🧔🏻‍♂️	🧔🏻 ♂	man: light skin tone, beard
+31	U+1F9D4 U+1F3FC U+200D U+2642 U+FE0F	🧔🏼‍♂️	🧔🏼‍♂️	🧔🏼 ♂	man: medium-light skin tone, beard
+32	U+1F9D4 U+1F3FD U+200D U+2642 U+FE0F	🧔🏽‍♂️	🧔🏽‍♂️	🧔🏽 ♂	man: medium skin tone, beard
+33	U+1F9D4 U+1F3FE U+200D U+2642 U+FE0F	🧔🏾‍♂️	🧔🏾‍♂️	🧔🏾 ♂	man: medium-dark skin tone, beard
+34	U+1F9D4 U+1F3FF U+200D U+2642 U+FE0F	🧔🏿‍♂️	🧔🏿‍♂️	🧔🏿 ♂	man: dark skin tone, beard
+35	U+1F9D4 U+200D U+2640 U+FE0F	🧔‍♀️	🧔‍♀️	🧔 ♀	woman: beard
+36	U+1F9D4 U+1F3FB U+200D U+2640 U+FE0F	🧔🏻‍♀️	🧔🏻‍♀️	🧔🏻 ♀	woman: light skin tone, beard
+37	U+1F9D4 U+1F3FC U+200D U+2640 U+FE0F	🧔🏼‍♀️	🧔🏼‍♀️	🧔🏼 ♀	woman: medium-light skin tone, beard
+38	U+1F9D4 U+1F3FD U+200D U+2640 U+FE0F	🧔🏽‍♀️	🧔🏽‍♀️	🧔🏽 ♀	woman: medium skin tone, beard
+39	U+1F9D4 U+1F3FE U+200D U+2640 U+FE0F	🧔🏾‍♀️	🧔🏾‍♀️	🧔🏾 ♀	woman: medium-dark skin tone, beard
+40	U+1F9D4 U+1F3FF U+200D U+2640 U+FE0F	🧔🏿‍♀️	🧔🏿‍♀️	🧔🏿 ♀	woman: dark skin tone, beard
+41	U+1F468 U+200D U+1F9B0	👨‍🦰	👨‍🦰	👨 🦰	man: red hair
+42	U+1F468 U+1F3FB U+200D U+1F9B0	👨🏻‍🦰	👨🏻‍🦰	👨🏻 🦰	man: light skin tone, red hair
+43	U+1F468 U+1F3FC U+200D U+1F9B0	👨🏼‍🦰	👨🏼‍🦰	👨🏼 🦰	man: medium-light skin tone, red hair
+44	U+1F468 U+1F3FD U+200D U+1F9B0	👨🏽‍🦰	👨🏽‍🦰	👨🏽 🦰	man: medium skin tone, red hair
+45	U+1F468 U+1F3FE U+200D U+1F9B0	👨🏾‍🦰	👨🏾‍🦰	👨🏾 🦰	man: medium-dark skin tone, red hair
+46	U+1F468 U+1F3FF U+200D U+1F9B0	👨🏿‍🦰	👨🏿‍🦰	👨🏿 🦰	man: dark skin tone, red hair
+47	U+1F468 U+200D U+1F9B1	👨‍🦱	👨‍🦱	👨 🦱	man: curly hair
+48	U+1F468 U+1F3FB U+200D U+1F9B1	👨🏻‍🦱	👨🏻‍🦱	👨🏻 🦱	man: light skin tone, curly hair
+49	U+1F468 U+1F3FC U+200D U+1F9B1	👨🏼‍🦱	👨🏼‍🦱	👨🏼 🦱	man: medium-light skin tone, curly hair
+50	U+1F468 U+1F3FD U+200D U+1F9B1	👨🏽‍🦱	👨🏽‍🦱	👨🏽 🦱	man: medium skin tone, curly hair
+51	U+1F468 U+1F3FE U+200D U+1F9B1	👨🏾‍🦱	👨🏾‍🦱	👨🏾 🦱	man: medium-dark skin tone, curly hair
+52	U+1F468 U+1F3FF U+200D U+1F9B1	👨🏿‍🦱	👨🏿‍🦱	👨🏿 🦱	man: dark skin tone, curly hair
+53	U+1F468 U+200D U+1F9B3	👨‍🦳	👨‍🦳	👨 🦳	man: white hair
+54	U+1F468 U+1F3FB U+200D U+1F9B3	👨🏻‍🦳	👨🏻‍🦳	👨🏻 🦳	man: light skin tone, white hair
+55	U+1F468 U+1F3FC U+200D U+1F9B3	👨🏼‍🦳	👨🏼‍🦳	👨🏼 🦳	man: medium-light skin tone, white hair
+56	U+1F468 U+1F3FD U+200D U+1F9B3	👨🏽‍🦳	👨🏽‍🦳	👨🏽 🦳	man: medium skin tone, white hair
+57	U+1F468 U+1F3FE U+200D U+1F9B3	👨🏾‍🦳	👨🏾‍🦳	👨🏾 🦳	man: medium-dark skin tone, white hair
+58	U+1F468 U+1F3FF U+200D U+1F9B3	👨🏿‍🦳	👨🏿‍🦳	👨🏿 🦳	man: dark skin tone, white hair
+59	U+1F468 U+200D U+1F9B2	👨‍🦲	👨‍🦲	👨 🦲	man: bald
+60	U+1F468 U+1F3FB U+200D U+1F9B2	👨🏻‍🦲	👨🏻‍🦲	👨🏻 🦲	man: light skin tone, bald
+61	U+1F468 U+1F3FC U+200D U+1F9B2	👨🏼‍🦲	👨🏼‍🦲	👨🏼 🦲	man: medium-light skin tone, bald
+62	U+1F468 U+1F3FD U+200D U+1F9B2	👨🏽‍🦲	👨🏽‍🦲	👨🏽 🦲	man: medium skin tone, bald
+63	U+1F468 U+1F3FE U+200D U+1F9B2	👨🏾‍🦲	👨🏾‍🦲	👨🏾 🦲	man: medium-dark skin tone, bald
+64	U+1F468 U+1F3FF U+200D U+1F9B2	👨🏿‍🦲	👨🏿‍🦲	👨🏿 🦲	man: dark skin tone, bald
+65	U+1F469 U+200D U+1F9B0	👩‍🦰	👩‍🦰	👩 🦰	woman: red hair
+66	U+1F469 U+1F3FB U+200D U+1F9B0	👩🏻‍🦰	👩🏻‍🦰	👩🏻 🦰	woman: light skin tone, red hair
+67	U+1F469 U+1F3FC U+200D U+1F9B0	👩🏼‍🦰	👩🏼‍🦰	👩🏼 🦰	woman: medium-light skin tone, red hair
+68	U+1F469 U+1F3FD U+200D U+1F9B0	👩🏽‍🦰	👩🏽‍🦰	👩🏽 🦰	woman: medium skin tone, red hair
+69	U+1F469 U+1F3FE U+200D U+1F9B0	👩🏾‍🦰	👩🏾‍🦰	👩🏾 🦰	woman: medium-dark skin tone, red hair
+70	U+1F469 U+1F3FF U+200D U+1F9B0	👩🏿‍🦰	👩🏿‍🦰	👩🏿 🦰	woman: dark skin tone, red hair
+71	U+1F9D1 U+200D U+1F9B0	🧑‍🦰	🧑‍🦰	🧑 🦰	person: red hair
+72	U+1F9D1 U+1F3FB U+200D U+1F9B0	🧑🏻‍🦰	🧑🏻‍🦰	🧑🏻 🦰	person: light skin tone, red hair
+73	U+1F9D1 U+1F3FC U+200D U+1F9B0	🧑🏼‍🦰	🧑🏼‍🦰	🧑🏼 🦰	person: medium-light skin tone, red hair
+74	U+1F9D1 U+1F3FD U+200D U+1F9B0	🧑🏽‍🦰	🧑🏽‍🦰	🧑🏽 🦰	person: medium skin tone, red hair
+75	U+1F9D1 U+1F3FE U+200D U+1F9B0	🧑🏾‍🦰	🧑🏾‍🦰	🧑🏾 🦰	person: medium-dark skin tone, red hair
+76	U+1F9D1 U+1F3FF U+200D U+1F9B0	🧑🏿‍🦰	🧑🏿‍🦰	🧑🏿 🦰	person: dark skin tone, red hair
+77	U+1F469 U+200D U+1F9B1	👩‍🦱	👩‍🦱	👩 🦱	woman: curly hair
+78	U+1F469 U+1F3FB U+200D U+1F9B1	👩🏻‍🦱	👩🏻‍🦱	👩🏻 🦱	woman: light skin tone, curly hair
+79	U+1F469 U+1F3FC U+200D U+1F9B1	👩🏼‍🦱	👩🏼‍🦱	👩🏼 🦱	woman: medium-light skin tone, curly hair
+80	U+1F469 U+1F3FD U+200D U+1F9B1	👩🏽‍🦱	👩🏽‍🦱	👩🏽 🦱	woman: medium skin tone, curly hair
+81	U+1F469 U+1F3FE U+200D U+1F9B1	👩🏾‍🦱	👩🏾‍🦱	👩🏾 🦱	woman: medium-dark skin tone, curly hair
+82	U+1F469 U+1F3FF U+200D U+1F9B1	👩🏿‍🦱	👩🏿‍🦱	👩🏿 🦱	woman: dark skin tone, curly hair
+83	U+1F9D1 U+200D U+1F9B1	🧑‍🦱	🧑‍🦱	🧑 🦱	person: curly hair
+84	U+1F9D1 U+1F3FB U+200D U+1F9B1	🧑🏻‍🦱	🧑🏻‍🦱	🧑🏻 🦱	person: light skin tone, curly hair
+85	U+1F9D1 U+1F3FC U+200D U+1F9B1	🧑🏼‍🦱	🧑🏼‍🦱	🧑🏼 🦱	person: medium-light skin tone, curly hair
+86	U+1F9D1 U+1F3FD U+200D U+1F9B1	🧑🏽‍🦱	🧑🏽‍🦱	🧑🏽 🦱	person: medium skin tone, curly hair
+87	U+1F9D1 U+1F3FE U+200D U+1F9B1	🧑🏾‍🦱	🧑🏾‍🦱	🧑🏾 🦱	person: medium-dark skin tone, curly hair
+88	U+1F9D1 U+1F3FF U+200D U+1F9B1	🧑🏿‍🦱	🧑🏿‍🦱	🧑🏿 🦱	person: dark skin tone, curly hair
+89	U+1F469 U+200D U+1F9B3	👩‍🦳	👩‍🦳	👩 🦳	woman: white hair
+90	U+1F469 U+1F3FB U+200D U+1F9B3	👩🏻‍🦳	👩🏻‍🦳	👩🏻 🦳	woman: light skin tone, white hair
+91	U+1F469 U+1F3FC U+200D U+1F9B3	👩🏼‍🦳	👩🏼‍🦳	👩🏼 🦳	woman: medium-light skin tone, white hair
+92	U+1F469 U+1F3FD U+200D U+1F9B3	👩🏽‍🦳	👩🏽‍🦳	👩🏽 🦳	woman: medium skin tone, white hair
+93	U+1F469 U+1F3FE U+200D U+1F9B3	👩🏾‍🦳	👩🏾‍🦳	👩🏾 🦳	woman: medium-dark skin tone, white hair
+94	U+1F469 U+1F3FF U+200D U+1F9B3	👩🏿‍🦳	👩🏿‍🦳	👩🏿 🦳	woman: dark skin tone, white hair
+95	U+1F9D1 U+200D U+1F9B3	🧑‍🦳	🧑‍🦳	🧑 🦳	person: white hair
+96	U+1F9D1 U+1F3FB U+200D U+1F9B3	🧑🏻‍🦳	🧑🏻‍🦳	🧑🏻 🦳	person: light skin tone, white hair
+97	U+1F9D1 U+1F3FC U+200D U+1F9B3	🧑🏼‍🦳	🧑🏼‍🦳	🧑🏼 🦳	person: medium-light skin tone, white hair
+98	U+1F9D1 U+1F3FD U+200D U+1F9B3	🧑🏽‍🦳	🧑🏽‍🦳	🧑🏽 🦳	person: medium skin tone, white hair
+99	U+1F9D1 U+1F3FE U+200D U+1F9B3	🧑🏾‍🦳	🧑🏾‍🦳	🧑🏾 🦳	person: medium-dark skin tone, white hair
+100	U+1F9D1 U+1F3FF U+200D U+1F9B3	🧑🏿‍🦳	🧑🏿‍🦳	🧑🏿 🦳	person: dark skin tone, white hair
+101	U+1F469 U+200D U+1F9B2	👩‍🦲	👩‍🦲	👩 🦲	woman: bald
+102	U+1F469 U+1F3FB U+200D U+1F9B2	👩🏻‍🦲	👩🏻‍🦲	👩🏻 🦲	woman: light skin tone, bald
+103	U+1F469 U+1F3FC U+200D U+1F9B2	👩🏼‍🦲	👩🏼‍🦲	👩🏼 🦲	woman: medium-light skin tone, bald
+104	U+1F469 U+1F3FD U+200D U+1F9B2	👩🏽‍🦲	👩🏽‍🦲	👩🏽 🦲	woman: medium skin tone, bald
+105	U+1F469 U+1F3FE U+200D U+1F9B2	👩🏾‍🦲	👩🏾‍🦲	👩🏾 🦲	woman: medium-dark skin tone, bald
+106	U+1F469 U+1F3FF U+200D U+1F9B2	👩🏿‍🦲	👩🏿‍🦲	👩🏿 🦲	woman: dark skin tone, bald
+107	U+1F9D1 U+200D U+1F9B2	🧑‍🦲	🧑‍🦲	🧑 🦲	person: bald
+108	U+1F9D1 U+1F3FB U+200D U+1F9B2	🧑🏻‍🦲	🧑🏻‍🦲	🧑🏻 🦲	person: light skin tone, bald
+109	U+1F9D1 U+1F3FC U+200D U+1F9B2	🧑🏼‍🦲	🧑🏼‍🦲	🧑🏼 🦲	person: medium-light skin tone, bald
+110	U+1F9D1 U+1F3FD U+200D U+1F9B2	🧑🏽‍🦲	🧑🏽‍🦲	🧑🏽 🦲	person: medium skin tone, bald
+111	U+1F9D1 U+1F3FE U+200D U+1F9B2	🧑🏾‍🦲	🧑🏾‍🦲	🧑🏾 🦲	person: medium-dark skin tone, bald
+112	U+1F9D1 U+1F3FF U+200D U+1F9B2	🧑🏿‍🦲	🧑🏿‍🦲	🧑🏿 🦲	person: dark skin tone, bald
+113	U+1F471 U+200D U+2640 U+FE0F	👱‍♀️	👱‍♀️	👱 ♀	woman: blond hair
+114	U+1F471 U+1F3FB U+200D U+2640 U+FE0F	👱🏻‍♀️	👱🏻‍♀️	👱🏻 ♀	woman: light skin tone, blond hair
+115	U+1F471 U+1F3FC U+200D U+2640 U+FE0F	👱🏼‍♀️	👱🏼‍♀️	👱🏼 ♀	woman: medium-light skin tone, blond hair
+116	U+1F471 U+1F3FD U+200D U+2640 U+FE0F	👱🏽‍♀️	👱🏽‍♀️	👱🏽 ♀	woman: medium skin tone, blond hair
+117	U+1F471 U+1F3FE U+200D U+2640 U+FE0F	👱🏾‍♀️	👱🏾‍♀️	👱🏾 ♀	woman: medium-dark skin tone, blond hair
+118	U+1F471 U+1F3FF U+200D U+2640 U+FE0F	👱🏿‍♀️	👱🏿‍♀️	👱🏿 ♀	woman: dark skin tone, blond hair
+119	U+1F471 U+200D U+2642 U+FE0F	👱‍♂️	👱‍♂️	👱 ♂	man: blond hair
+120	U+1F471 U+1F3FB U+200D U+2642 U+FE0F	👱🏻‍♂️	👱🏻‍♂️	👱🏻 ♂	man: light skin tone, blond hair
+121	U+1F471 U+1F3FC U+200D U+2642 U+FE0F	👱🏼‍♂️	👱🏼‍♂️	👱🏼 ♂	man: medium-light skin tone, blond hair
+122	U+1F471 U+1F3FD U+200D U+2642 U+FE0F	👱🏽‍♂️	👱🏽‍♂️	👱🏽 ♂	man: medium skin tone, blond hair
+123	U+1F471 U+1F3FE U+200D U+2642 U+FE0F	👱🏾‍♂️	👱🏾‍♂️	👱🏾 ♂	man: medium-dark skin tone, blond hair
+124	U+1F471 U+1F3FF U+200D U+2642 U+FE0F	👱🏿‍♂️	👱🏿‍♂️	👱🏿 ♂	man: dark skin tone, blond hair
+125	U+1F64D U+200D U+2642 U+FE0F	🙍‍♂️	🙍‍♂️	🙍 ♂	man frowning
+126	U+1F64D U+1F3FB U+200D U+2642 U+FE0F	🙍🏻‍♂️	🙍🏻‍♂️	🙍🏻 ♂	man frowning: light skin tone
+127	U+1F64D U+1F3FC U+200D U+2642 U+FE0F	🙍🏼‍♂️	🙍🏼‍♂️	🙍🏼 ♂	man frowning: medium-light skin tone
+128	U+1F64D U+1F3FD U+200D U+2642 U+FE0F	🙍🏽‍♂️	🙍🏽‍♂️	🙍🏽 ♂	man frowning: medium skin tone
+129	U+1F64D U+1F3FE U+200D U+2642 U+FE0F	🙍🏾‍♂️	🙍🏾‍♂️	🙍🏾 ♂	man frowning: medium-dark skin tone
+130	U+1F64D U+1F3FF U+200D U+2642 U+FE0F	🙍🏿‍♂️	🙍🏿‍♂️	🙍🏿 ♂	man frowning: dark skin tone
+131	U+1F64D U+200D U+2640 U+FE0F	🙍‍♀️	🙍‍♀️	🙍 ♀	woman frowning
+132	U+1F64D U+1F3FB U+200D U+2640 U+FE0F	🙍🏻‍♀️	🙍🏻‍♀️	🙍🏻 ♀	woman frowning: light skin tone
+133	U+1F64D U+1F3FC U+200D U+2640 U+FE0F	🙍🏼‍♀️	🙍🏼‍♀️	🙍🏼 ♀	woman frowning: medium-light skin tone
+134	U+1F64D U+1F3FD U+200D U+2640 U+FE0F	🙍🏽‍♀️	🙍🏽‍♀️	🙍🏽 ♀	woman frowning: medium skin tone
+135	U+1F64D U+1F3FE U+200D U+2640 U+FE0F	🙍🏾‍♀️	🙍🏾‍♀️	🙍🏾 ♀	woman frowning: medium-dark skin tone
+136	U+1F64D U+1F3FF U+200D U+2640 U+FE0F	🙍🏿‍♀️	🙍🏿‍♀️	🙍🏿 ♀	woman frowning: dark skin tone
+137	U+1F64E U+200D U+2642 U+FE0F	🙎‍♂️	🙎‍♂️	🙎 ♂	man pouting
+138	U+1F64E U+1F3FB U+200D U+2642 U+FE0F	🙎🏻‍♂️	🙎🏻‍♂️	🙎🏻 ♂	man pouting: light skin tone
+139	U+1F64E U+1F3FC U+200D U+2642 U+FE0F	🙎🏼‍♂️	🙎🏼‍♂️	🙎🏼 ♂	man pouting: medium-light skin tone
+140	U+1F64E U+1F3FD U+200D U+2642 U+FE0F	🙎🏽‍♂️	🙎🏽‍♂️	🙎🏽 ♂	man pouting: medium skin tone
+141	U+1F64E U+1F3FE U+200D U+2642 U+FE0F	🙎🏾‍♂️	🙎🏾‍♂️	🙎🏾 ♂	man pouting: medium-dark skin tone
+142	U+1F64E U+1F3FF U+200D U+2642 U+FE0F	🙎🏿‍♂️	🙎🏿‍♂️	🙎🏿 ♂	man pouting: dark skin tone
+143	U+1F64E U+200D U+2640 U+FE0F	🙎‍♀️	🙎‍♀️	🙎 ♀	woman pouting
+144	U+1F64E U+1F3FB U+200D U+2640 U+FE0F	🙎🏻‍♀️	🙎🏻‍♀️	🙎🏻 ♀	woman pouting: light skin tone
+145	U+1F64E U+1F3FC U+200D U+2640 U+FE0F	🙎🏼‍♀️	🙎🏼‍♀️	🙎🏼 ♀	woman pouting: medium-light skin tone
+146	U+1F64E U+1F3FD U+200D U+2640 U+FE0F	🙎🏽‍♀️	🙎🏽‍♀️	🙎🏽 ♀	woman pouting: medium skin tone
+147	U+1F64E U+1F3FE U+200D U+2640 U+FE0F	🙎🏾‍♀️	🙎🏾‍♀️	🙎🏾 ♀	woman pouting: medium-dark skin tone
+148	U+1F64E U+1F3FF U+200D U+2640 U+FE0F	🙎🏿‍♀️	🙎🏿‍♀️	🙎🏿 ♀	woman pouting: dark skin tone
+149	U+1F645 U+200D U+2642 U+FE0F	🙅‍♂️	🙅‍♂️	🙅 ♂	man gesturing NO
+150	U+1F645 U+1F3FB U+200D U+2642 U+FE0F	🙅🏻‍♂️	🙅🏻‍♂️	🙅🏻 ♂	man gesturing NO: light skin tone
+151	U+1F645 U+1F3FC U+200D U+2642 U+FE0F	🙅🏼‍♂️	🙅🏼‍♂️	🙅🏼 ♂	man gesturing NO: medium-light skin tone
+152	U+1F645 U+1F3FD U+200D U+2642 U+FE0F	🙅🏽‍♂️	🙅🏽‍♂️	🙅🏽 ♂	man gesturing NO: medium skin tone
+153	U+1F645 U+1F3FE U+200D U+2642 U+FE0F	🙅🏾‍♂️	🙅🏾‍♂️	🙅🏾 ♂	man gesturing NO: medium-dark skin tone
+154	U+1F645 U+1F3FF U+200D U+2642 U+FE0F	🙅🏿‍♂️	🙅🏿‍♂️	🙅🏿 ♂	man gesturing NO: dark skin tone
+155	U+1F645 U+200D U+2640 U+FE0F	🙅‍♀️	🙅‍♀️	🙅 ♀	woman gesturing NO
+156	U+1F645 U+1F3FB U+200D U+2640 U+FE0F	🙅🏻‍♀️	🙅🏻‍♀️	🙅🏻 ♀	woman gesturing NO: light skin tone
+157	U+1F645 U+1F3FC U+200D U+2640 U+FE0F	🙅🏼‍♀️	🙅🏼‍♀️	🙅🏼 ♀	woman gesturing NO: medium-light skin tone
+158	U+1F645 U+1F3FD U+200D U+2640 U+FE0F	🙅🏽‍♀️	🙅🏽‍♀️	🙅🏽 ♀	woman gesturing NO: medium skin tone
+159	U+1F645 U+1F3FE U+200D U+2640 U+FE0F	🙅🏾‍♀️	🙅🏾‍♀️	🙅🏾 ♀	woman gesturing NO: medium-dark skin tone
+160	U+1F645 U+1F3FF U+200D U+2640 U+FE0F	🙅🏿‍♀️	🙅🏿‍♀️	🙅🏿 ♀	woman gesturing NO: dark skin tone
+161	U+1F646 U+200D U+2642 U+FE0F	🙆‍♂️	🙆‍♂️	🙆 ♂	man gesturing OK
+162	U+1F646 U+1F3FB U+200D U+2642 U+FE0F	🙆🏻‍♂️	🙆🏻‍♂️	🙆🏻 ♂	man gesturing OK: light skin tone
+163	U+1F646 U+1F3FC U+200D U+2642 U+FE0F	🙆🏼‍♂️	🙆🏼‍♂️	🙆🏼 ♂	man gesturing OK: medium-light skin tone
+164	U+1F646 U+1F3FD U+200D U+2642 U+FE0F	🙆🏽‍♂️	🙆🏽‍♂️	🙆🏽 ♂	man gesturing OK: medium skin tone
+165	U+1F646 U+1F3FE U+200D U+2642 U+FE0F	🙆🏾‍♂️	🙆🏾‍♂️	🙆🏾 ♂	man gesturing OK: medium-dark skin tone
+166	U+1F646 U+1F3FF U+200D U+2642 U+FE0F	🙆🏿‍♂️	🙆🏿‍♂️	🙆🏿 ♂	man gesturing OK: dark skin tone
+167	U+1F646 U+200D U+2640 U+FE0F	🙆‍♀️	🙆‍♀️	🙆 ♀	woman gesturing OK
+168	U+1F646 U+1F3FB U+200D U+2640 U+FE0F	🙆🏻‍♀️	🙆🏻‍♀️	🙆🏻 ♀	woman gesturing OK: light skin tone
+169	U+1F646 U+1F3FC U+200D U+2640 U+FE0F	🙆🏼‍♀️	🙆🏼‍♀️	🙆🏼 ♀	woman gesturing OK: medium-light skin tone
+170	U+1F646 U+1F3FD U+200D U+2640 U+FE0F	🙆🏽‍♀️	🙆🏽‍♀️	🙆🏽 ♀	woman gesturing OK: medium skin tone
+171	U+1F646 U+1F3FE U+200D U+2640 U+FE0F	🙆🏾‍♀️	🙆🏾‍♀️	🙆🏾 ♀	woman gesturing OK: medium-dark skin tone
+172	U+1F646 U+1F3FF U+200D U+2640 U+FE0F	🙆🏿‍♀️	🙆🏿‍♀️	🙆🏿 ♀	woman gesturing OK: dark skin tone
+173	U+1F481 U+200D U+2642 U+FE0F	💁‍♂️	💁‍♂️	💁 ♂	man tipping hand
+174	U+1F481 U+1F3FB U+200D U+2642 U+FE0F	💁🏻‍♂️	💁🏻‍♂️	💁🏻 ♂	man tipping hand: light skin tone
+175	U+1F481 U+1F3FC U+200D U+2642 U+FE0F	💁🏼‍♂️	💁🏼‍♂️	💁🏼 ♂	man tipping hand: medium-light skin tone
+176	U+1F481 U+1F3FD U+200D U+2642 U+FE0F	💁🏽‍♂️	💁🏽‍♂️	💁🏽 ♂	man tipping hand: medium skin tone
+177	U+1F481 U+1F3FE U+200D U+2642 U+FE0F	💁🏾‍♂️	💁🏾‍♂️	💁🏾 ♂	man tipping hand: medium-dark skin tone
+178	U+1F481 U+1F3FF U+200D U+2642 U+FE0F	💁🏿‍♂️	💁🏿‍♂️	💁🏿 ♂	man tipping hand: dark skin tone
+179	U+1F481 U+200D U+2640 U+FE0F	💁‍♀️	💁‍♀️	💁 ♀	woman tipping hand
+180	U+1F481 U+1F3FB U+200D U+2640 U+FE0F	💁🏻‍♀️	💁🏻‍♀️	💁🏻 ♀	woman tipping hand: light skin tone
+181	U+1F481 U+1F3FC U+200D U+2640 U+FE0F	💁🏼‍♀️	💁🏼‍♀️	💁🏼 ♀	woman tipping hand: medium-light skin tone
+182	U+1F481 U+1F3FD U+200D U+2640 U+FE0F	💁🏽‍♀️	💁🏽‍♀️	💁🏽 ♀	woman tipping hand: medium skin tone
+183	U+1F481 U+1F3FE U+200D U+2640 U+FE0F	💁🏾‍♀️	💁🏾‍♀️	💁🏾 ♀	woman tipping hand: medium-dark skin tone
+184	U+1F481 U+1F3FF U+200D U+2640 U+FE0F	💁🏿‍♀️	💁🏿‍♀️	💁🏿 ♀	woman tipping hand: dark skin tone
+185	U+1F64B U+200D U+2642 U+FE0F	🙋‍♂️	🙋‍♂️	🙋 ♂	man raising hand
+186	U+1F64B U+1F3FB U+200D U+2642 U+FE0F	🙋🏻‍♂️	🙋🏻‍♂️	🙋🏻 ♂	man raising hand: light skin tone
+187	U+1F64B U+1F3FC U+200D U+2642 U+FE0F	🙋🏼‍♂️	🙋🏼‍♂️	🙋🏼 ♂	man raising hand: medium-light skin tone
+188	U+1F64B U+1F3FD U+200D U+2642 U+FE0F	🙋🏽‍♂️	🙋🏽‍♂️	🙋🏽 ♂	man raising hand: medium skin tone
+189	U+1F64B U+1F3FE U+200D U+2642 U+FE0F	🙋🏾‍♂️	🙋🏾‍♂️	🙋🏾 ♂	man raising hand: medium-dark skin tone
+190	U+1F64B U+1F3FF U+200D U+2642 U+FE0F	🙋🏿‍♂️	🙋🏿‍♂️	🙋🏿 ♂	man raising hand: dark skin tone
+191	U+1F64B U+200D U+2640 U+FE0F	🙋‍♀️	🙋‍♀️	🙋 ♀	woman raising hand
+192	U+1F64B U+1F3FB U+200D U+2640 U+FE0F	🙋🏻‍♀️	🙋🏻‍♀️	🙋🏻 ♀	woman raising hand: light skin tone
+193	U+1F64B U+1F3FC U+200D U+2640 U+FE0F	🙋🏼‍♀️	🙋🏼‍♀️	🙋🏼 ♀	woman raising hand: medium-light skin tone
+194	U+1F64B U+1F3FD U+200D U+2640 U+FE0F	🙋🏽‍♀️	🙋🏽‍♀️	🙋🏽 ♀	woman raising hand: medium skin tone
+195	U+1F64B U+1F3FE U+200D U+2640 U+FE0F	🙋🏾‍♀️	🙋🏾‍♀️	🙋🏾 ♀	woman raising hand: medium-dark skin tone
+196	U+1F64B U+1F3FF U+200D U+2640 U+FE0F	🙋🏿‍♀️	🙋🏿‍♀️	🙋🏿 ♀	woman raising hand: dark skin tone
+197	U+1F9CF U+200D U+2642 U+FE0F	🧏‍♂️	🧏‍♂️	🧏 ♂	deaf man
+198	U+1F9CF U+1F3FB U+200D U+2642 U+FE0F	🧏🏻‍♂️	🧏🏻‍♂️	🧏🏻 ♂	deaf man: light skin tone
+199	U+1F9CF U+1F3FC U+200D U+2642 U+FE0F	🧏🏼‍♂️	🧏🏼‍♂️	🧏🏼 ♂	deaf man: medium-light skin tone
+200	U+1F9CF U+1F3FD U+200D U+2642 U+FE0F	🧏🏽‍♂️	🧏🏽‍♂️	🧏🏽 ♂	deaf man: medium skin tone
+201	U+1F9CF U+1F3FE U+200D U+2642 U+FE0F	🧏🏾‍♂️	🧏🏾‍♂️	🧏🏾 ♂	deaf man: medium-dark skin tone
+202	U+1F9CF U+1F3FF U+200D U+2642 U+FE0F	🧏🏿‍♂️	🧏🏿‍♂️	🧏🏿 ♂	deaf man: dark skin tone
+203	U+1F9CF U+200D U+2640 U+FE0F	🧏‍♀️	🧏‍♀️	🧏 ♀	deaf woman
+204	U+1F9CF U+1F3FB U+200D U+2640 U+FE0F	🧏🏻‍♀️	🧏🏻‍♀️	🧏🏻 ♀	deaf woman: light skin tone
+205	U+1F9CF U+1F3FC U+200D U+2640 U+FE0F	🧏🏼‍♀️	🧏🏼‍♀️	🧏🏼 ♀	deaf woman: medium-light skin tone
+206	U+1F9CF U+1F3FD U+200D U+2640 U+FE0F	🧏🏽‍♀️	🧏🏽‍♀️	🧏🏽 ♀	deaf woman: medium skin tone
+207	U+1F9CF U+1F3FE U+200D U+2640 U+FE0F	🧏🏾‍♀️	🧏🏾‍♀️	🧏🏾 ♀	deaf woman: medium-dark skin tone
+208	U+1F9CF U+1F3FF U+200D U+2640 U+FE0F	🧏🏿‍♀️	🧏🏿‍♀️	🧏🏿 ♀	deaf woman: dark skin tone
+209	U+1F647 U+200D U+2642 U+FE0F	🙇‍♂️	🙇‍♂️	🙇 ♂	man bowing
+210	U+1F647 U+1F3FB U+200D U+2642 U+FE0F	🙇🏻‍♂️	🙇🏻‍♂️	🙇🏻 ♂	man bowing: light skin tone
+211	U+1F647 U+1F3FC U+200D U+2642 U+FE0F	🙇🏼‍♂️	🙇🏼‍♂️	🙇🏼 ♂	man bowing: medium-light skin tone
+212	U+1F647 U+1F3FD U+200D U+2642 U+FE0F	🙇🏽‍♂️	🙇🏽‍♂️	🙇🏽 ♂	man bowing: medium skin tone
+213	U+1F647 U+1F3FE U+200D U+2642 U+FE0F	🙇🏾‍♂️	🙇🏾‍♂️	🙇🏾 ♂	man bowing: medium-dark skin tone
+214	U+1F647 U+1F3FF U+200D U+2642 U+FE0F	🙇🏿‍♂️	🙇🏿‍♂️	🙇🏿 ♂	man bowing: dark skin tone
+215	U+1F647 U+200D U+2640 U+FE0F	🙇‍♀️	🙇‍♀️	🙇 ♀	woman bowing
+216	U+1F647 U+1F3FB U+200D U+2640 U+FE0F	🙇🏻‍♀️	🙇🏻‍♀️	🙇🏻 ♀	woman bowing: light skin tone
+217	U+1F647 U+1F3FC U+200D U+2640 U+FE0F	🙇🏼‍♀️	🙇🏼‍♀️	🙇🏼 ♀	woman bowing: medium-light skin tone
+218	U+1F647 U+1F3FD U+200D U+2640 U+FE0F	🙇🏽‍♀️	🙇🏽‍♀️	🙇🏽 ♀	woman bowing: medium skin tone
+219	U+1F647 U+1F3FE U+200D U+2640 U+FE0F	🙇🏾‍♀️	🙇🏾‍♀️	🙇🏾 ♀	woman bowing: medium-dark skin tone
+220	U+1F647 U+1F3FF U+200D U+2640 U+FE0F	🙇🏿‍♀️	🙇🏿‍♀️	🙇🏿 ♀	woman bowing: dark skin tone
+221	U+1F926 U+200D U+2642 U+FE0F	🤦‍♂️	🤦‍♂️	🤦 ♂	man facepalming
+222	U+1F926 U+1F3FB U+200D U+2642 U+FE0F	🤦🏻‍♂️	🤦🏻‍♂️	🤦🏻 ♂	man facepalming: light skin tone
+223	U+1F926 U+1F3FC U+200D U+2642 U+FE0F	🤦🏼‍♂️	🤦🏼‍♂️	🤦🏼 ♂	man facepalming: medium-light skin tone
+224	U+1F926 U+1F3FD U+200D U+2642 U+FE0F	🤦🏽‍♂️	🤦🏽‍♂️	🤦🏽 ♂	man facepalming: medium skin tone
+225	U+1F926 U+1F3FE U+200D U+2642 U+FE0F	🤦🏾‍♂️	🤦🏾‍♂️	🤦🏾 ♂	man facepalming: medium-dark skin tone
+226	U+1F926 U+1F3FF U+200D U+2642 U+FE0F	🤦🏿‍♂️	🤦🏿‍♂️	🤦🏿 ♂	man facepalming: dark skin tone
+227	U+1F926 U+200D U+2640 U+FE0F	🤦‍♀️	🤦‍♀️	🤦 ♀	woman facepalming
+228	U+1F926 U+1F3FB U+200D U+2640 U+FE0F	🤦🏻‍♀️	🤦🏻‍♀️	🤦🏻 ♀	woman facepalming: light skin tone
+229	U+1F926 U+1F3FC U+200D U+2640 U+FE0F	🤦🏼‍♀️	🤦🏼‍♀️	🤦🏼 ♀	woman facepalming: medium-light skin tone
+230	U+1F926 U+1F3FD U+200D U+2640 U+FE0F	🤦🏽‍♀️	🤦🏽‍♀️	🤦🏽 ♀	woman facepalming: medium skin tone
+231	U+1F926 U+1F3FE U+200D U+2640 U+FE0F	🤦🏾‍♀️	🤦🏾‍♀️	🤦🏾 ♀	woman facepalming: medium-dark skin tone
+232	U+1F926 U+1F3FF U+200D U+2640 U+FE0F	🤦🏿‍♀️	🤦🏿‍♀️	🤦🏿 ♀	woman facepalming: dark skin tone
+233	U+1F937 U+200D U+2642 U+FE0F	🤷‍♂️	🤷‍♂️	🤷 ♂	man shrugging
+234	U+1F937 U+1F3FB U+200D U+2642 U+FE0F	🤷🏻‍♂️	🤷🏻‍♂️	🤷🏻 ♂	man shrugging: light skin tone
+235	U+1F937 U+1F3FC U+200D U+2642 U+FE0F	🤷🏼‍♂️	🤷🏼‍♂️	🤷🏼 ♂	man shrugging: medium-light skin tone
+236	U+1F937 U+1F3FD U+200D U+2642 U+FE0F	🤷🏽‍♂️	🤷🏽‍♂️	🤷🏽 ♂	man shrugging: medium skin tone
+237	U+1F937 U+1F3FE U+200D U+2642 U+FE0F	🤷🏾‍♂️	🤷🏾‍♂️	🤷🏾 ♂	man shrugging: medium-dark skin tone
+238	U+1F937 U+1F3FF U+200D U+2642 U+FE0F	🤷🏿‍♂️	🤷🏿‍♂️	🤷🏿 ♂	man shrugging: dark skin tone
+239	U+1F937 U+200D U+2640 U+FE0F	🤷‍♀️	🤷‍♀️	🤷 ♀	woman shrugging
+240	U+1F937 U+1F3FB U+200D U+2640 U+FE0F	🤷🏻‍♀️	🤷🏻‍♀️	🤷🏻 ♀	woman shrugging: light skin tone
+241	U+1F937 U+1F3FC U+200D U+2640 U+FE0F	🤷🏼‍♀️	🤷🏼‍♀️	🤷🏼 ♀	woman shrugging: medium-light skin tone
+242	U+1F937 U+1F3FD U+200D U+2640 U+FE0F	🤷🏽‍♀️	🤷🏽‍♀️	🤷🏽 ♀	woman shrugging: medium skin tone
+243	U+1F937 U+1F3FE U+200D U+2640 U+FE0F	🤷🏾‍♀️	🤷🏾‍♀️	🤷🏾 ♀	woman shrugging: medium-dark skin tone
+244	U+1F937 U+1F3FF U+200D U+2640 U+FE0F	🤷🏿‍♀️	🤷🏿‍♀️	🤷🏿 ♀	woman shrugging: dark skin tone
+245	U+1F9D1 U+200D U+2695 U+FE0F	🧑‍⚕️	🧑‍⚕️	🧑 ⚕	health worker
+246	U+1F9D1 U+1F3FB U+200D U+2695 U+FE0F	🧑🏻‍⚕️	🧑🏻‍⚕️	🧑🏻 ⚕	health worker: light skin tone
+247	U+1F9D1 U+1F3FC U+200D U+2695 U+FE0F	🧑🏼‍⚕️	🧑🏼‍⚕️	🧑🏼 ⚕	health worker: medium-light skin tone
+248	U+1F9D1 U+1F3FD U+200D U+2695 U+FE0F	🧑🏽‍⚕️	🧑🏽‍⚕️	🧑🏽 ⚕	health worker: medium skin tone
+249	U+1F9D1 U+1F3FE U+200D U+2695 U+FE0F	🧑🏾‍⚕️	🧑🏾‍⚕️	🧑🏾 ⚕	health worker: medium-dark skin tone
+250	U+1F9D1 U+1F3FF U+200D U+2695 U+FE0F	🧑🏿‍⚕️	🧑🏿‍⚕️	🧑🏿 ⚕	health worker: dark skin tone
+251	U+1F468 U+200D U+2695 U+FE0F	👨‍⚕️	👨‍⚕️	👨 ⚕	man health worker
+252	U+1F468 U+1F3FB U+200D U+2695 U+FE0F	👨🏻‍⚕️	👨🏻‍⚕️	👨🏻 ⚕	man health worker: light skin tone
+253	U+1F468 U+1F3FC U+200D U+2695 U+FE0F	👨🏼‍⚕️	👨🏼‍⚕️	👨🏼 ⚕	man health worker: medium-light skin tone
+254	U+1F468 U+1F3FD U+200D U+2695 U+FE0F	👨🏽‍⚕️	👨🏽‍⚕️	👨🏽 ⚕	man health worker: medium skin tone
+255	U+1F468 U+1F3FE U+200D U+2695 U+FE0F	👨🏾‍⚕️	👨🏾‍⚕️	👨🏾 ⚕	man health worker: medium-dark skin tone
+256	U+1F468 U+1F3FF U+200D U+2695 U+FE0F	👨🏿‍⚕️	👨🏿‍⚕️	👨🏿 ⚕	man health worker: dark skin tone
+257	U+1F469 U+200D U+2695 U+FE0F	👩‍⚕️	👩‍⚕️	👩 ⚕	woman health worker
+258	U+1F469 U+1F3FB U+200D U+2695 U+FE0F	👩🏻‍⚕️	👩🏻‍⚕️	👩🏻 ⚕	woman health worker: light skin tone
+259	U+1F469 U+1F3FC U+200D U+2695 U+FE0F	👩🏼‍⚕️	👩🏼‍⚕️	👩🏼 ⚕	woman health worker: medium-light skin tone
+260	U+1F469 U+1F3FD U+200D U+2695 U+FE0F	👩🏽‍⚕️	👩🏽‍⚕️	👩🏽 ⚕	woman health worker: medium skin tone
+261	U+1F469 U+1F3FE U+200D U+2695 U+FE0F	👩🏾‍⚕️	👩🏾‍⚕️	👩🏾 ⚕	woman health worker: medium-dark skin tone
+262	U+1F469 U+1F3FF U+200D U+2695 U+FE0F	👩🏿‍⚕️	👩🏿‍⚕️	👩🏿 ⚕	woman health worker: dark skin tone
+263	U+1F9D1 U+200D U+1F393	🧑‍🎓	🧑‍🎓	🧑 🎓	student
+264	U+1F9D1 U+1F3FB U+200D U+1F393	🧑🏻‍🎓	🧑🏻‍🎓	🧑🏻 🎓	student: light skin tone
+265	U+1F9D1 U+1F3FC U+200D U+1F393	🧑🏼‍🎓	🧑🏼‍🎓	🧑🏼 🎓	student: medium-light skin tone
+266	U+1F9D1 U+1F3FD U+200D U+1F393	🧑🏽‍🎓	🧑🏽‍🎓	🧑🏽 🎓	student: medium skin tone
+267	U+1F9D1 U+1F3FE U+200D U+1F393	🧑🏾‍🎓	🧑🏾‍🎓	🧑🏾 🎓	student: medium-dark skin tone
+268	U+1F9D1 U+1F3FF U+200D U+1F393	🧑🏿‍🎓	🧑🏿‍🎓	🧑🏿 🎓	student: dark skin tone
+269	U+1F468 U+200D U+1F393	👨‍🎓	👨‍🎓	👨 🎓	man student
+270	U+1F468 U+1F3FB U+200D U+1F393	👨🏻‍🎓	👨🏻‍🎓	👨🏻 🎓	man student: light skin tone
+271	U+1F468 U+1F3FC U+200D U+1F393	👨🏼‍🎓	👨🏼‍🎓	👨🏼 🎓	man student: medium-light skin tone
+272	U+1F468 U+1F3FD U+200D U+1F393	👨🏽‍🎓	👨🏽‍🎓	👨🏽 🎓	man student: medium skin tone
+273	U+1F468 U+1F3FE U+200D U+1F393	👨🏾‍🎓	👨🏾‍🎓	👨🏾 🎓	man student: medium-dark skin tone
+274	U+1F468 U+1F3FF U+200D U+1F393	👨🏿‍🎓	👨🏿‍🎓	👨🏿 🎓	man student: dark skin tone
+275	U+1F469 U+200D U+1F393	👩‍🎓	👩‍🎓	👩 🎓	woman student
+276	U+1F469 U+1F3FB U+200D U+1F393	👩🏻‍🎓	👩🏻‍🎓	👩🏻 🎓	woman student: light skin tone
+277	U+1F469 U+1F3FC U+200D U+1F393	👩🏼‍🎓	👩🏼‍🎓	👩🏼 🎓	woman student: medium-light skin tone
+278	U+1F469 U+1F3FD U+200D U+1F393	👩🏽‍🎓	👩🏽‍🎓	👩🏽 🎓	woman student: medium skin tone
+279	U+1F469 U+1F3FE U+200D U+1F393	👩🏾‍🎓	👩🏾‍🎓	👩🏾 🎓	woman student: medium-dark skin tone
+280	U+1F469 U+1F3FF U+200D U+1F393	👩🏿‍🎓	👩🏿‍🎓	👩🏿 🎓	woman student: dark skin tone
+281	U+1F9D1 U+200D U+1F3EB	🧑‍🏫	🧑‍🏫	🧑 🏫	teacher
+282	U+1F9D1 U+1F3FB U+200D U+1F3EB	🧑🏻‍🏫	🧑🏻‍🏫	🧑🏻 🏫	teacher: light skin tone
+283	U+1F9D1 U+1F3FC U+200D U+1F3EB	🧑🏼‍🏫	🧑🏼‍🏫	🧑🏼 🏫	teacher: medium-light skin tone
+284	U+1F9D1 U+1F3FD U+200D U+1F3EB	🧑🏽‍🏫	🧑🏽‍🏫	🧑🏽 🏫	teacher: medium skin tone
+285	U+1F9D1 U+1F3FE U+200D U+1F3EB	🧑🏾‍🏫	🧑🏾‍🏫	🧑🏾 🏫	teacher: medium-dark skin tone
+286	U+1F9D1 U+1F3FF U+200D U+1F3EB	🧑🏿‍🏫	🧑🏿‍🏫	🧑🏿 🏫	teacher: dark skin tone
+287	U+1F468 U+200D U+1F3EB	👨‍🏫	👨‍🏫	👨 🏫	man teacher
+288	U+1F468 U+1F3FB U+200D U+1F3EB	👨🏻‍🏫	👨🏻‍🏫	👨🏻 🏫	man teacher: light skin tone
+289	U+1F468 U+1F3FC U+200D U+1F3EB	👨🏼‍🏫	👨🏼‍🏫	👨🏼 🏫	man teacher: medium-light skin tone
+290	U+1F468 U+1F3FD U+200D U+1F3EB	👨🏽‍🏫	👨🏽‍🏫	👨🏽 🏫	man teacher: medium skin tone
+291	U+1F468 U+1F3FE U+200D U+1F3EB	👨🏾‍🏫	👨🏾‍🏫	👨🏾 🏫	man teacher: medium-dark skin tone
+292	U+1F468 U+1F3FF U+200D U+1F3EB	👨🏿‍🏫	👨🏿‍🏫	👨🏿 🏫	man teacher: dark skin tone
+293	U+1F469 U+200D U+1F3EB	👩‍🏫	👩‍🏫	👩 🏫	woman teacher
+294	U+1F469 U+1F3FB U+200D U+1F3EB	👩🏻‍🏫	👩🏻‍🏫	👩🏻 🏫	woman teacher: light skin tone
+295	U+1F469 U+1F3FC U+200D U+1F3EB	👩🏼‍🏫	👩🏼‍🏫	👩🏼 🏫	woman teacher: medium-light skin tone
+296	U+1F469 U+1F3FD U+200D U+1F3EB	👩🏽‍🏫	👩🏽‍🏫	👩🏽 🏫	woman teacher: medium skin tone
+297	U+1F469 U+1F3FE U+200D U+1F3EB	👩🏾‍🏫	👩🏾‍🏫	👩🏾 🏫	woman teacher: medium-dark skin tone
+298	U+1F469 U+1F3FF U+200D U+1F3EB	👩🏿‍🏫	👩🏿‍🏫	👩🏿 🏫	woman teacher: dark skin tone
+299	U+1F9D1 U+200D U+2696 U+FE0F	🧑‍⚖️	🧑‍⚖️	🧑 ⚖	judge
+300	U+1F9D1 U+1F3FB U+200D U+2696 U+FE0F	🧑🏻‍⚖️	🧑🏻‍⚖️	🧑🏻 ⚖	judge: light skin tone
+301	U+1F9D1 U+1F3FC U+200D U+2696 U+FE0F	🧑🏼‍⚖️	🧑🏼‍⚖️	🧑🏼 ⚖	judge: medium-light skin tone
+302	U+1F9D1 U+1F3FD U+200D U+2696 U+FE0F	🧑🏽‍⚖️	🧑🏽‍⚖️	🧑🏽 ⚖	judge: medium skin tone
+303	U+1F9D1 U+1F3FE U+200D U+2696 U+FE0F	🧑🏾‍⚖️	🧑🏾‍⚖️	🧑🏾 ⚖	judge: medium-dark skin tone
+304	U+1F9D1 U+1F3FF U+200D U+2696 U+FE0F	🧑🏿‍⚖️	🧑🏿‍⚖️	🧑🏿 ⚖	judge: dark skin tone
+305	U+1F468 U+200D U+2696 U+FE0F	👨‍⚖️	👨‍⚖️	👨 ⚖	man judge
+306	U+1F468 U+1F3FB U+200D U+2696 U+FE0F	👨🏻‍⚖️	👨🏻‍⚖️	👨🏻 ⚖	man judge: light skin tone
+307	U+1F468 U+1F3FC U+200D U+2696 U+FE0F	👨🏼‍⚖️	👨🏼‍⚖️	👨🏼 ⚖	man judge: medium-light skin tone
+308	U+1F468 U+1F3FD U+200D U+2696 U+FE0F	👨🏽‍⚖️	👨🏽‍⚖️	👨🏽 ⚖	man judge: medium skin tone
+309	U+1F468 U+1F3FE U+200D U+2696 U+FE0F	👨🏾‍⚖️	👨🏾‍⚖️	👨🏾 ⚖	man judge: medium-dark skin tone
+310	U+1F468 U+1F3FF U+200D U+2696 U+FE0F	👨🏿‍⚖️	👨🏿‍⚖️	👨🏿 ⚖	man judge: dark skin tone
+311	U+1F469 U+200D U+2696 U+FE0F	👩‍⚖️	👩‍⚖️	👩 ⚖	woman judge
+312	U+1F469 U+1F3FB U+200D U+2696 U+FE0F	👩🏻‍⚖️	👩🏻‍⚖️	👩🏻 ⚖	woman judge: light skin tone
+313	U+1F469 U+1F3FC U+200D U+2696 U+FE0F	👩🏼‍⚖️	👩🏼‍⚖️	👩🏼 ⚖	woman judge: medium-light skin tone
+314	U+1F469 U+1F3FD U+200D U+2696 U+FE0F	👩🏽‍⚖️	👩🏽‍⚖️	👩🏽 ⚖	woman judge: medium skin tone
+315	U+1F469 U+1F3FE U+200D U+2696 U+FE0F	👩🏾‍⚖️	👩🏾‍⚖️	👩🏾 ⚖	woman judge: medium-dark skin tone
+316	U+1F469 U+1F3FF U+200D U+2696 U+FE0F	👩🏿‍⚖️	👩🏿‍⚖️	👩🏿 ⚖	woman judge: dark skin tone
+317	U+1F9D1 U+200D U+1F33E	🧑‍🌾	🧑‍🌾	🧑 🌾	farmer
+318	U+1F9D1 U+1F3FB U+200D U+1F33E	🧑🏻‍🌾	🧑🏻‍🌾	🧑🏻 🌾	farmer: light skin tone
+319	U+1F9D1 U+1F3FC U+200D U+1F33E	🧑🏼‍🌾	🧑🏼‍🌾	🧑🏼 🌾	farmer: medium-light skin tone
+320	U+1F9D1 U+1F3FD U+200D U+1F33E	🧑🏽‍🌾	🧑🏽‍🌾	🧑🏽 🌾	farmer: medium skin tone
+321	U+1F9D1 U+1F3FE U+200D U+1F33E	🧑🏾‍🌾	🧑🏾‍🌾	🧑🏾 🌾	farmer: medium-dark skin tone
+322	U+1F9D1 U+1F3FF U+200D U+1F33E	🧑🏿‍🌾	🧑🏿‍🌾	🧑🏿 🌾	farmer: dark skin tone
+323	U+1F468 U+200D U+1F33E	👨‍🌾	👨‍🌾	👨 🌾	man farmer
+324	U+1F468 U+1F3FB U+200D U+1F33E	👨🏻‍🌾	👨🏻‍🌾	👨🏻 🌾	man farmer: light skin tone
+325	U+1F468 U+1F3FC U+200D U+1F33E	👨🏼‍🌾	👨🏼‍🌾	👨🏼 🌾	man farmer: medium-light skin tone
+326	U+1F468 U+1F3FD U+200D U+1F33E	👨🏽‍🌾	👨🏽‍🌾	👨🏽 🌾	man farmer: medium skin tone
+327	U+1F468 U+1F3FE U+200D U+1F33E	👨🏾‍🌾	👨🏾‍🌾	👨🏾 🌾	man farmer: medium-dark skin tone
+328	U+1F468 U+1F3FF U+200D U+1F33E	👨🏿‍🌾	👨🏿‍🌾	👨🏿 🌾	man farmer: dark skin tone
+329	U+1F469 U+200D U+1F33E	👩‍🌾	👩‍🌾	👩 🌾	woman farmer
+330	U+1F469 U+1F3FB U+200D U+1F33E	👩🏻‍🌾	👩🏻‍🌾	👩🏻 🌾	woman farmer: light skin tone
+331	U+1F469 U+1F3FC U+200D U+1F33E	👩🏼‍🌾	👩🏼‍🌾	👩🏼 🌾	woman farmer: medium-light skin tone
+332	U+1F469 U+1F3FD U+200D U+1F33E	👩🏽‍🌾	👩🏽‍🌾	👩🏽 🌾	woman farmer: medium skin tone
+333	U+1F469 U+1F3FE U+200D U+1F33E	👩🏾‍🌾	👩🏾‍🌾	👩🏾 🌾	woman farmer: medium-dark skin tone
+334	U+1F469 U+1F3FF U+200D U+1F33E	👩🏿‍🌾	👩🏿‍🌾	👩🏿 🌾	woman farmer: dark skin tone
+335	U+1F9D1 U+200D U+1F373	🧑‍🍳	🧑‍🍳	🧑 🍳	cook
+336	U+1F9D1 U+1F3FB U+200D U+1F373	🧑🏻‍🍳	🧑🏻‍🍳	🧑🏻 🍳	cook: light skin tone
+337	U+1F9D1 U+1F3FC U+200D U+1F373	🧑🏼‍🍳	🧑🏼‍🍳	🧑🏼 🍳	cook: medium-light skin tone
+338	U+1F9D1 U+1F3FD U+200D U+1F373	🧑🏽‍🍳	🧑🏽‍🍳	🧑🏽 🍳	cook: medium skin tone
+339	U+1F9D1 U+1F3FE U+200D U+1F373	🧑🏾‍🍳	🧑🏾‍🍳	🧑🏾 🍳	cook: medium-dark skin tone
+340	U+1F9D1 U+1F3FF U+200D U+1F373	🧑🏿‍🍳	🧑🏿‍🍳	🧑🏿 🍳	cook: dark skin tone
+341	U+1F468 U+200D U+1F373	👨‍🍳	👨‍🍳	👨 🍳	man cook
+342	U+1F468 U+1F3FB U+200D U+1F373	👨🏻‍🍳	👨🏻‍🍳	👨🏻 🍳	man cook: light skin tone
+343	U+1F468 U+1F3FC U+200D U+1F373	👨🏼‍🍳	👨🏼‍🍳	👨🏼 🍳	man cook: medium-light skin tone
+344	U+1F468 U+1F3FD U+200D U+1F373	👨🏽‍🍳	👨🏽‍🍳	👨🏽 🍳	man cook: medium skin tone
+345	U+1F468 U+1F3FE U+200D U+1F373	👨🏾‍🍳	👨🏾‍🍳	👨🏾 🍳	man cook: medium-dark skin tone
+346	U+1F468 U+1F3FF U+200D U+1F373	👨🏿‍🍳	👨🏿‍🍳	👨🏿 🍳	man cook: dark skin tone
+347	U+1F469 U+200D U+1F373	👩‍🍳	👩‍🍳	👩 🍳	woman cook
+348	U+1F469 U+1F3FB U+200D U+1F373	👩🏻‍🍳	👩🏻‍🍳	👩🏻 🍳	woman cook: light skin tone
+349	U+1F469 U+1F3FC U+200D U+1F373	👩🏼‍🍳	👩🏼‍🍳	👩🏼 🍳	woman cook: medium-light skin tone
+350	U+1F469 U+1F3FD U+200D U+1F373	👩🏽‍🍳	👩🏽‍🍳	👩🏽 🍳	woman cook: medium skin tone
+351	U+1F469 U+1F3FE U+200D U+1F373	👩🏾‍🍳	👩🏾‍🍳	👩🏾 🍳	woman cook: medium-dark skin tone
+352	U+1F469 U+1F3FF U+200D U+1F373	👩🏿‍🍳	👩🏿‍🍳	👩🏿 🍳	woman cook: dark skin tone
+353	U+1F9D1 U+200D U+1F527	🧑‍🔧	🧑‍🔧	🧑 🔧	mechanic
+354	U+1F9D1 U+1F3FB U+200D U+1F527	🧑🏻‍🔧	🧑🏻‍🔧	🧑🏻 🔧	mechanic: light skin tone
+355	U+1F9D1 U+1F3FC U+200D U+1F527	🧑🏼‍🔧	🧑🏼‍🔧	🧑🏼 🔧	mechanic: medium-light skin tone
+356	U+1F9D1 U+1F3FD U+200D U+1F527	🧑🏽‍🔧	🧑🏽‍🔧	🧑🏽 🔧	mechanic: medium skin tone
+357	U+1F9D1 U+1F3FE U+200D U+1F527	🧑🏾‍🔧	🧑🏾‍🔧	🧑🏾 🔧	mechanic: medium-dark skin tone
+358	U+1F9D1 U+1F3FF U+200D U+1F527	🧑🏿‍🔧	🧑🏿‍🔧	🧑🏿 🔧	mechanic: dark skin tone
+359	U+1F468 U+200D U+1F527	👨‍🔧	👨‍🔧	👨 🔧	man mechanic
+360	U+1F468 U+1F3FB U+200D U+1F527	👨🏻‍🔧	👨🏻‍🔧	👨🏻 🔧	man mechanic: light skin tone
+361	U+1F468 U+1F3FC U+200D U+1F527	👨🏼‍🔧	👨🏼‍🔧	👨🏼 🔧	man mechanic: medium-light skin tone
+362	U+1F468 U+1F3FD U+200D U+1F527	👨🏽‍🔧	👨🏽‍🔧	👨🏽 🔧	man mechanic: medium skin tone
+363	U+1F468 U+1F3FE U+200D U+1F527	👨🏾‍🔧	👨🏾‍🔧	👨🏾 🔧	man mechanic: medium-dark skin tone
+364	U+1F468 U+1F3FF U+200D U+1F527	👨🏿‍🔧	👨🏿‍🔧	👨🏿 🔧	man mechanic: dark skin tone
+365	U+1F469 U+200D U+1F527	👩‍🔧	👩‍🔧	👩 🔧	woman mechanic
+366	U+1F469 U+1F3FB U+200D U+1F527	👩🏻‍🔧	👩🏻‍🔧	👩🏻 🔧	woman mechanic: light skin tone
+367	U+1F469 U+1F3FC U+200D U+1F527	👩🏼‍🔧	👩🏼‍🔧	👩🏼 🔧	woman mechanic: medium-light skin tone
+368	U+1F469 U+1F3FD U+200D U+1F527	👩🏽‍🔧	👩🏽‍🔧	👩🏽 🔧	woman mechanic: medium skin tone
+369	U+1F469 U+1F3FE U+200D U+1F527	👩🏾‍🔧	👩🏾‍🔧	👩🏾 🔧	woman mechanic: medium-dark skin tone
+370	U+1F469 U+1F3FF U+200D U+1F527	👩🏿‍🔧	👩🏿‍🔧	👩🏿 🔧	woman mechanic: dark skin tone
+371	U+1F9D1 U+200D U+1F3ED	🧑‍🏭	🧑‍🏭	🧑 🏭	factory worker
+372	U+1F9D1 U+1F3FB U+200D U+1F3ED	🧑🏻‍🏭	🧑🏻‍🏭	🧑🏻 🏭	factory worker: light skin tone
+373	U+1F9D1 U+1F3FC U+200D U+1F3ED	🧑🏼‍🏭	🧑🏼‍🏭	🧑🏼 🏭	factory worker: medium-light skin tone
+374	U+1F9D1 U+1F3FD U+200D U+1F3ED	🧑🏽‍🏭	🧑🏽‍🏭	🧑🏽 🏭	factory worker: medium skin tone
+375	U+1F9D1 U+1F3FE U+200D U+1F3ED	🧑🏾‍🏭	🧑🏾‍🏭	🧑🏾 🏭	factory worker: medium-dark skin tone
+376	U+1F9D1 U+1F3FF U+200D U+1F3ED	🧑🏿‍🏭	🧑🏿‍🏭	🧑🏿 🏭	factory worker: dark skin tone
+377	U+1F468 U+200D U+1F3ED	👨‍🏭	👨‍🏭	👨 🏭	man factory worker
+378	U+1F468 U+1F3FB U+200D U+1F3ED	👨🏻‍🏭	👨🏻‍🏭	👨🏻 🏭	man factory worker: light skin tone
+379	U+1F468 U+1F3FC U+200D U+1F3ED	👨🏼‍🏭	👨🏼‍🏭	👨🏼 🏭	man factory worker: medium-light skin tone
+380	U+1F468 U+1F3FD U+200D U+1F3ED	👨🏽‍🏭	👨🏽‍🏭	👨🏽 🏭	man factory worker: medium skin tone
+381	U+1F468 U+1F3FE U+200D U+1F3ED	👨🏾‍🏭	👨🏾‍🏭	👨🏾 🏭	man factory worker: medium-dark skin tone
+382	U+1F468 U+1F3FF U+200D U+1F3ED	👨🏿‍🏭	👨🏿‍🏭	👨🏿 🏭	man factory worker: dark skin tone
+383	U+1F469 U+200D U+1F3ED	👩‍🏭	👩‍🏭	👩 🏭	woman factory worker
+384	U+1F469 U+1F3FB U+200D U+1F3ED	👩🏻‍🏭	👩🏻‍🏭	👩🏻 🏭	woman factory worker: light skin tone
+385	U+1F469 U+1F3FC U+200D U+1F3ED	👩🏼‍🏭	👩🏼‍🏭	👩🏼 🏭	woman factory worker: medium-light skin tone
+386	U+1F469 U+1F3FD U+200D U+1F3ED	👩🏽‍🏭	👩🏽‍🏭	👩🏽 🏭	woman factory worker: medium skin tone
+387	U+1F469 U+1F3FE U+200D U+1F3ED	👩🏾‍🏭	👩🏾‍🏭	👩🏾 🏭	woman factory worker: medium-dark skin tone
+388	U+1F469 U+1F3FF U+200D U+1F3ED	👩🏿‍🏭	👩🏿‍🏭	👩🏿 🏭	woman factory worker: dark skin tone
+389	U+1F9D1 U+200D U+1F4BC	🧑‍💼	🧑‍💼	🧑 💼	office worker
+390	U+1F9D1 U+1F3FB U+200D U+1F4BC	🧑🏻‍💼	🧑🏻‍💼	🧑🏻 💼	office worker: light skin tone
+391	U+1F9D1 U+1F3FC U+200D U+1F4BC	🧑🏼‍💼	🧑🏼‍💼	🧑🏼 💼	office worker: medium-light skin tone
+392	U+1F9D1 U+1F3FD U+200D U+1F4BC	🧑🏽‍💼	🧑🏽‍💼	🧑🏽 💼	office worker: medium skin tone
+393	U+1F9D1 U+1F3FE U+200D U+1F4BC	🧑🏾‍💼	🧑🏾‍💼	🧑🏾 💼	office worker: medium-dark skin tone
+394	U+1F9D1 U+1F3FF U+200D U+1F4BC	🧑🏿‍💼	🧑🏿‍💼	🧑🏿 💼	office worker: dark skin tone
+395	U+1F468 U+200D U+1F4BC	👨‍💼	👨‍💼	👨 💼	man office worker
+396	U+1F468 U+1F3FB U+200D U+1F4BC	👨🏻‍💼	👨🏻‍💼	👨🏻 💼	man office worker: light skin tone
+397	U+1F468 U+1F3FC U+200D U+1F4BC	👨🏼‍💼	👨🏼‍💼	👨🏼 💼	man office worker: medium-light skin tone
+398	U+1F468 U+1F3FD U+200D U+1F4BC	👨🏽‍💼	👨🏽‍💼	👨🏽 💼	man office worker: medium skin tone
+399	U+1F468 U+1F3FE U+200D U+1F4BC	👨🏾‍💼	👨🏾‍💼	👨🏾 💼	man office worker: medium-dark skin tone
+400	U+1F468 U+1F3FF U+200D U+1F4BC	👨🏿‍💼	👨🏿‍💼	👨🏿 💼	man office worker: dark skin tone
+401	U+1F469 U+200D U+1F4BC	👩‍💼	👩‍💼	👩 💼	woman office worker
+402	U+1F469 U+1F3FB U+200D U+1F4BC	👩🏻‍💼	👩🏻‍💼	👩🏻 💼	woman office worker: light skin tone
+403	U+1F469 U+1F3FC U+200D U+1F4BC	👩🏼‍💼	👩🏼‍💼	👩🏼 💼	woman office worker: medium-light skin tone
+404	U+1F469 U+1F3FD U+200D U+1F4BC	👩🏽‍💼	👩🏽‍💼	👩🏽 💼	woman office worker: medium skin tone
+405	U+1F469 U+1F3FE U+200D U+1F4BC	👩🏾‍💼	👩🏾‍💼	👩🏾 💼	woman office worker: medium-dark skin tone
+406	U+1F469 U+1F3FF U+200D U+1F4BC	👩🏿‍💼	👩🏿‍💼	👩🏿 💼	woman office worker: dark skin tone
+407	U+1F9D1 U+200D U+1F52C	🧑‍🔬	🧑‍🔬	🧑 🔬	scientist
+408	U+1F9D1 U+1F3FB U+200D U+1F52C	🧑🏻‍🔬	🧑🏻‍🔬	🧑🏻 🔬	scientist: light skin tone
+409	U+1F9D1 U+1F3FC U+200D U+1F52C	🧑🏼‍🔬	🧑🏼‍🔬	🧑🏼 🔬	scientist: medium-light skin tone
+410	U+1F9D1 U+1F3FD U+200D U+1F52C	🧑🏽‍🔬	🧑🏽‍🔬	🧑🏽 🔬	scientist: medium skin tone
+411	U+1F9D1 U+1F3FE U+200D U+1F52C	🧑🏾‍🔬	🧑🏾‍🔬	🧑🏾 🔬	scientist: medium-dark skin tone
+412	U+1F9D1 U+1F3FF U+200D U+1F52C	🧑🏿‍🔬	🧑🏿‍🔬	🧑🏿 🔬	scientist: dark skin tone
+413	U+1F468 U+200D U+1F52C	👨‍🔬	👨‍🔬	👨 🔬	man scientist
+414	U+1F468 U+1F3FB U+200D U+1F52C	👨🏻‍🔬	👨🏻‍🔬	👨🏻 🔬	man scientist: light skin tone
+415	U+1F468 U+1F3FC U+200D U+1F52C	👨🏼‍🔬	👨🏼‍🔬	👨🏼 🔬	man scientist: medium-light skin tone
+416	U+1F468 U+1F3FD U+200D U+1F52C	👨🏽‍🔬	👨🏽‍🔬	👨🏽 🔬	man scientist: medium skin tone
+417	U+1F468 U+1F3FE U+200D U+1F52C	👨🏾‍🔬	👨🏾‍🔬	👨🏾 🔬	man scientist: medium-dark skin tone
+418	U+1F468 U+1F3FF U+200D U+1F52C	👨🏿‍🔬	👨🏿‍🔬	👨🏿 🔬	man scientist: dark skin tone
+419	U+1F469 U+200D U+1F52C	👩‍🔬	👩‍🔬	👩 🔬	woman scientist
+420	U+1F469 U+1F3FB U+200D U+1F52C	👩🏻‍🔬	👩🏻‍🔬	👩🏻 🔬	woman scientist: light skin tone
+421	U+1F469 U+1F3FC U+200D U+1F52C	👩🏼‍🔬	👩🏼‍🔬	👩🏼 🔬	woman scientist: medium-light skin tone
+422	U+1F469 U+1F3FD U+200D U+1F52C	👩🏽‍🔬	👩🏽‍🔬	👩🏽 🔬	woman scientist: medium skin tone
+423	U+1F469 U+1F3FE U+200D U+1F52C	👩🏾‍🔬	👩🏾‍🔬	👩🏾 🔬	woman scientist: medium-dark skin tone
+424	U+1F469 U+1F3FF U+200D U+1F52C	👩🏿‍🔬	👩🏿‍🔬	👩🏿 🔬	woman scientist: dark skin tone
+425	U+1F9D1 U+200D U+1F4BB	🧑‍💻	🧑‍💻	🧑 💻	technologist
+426	U+1F9D1 U+1F3FB U+200D U+1F4BB	🧑🏻‍💻	🧑🏻‍💻	🧑🏻 💻	technologist: light skin tone
+427	U+1F9D1 U+1F3FC U+200D U+1F4BB	🧑🏼‍💻	🧑🏼‍💻	🧑🏼 💻	technologist: medium-light skin tone
+428	U+1F9D1 U+1F3FD U+200D U+1F4BB	🧑🏽‍💻	🧑🏽‍💻	🧑🏽 💻	technologist: medium skin tone
+429	U+1F9D1 U+1F3FE U+200D U+1F4BB	🧑🏾‍💻	🧑🏾‍💻	🧑🏾 💻	technologist: medium-dark skin tone
+430	U+1F9D1 U+1F3FF U+200D U+1F4BB	🧑🏿‍💻	🧑🏿‍💻	🧑🏿 💻	technologist: dark skin tone
+431	U+1F468 U+200D U+1F4BB	👨‍💻	👨‍💻	👨 💻	man technologist
+432	U+1F468 U+1F3FB U+200D U+1F4BB	👨🏻‍💻	👨🏻‍💻	👨🏻 💻	man technologist: light skin tone
+433	U+1F468 U+1F3FC U+200D U+1F4BB	👨🏼‍💻	👨🏼‍💻	👨🏼 💻	man technologist: medium-light skin tone
+434	U+1F468 U+1F3FD U+200D U+1F4BB	👨🏽‍💻	👨🏽‍💻	👨🏽 💻	man technologist: medium skin tone
+435	U+1F468 U+1F3FE U+200D U+1F4BB	👨🏾‍💻	👨🏾‍💻	👨🏾 💻	man technologist: medium-dark skin tone
+436	U+1F468 U+1F3FF U+200D U+1F4BB	👨🏿‍💻	👨🏿‍💻	👨🏿 💻	man technologist: dark skin tone
+437	U+1F469 U+200D U+1F4BB	👩‍💻	👩‍💻	👩 💻	woman technologist
+438	U+1F469 U+1F3FB U+200D U+1F4BB	👩🏻‍💻	👩🏻‍💻	👩🏻 💻	woman technologist: light skin tone
+439	U+1F469 U+1F3FC U+200D U+1F4BB	👩🏼‍💻	👩🏼‍💻	👩🏼 💻	woman technologist: medium-light skin tone
+440	U+1F469 U+1F3FD U+200D U+1F4BB	👩🏽‍💻	👩🏽‍💻	👩🏽 💻	woman technologist: medium skin tone
+441	U+1F469 U+1F3FE U+200D U+1F4BB	👩🏾‍💻	👩🏾‍💻	👩🏾 💻	woman technologist: medium-dark skin tone
+442	U+1F469 U+1F3FF U+200D U+1F4BB	👩🏿‍💻	👩🏿‍💻	👩🏿 💻	woman technologist: dark skin tone
+443	U+1F9D1 U+200D U+1F3A4	🧑‍🎤	🧑‍🎤	🧑 🎤	singer
+444	U+1F9D1 U+1F3FB U+200D U+1F3A4	🧑🏻‍🎤	🧑🏻‍🎤	🧑🏻 🎤	singer: light skin tone
+445	U+1F9D1 U+1F3FC U+200D U+1F3A4	🧑🏼‍🎤	🧑🏼‍🎤	🧑🏼 🎤	singer: medium-light skin tone
+446	U+1F9D1 U+1F3FD U+200D U+1F3A4	🧑🏽‍🎤	🧑🏽‍🎤	🧑🏽 🎤	singer: medium skin tone
+447	U+1F9D1 U+1F3FE U+200D U+1F3A4	🧑🏾‍🎤	🧑🏾‍🎤	🧑🏾 🎤	singer: medium-dark skin tone
+448	U+1F9D1 U+1F3FF U+200D U+1F3A4	🧑🏿‍🎤	🧑🏿‍🎤	🧑🏿 🎤	singer: dark skin tone
+449	U+1F468 U+200D U+1F3A4	👨‍🎤	👨‍🎤	👨 🎤	man singer
+450	U+1F468 U+1F3FB U+200D U+1F3A4	👨🏻‍🎤	👨🏻‍🎤	👨🏻 🎤	man singer: light skin tone
+451	U+1F468 U+1F3FC U+200D U+1F3A4	👨🏼‍🎤	👨🏼‍🎤	👨🏼 🎤	man singer: medium-light skin tone
+452	U+1F468 U+1F3FD U+200D U+1F3A4	👨🏽‍🎤	👨🏽‍🎤	👨🏽 🎤	man singer: medium skin tone
+453	U+1F468 U+1F3FE U+200D U+1F3A4	👨🏾‍🎤	👨🏾‍🎤	👨🏾 🎤	man singer: medium-dark skin tone
+454	U+1F468 U+1F3FF U+200D U+1F3A4	👨🏿‍🎤	👨🏿‍🎤	👨🏿 🎤	man singer: dark skin tone
+455	U+1F469 U+200D U+1F3A4	👩‍🎤	👩‍🎤	👩 🎤	woman singer
+456	U+1F469 U+1F3FB U+200D U+1F3A4	👩🏻‍🎤	👩🏻‍🎤	👩🏻 🎤	woman singer: light skin tone
+457	U+1F469 U+1F3FC U+200D U+1F3A4	👩🏼‍🎤	👩🏼‍🎤	👩🏼 🎤	woman singer: medium-light skin tone
+458	U+1F469 U+1F3FD U+200D U+1F3A4	👩🏽‍🎤	👩🏽‍🎤	👩🏽 🎤	woman singer: medium skin tone
+459	U+1F469 U+1F3FE U+200D U+1F3A4	👩🏾‍🎤	👩🏾‍🎤	👩🏾 🎤	woman singer: medium-dark skin tone
+460	U+1F469 U+1F3FF U+200D U+1F3A4	👩🏿‍🎤	👩🏿‍🎤	👩🏿 🎤	woman singer: dark skin tone
+461	U+1F9D1 U+200D U+1F3A8	🧑‍🎨	🧑‍🎨	🧑 🎨	artist
+462	U+1F9D1 U+1F3FB U+200D U+1F3A8	🧑🏻‍🎨	🧑🏻‍🎨	🧑🏻 🎨	artist: light skin tone
+463	U+1F9D1 U+1F3FC U+200D U+1F3A8	🧑🏼‍🎨	🧑🏼‍🎨	🧑🏼 🎨	artist: medium-light skin tone
+464	U+1F9D1 U+1F3FD U+200D U+1F3A8	🧑🏽‍🎨	🧑🏽‍🎨	🧑🏽 🎨	artist: medium skin tone
+465	U+1F9D1 U+1F3FE U+200D U+1F3A8	🧑🏾‍🎨	🧑🏾‍🎨	🧑🏾 🎨	artist: medium-dark skin tone
+466	U+1F9D1 U+1F3FF U+200D U+1F3A8	🧑🏿‍🎨	🧑🏿‍🎨	🧑🏿 🎨	artist: dark skin tone
+467	U+1F468 U+200D U+1F3A8	👨‍🎨	👨‍🎨	👨 🎨	man artist
+468	U+1F468 U+1F3FB U+200D U+1F3A8	👨🏻‍🎨	👨🏻‍🎨	👨🏻 🎨	man artist: light skin tone
+469	U+1F468 U+1F3FC U+200D U+1F3A8	👨🏼‍🎨	👨🏼‍🎨	👨🏼 🎨	man artist: medium-light skin tone
+470	U+1F468 U+1F3FD U+200D U+1F3A8	👨🏽‍🎨	👨🏽‍🎨	👨🏽 🎨	man artist: medium skin tone
+471	U+1F468 U+1F3FE U+200D U+1F3A8	👨🏾‍🎨	👨🏾‍🎨	👨🏾 🎨	man artist: medium-dark skin tone
+472	U+1F468 U+1F3FF U+200D U+1F3A8	👨🏿‍🎨	👨🏿‍🎨	👨🏿 🎨	man artist: dark skin tone
+473	U+1F469 U+200D U+1F3A8	👩‍🎨	👩‍🎨	👩 🎨	woman artist
+474	U+1F469 U+1F3FB U+200D U+1F3A8	👩🏻‍🎨	👩🏻‍🎨	👩🏻 🎨	woman artist: light skin tone
+475	U+1F469 U+1F3FC U+200D U+1F3A8	👩🏼‍🎨	👩🏼‍🎨	👩🏼 🎨	woman artist: medium-light skin tone
+476	U+1F469 U+1F3FD U+200D U+1F3A8	👩🏽‍🎨	👩🏽‍🎨	👩🏽 🎨	woman artist: medium skin tone
+477	U+1F469 U+1F3FE U+200D U+1F3A8	👩🏾‍🎨	👩🏾‍🎨	👩🏾 🎨	woman artist: medium-dark skin tone
+478	U+1F469 U+1F3FF U+200D U+1F3A8	👩🏿‍🎨	👩🏿‍🎨	👩🏿 🎨	woman artist: dark skin tone
+479	U+1F9D1 U+200D U+2708 U+FE0F	🧑‍✈️	🧑‍✈️	🧑 ✈	pilot
+480	U+1F9D1 U+1F3FB U+200D U+2708 U+FE0F	🧑🏻‍✈️	🧑🏻‍✈️	🧑🏻 ✈	pilot: light skin tone
+481	U+1F9D1 U+1F3FC U+200D U+2708 U+FE0F	🧑🏼‍✈️	🧑🏼‍✈️	🧑🏼 ✈	pilot: medium-light skin tone
+482	U+1F9D1 U+1F3FD U+200D U+2708 U+FE0F	🧑🏽‍✈️	🧑🏽‍✈️	🧑🏽 ✈	pilot: medium skin tone
+483	U+1F9D1 U+1F3FE U+200D U+2708 U+FE0F	🧑🏾‍✈️	🧑🏾‍✈️	🧑🏾 ✈	pilot: medium-dark skin tone
+484	U+1F9D1 U+1F3FF U+200D U+2708 U+FE0F	🧑🏿‍✈️	🧑🏿‍✈️	🧑🏿 ✈	pilot: dark skin tone
+485	U+1F468 U+200D U+2708 U+FE0F	👨‍✈️	👨‍✈️	👨 ✈	man pilot
+486	U+1F468 U+1F3FB U+200D U+2708 U+FE0F	👨🏻‍✈️	👨🏻‍✈️	👨🏻 ✈	man pilot: light skin tone
+487	U+1F468 U+1F3FC U+200D U+2708 U+FE0F	👨🏼‍✈️	👨🏼‍✈️	👨🏼 ✈	man pilot: medium-light skin tone
+488	U+1F468 U+1F3FD U+200D U+2708 U+FE0F	👨🏽‍✈️	👨🏽‍✈️	👨🏽 ✈	man pilot: medium skin tone
+489	U+1F468 U+1F3FE U+200D U+2708 U+FE0F	👨🏾‍✈️	👨🏾‍✈️	👨🏾 ✈	man pilot: medium-dark skin tone
+490	U+1F468 U+1F3FF U+200D U+2708 U+FE0F	👨🏿‍✈️	👨🏿‍✈️	👨🏿 ✈	man pilot: dark skin tone
+491	U+1F469 U+200D U+2708 U+FE0F	👩‍✈️	👩‍✈️	👩 ✈	woman pilot
+492	U+1F469 U+1F3FB U+200D U+2708 U+FE0F	👩🏻‍✈️	👩🏻‍✈️	👩🏻 ✈	woman pilot: light skin tone
+493	U+1F469 U+1F3FC U+200D U+2708 U+FE0F	👩🏼‍✈️	👩🏼‍✈️	👩🏼 ✈	woman pilot: medium-light skin tone
+494	U+1F469 U+1F3FD U+200D U+2708 U+FE0F	👩🏽‍✈️	👩🏽‍✈️	👩🏽 ✈	woman pilot: medium skin tone
+495	U+1F469 U+1F3FE U+200D U+2708 U+FE0F	👩🏾‍✈️	👩🏾‍✈️	👩🏾 ✈	woman pilot: medium-dark skin tone
+496	U+1F469 U+1F3FF U+200D U+2708 U+FE0F	👩🏿‍✈️	👩🏿‍✈️	👩🏿 ✈	woman pilot: dark skin tone
+497	U+1F9D1 U+200D U+1F680	🧑‍🚀	🧑‍🚀	🧑 🚀	astronaut
+498	U+1F9D1 U+1F3FB U+200D U+1F680	🧑🏻‍🚀	🧑🏻‍🚀	🧑🏻 🚀	astronaut: light skin tone
+499	U+1F9D1 U+1F3FC U+200D U+1F680	🧑🏼‍🚀	🧑🏼‍🚀	🧑🏼 🚀	astronaut: medium-light skin tone
+500	U+1F9D1 U+1F3FD U+200D U+1F680	🧑🏽‍🚀	🧑🏽‍🚀	🧑🏽 🚀	astronaut: medium skin tone
+501	U+1F9D1 U+1F3FE U+200D U+1F680	🧑🏾‍🚀	🧑🏾‍🚀	🧑🏾 🚀	astronaut: medium-dark skin tone
+502	U+1F9D1 U+1F3FF U+200D U+1F680	🧑🏿‍🚀	🧑🏿‍🚀	🧑🏿 🚀	astronaut: dark skin tone
+503	U+1F468 U+200D U+1F680	👨‍🚀	👨‍🚀	👨 🚀	man astronaut
+504	U+1F468 U+1F3FB U+200D U+1F680	👨🏻‍🚀	👨🏻‍🚀	👨🏻 🚀	man astronaut: light skin tone
+505	U+1F468 U+1F3FC U+200D U+1F680	👨🏼‍🚀	👨🏼‍🚀	👨🏼 🚀	man astronaut: medium-light skin tone
+506	U+1F468 U+1F3FD U+200D U+1F680	👨🏽‍🚀	👨🏽‍🚀	👨🏽 🚀	man astronaut: medium skin tone
+507	U+1F468 U+1F3FE U+200D U+1F680	👨🏾‍🚀	👨🏾‍🚀	👨🏾 🚀	man astronaut: medium-dark skin tone
+508	U+1F468 U+1F3FF U+200D U+1F680	👨🏿‍🚀	👨🏿‍🚀	👨🏿 🚀	man astronaut: dark skin tone
+509	U+1F469 U+200D U+1F680	👩‍🚀	👩‍🚀	👩 🚀	woman astronaut
+510	U+1F469 U+1F3FB U+200D U+1F680	👩🏻‍🚀	👩🏻‍🚀	👩🏻 🚀	woman astronaut: light skin tone
+511	U+1F469 U+1F3FC U+200D U+1F680	👩🏼‍🚀	👩🏼‍🚀	👩🏼 🚀	woman astronaut: medium-light skin tone
+512	U+1F469 U+1F3FD U+200D U+1F680	👩🏽‍🚀	👩🏽‍🚀	👩🏽 🚀	woman astronaut: medium skin tone
+513	U+1F469 U+1F3FE U+200D U+1F680	👩🏾‍🚀	👩🏾‍🚀	👩🏾 🚀	woman astronaut: medium-dark skin tone
+514	U+1F469 U+1F3FF U+200D U+1F680	👩🏿‍🚀	👩🏿‍🚀	👩🏿 🚀	woman astronaut: dark skin tone
+515	U+1F9D1 U+200D U+1F692	🧑‍🚒	🧑‍🚒	🧑 🚒	firefighter
+516	U+1F9D1 U+1F3FB U+200D U+1F692	🧑🏻‍🚒	🧑🏻‍🚒	🧑🏻 🚒	firefighter: light skin tone
+517	U+1F9D1 U+1F3FC U+200D U+1F692	🧑🏼‍🚒	🧑🏼‍🚒	🧑🏼 🚒	firefighter: medium-light skin tone
+518	U+1F9D1 U+1F3FD U+200D U+1F692	🧑🏽‍🚒	🧑🏽‍🚒	🧑🏽 🚒	firefighter: medium skin tone
+519	U+1F9D1 U+1F3FE U+200D U+1F692	🧑🏾‍🚒	🧑🏾‍🚒	🧑🏾 🚒	firefighter: medium-dark skin tone
+520	U+1F9D1 U+1F3FF U+200D U+1F692	🧑🏿‍🚒	🧑🏿‍🚒	🧑🏿 🚒	firefighter: dark skin tone
+521	U+1F468 U+200D U+1F692	👨‍🚒	👨‍🚒	👨 🚒	man firefighter
+522	U+1F468 U+1F3FB U+200D U+1F692	👨🏻‍🚒	👨🏻‍🚒	👨🏻 🚒	man firefighter: light skin tone
+523	U+1F468 U+1F3FC U+200D U+1F692	👨🏼‍🚒	👨🏼‍🚒	👨🏼 🚒	man firefighter: medium-light skin tone
+524	U+1F468 U+1F3FD U+200D U+1F692	👨🏽‍🚒	👨🏽‍🚒	👨🏽 🚒	man firefighter: medium skin tone
+525	U+1F468 U+1F3FE U+200D U+1F692	👨🏾‍🚒	👨🏾‍🚒	👨🏾 🚒	man firefighter: medium-dark skin tone
+526	U+1F468 U+1F3FF U+200D U+1F692	👨🏿‍🚒	👨🏿‍🚒	👨🏿 🚒	man firefighter: dark skin tone
+527	U+1F469 U+200D U+1F692	👩‍🚒	👩‍🚒	👩 🚒	woman firefighter
+528	U+1F469 U+1F3FB U+200D U+1F692	👩🏻‍🚒	👩🏻‍🚒	👩🏻 🚒	woman firefighter: light skin tone
+529	U+1F469 U+1F3FC U+200D U+1F692	👩🏼‍🚒	👩🏼‍🚒	👩🏼 🚒	woman firefighter: medium-light skin tone
+530	U+1F469 U+1F3FD U+200D U+1F692	👩🏽‍🚒	👩🏽‍🚒	👩🏽 🚒	woman firefighter: medium skin tone
+531	U+1F469 U+1F3FE U+200D U+1F692	👩🏾‍🚒	👩🏾‍🚒	👩🏾 🚒	woman firefighter: medium-dark skin tone
+532	U+1F469 U+1F3FF U+200D U+1F692	👩🏿‍🚒	👩🏿‍🚒	👩🏿 🚒	woman firefighter: dark skin tone
+533	U+1F46E U+200D U+2642 U+FE0F	👮‍♂️	👮‍♂️	👮 ♂	man police officer
+534	U+1F46E U+1F3FB U+200D U+2642 U+FE0F	👮🏻‍♂️	👮🏻‍♂️	👮🏻 ♂	man police officer: light skin tone
+535	U+1F46E U+1F3FC U+200D U+2642 U+FE0F	👮🏼‍♂️	👮🏼‍♂️	👮🏼 ♂	man police officer: medium-light skin tone
+536	U+1F46E U+1F3FD U+200D U+2642 U+FE0F	👮🏽‍♂️	👮🏽‍♂️	👮🏽 ♂	man police officer: medium skin tone
+537	U+1F46E U+1F3FE U+200D U+2642 U+FE0F	👮🏾‍♂️	👮🏾‍♂️	👮🏾 ♂	man police officer: medium-dark skin tone
+538	U+1F46E U+1F3FF U+200D U+2642 U+FE0F	👮🏿‍♂️	👮🏿‍♂️	👮🏿 ♂	man police officer: dark skin tone
+539	U+1F46E U+200D U+2640 U+FE0F	👮‍♀️	👮‍♀️	👮 ♀	woman police officer
+540	U+1F46E U+1F3FB U+200D U+2640 U+FE0F	👮🏻‍♀️	👮🏻‍♀️	👮🏻 ♀	woman police officer: light skin tone
+541	U+1F46E U+1F3FC U+200D U+2640 U+FE0F	👮🏼‍♀️	👮🏼‍♀️	👮🏼 ♀	woman police officer: medium-light skin tone
+542	U+1F46E U+1F3FD U+200D U+2640 U+FE0F	👮🏽‍♀️	👮🏽‍♀️	👮🏽 ♀	woman police officer: medium skin tone
+543	U+1F46E U+1F3FE U+200D U+2640 U+FE0F	👮🏾‍♀️	👮🏾‍♀️	👮🏾 ♀	woman police officer: medium-dark skin tone
+544	U+1F46E U+1F3FF U+200D U+2640 U+FE0F	👮🏿‍♀️	👮🏿‍♀️	👮🏿 ♀	woman police officer: dark skin tone
+545	U+1F575 U+FE0F U+200D U+2642 U+FE0F	🕵️‍♂️	🕵️‍♂️	🕵 ♂	man detective
+546	U+1F575 U+1F3FB U+200D U+2642 U+FE0F	🕵🏻‍♂️	🕵🏻‍♂️	🕵🏻 ♂	man detective: light skin tone
+547	U+1F575 U+1F3FC U+200D U+2642 U+FE0F	🕵🏼‍♂️	🕵🏼‍♂️	🕵🏼 ♂	man detective: medium-light skin tone
+548	U+1F575 U+1F3FD U+200D U+2642 U+FE0F	🕵🏽‍♂️	🕵🏽‍♂️	🕵🏽 ♂	man detective: medium skin tone
+549	U+1F575 U+1F3FE U+200D U+2642 U+FE0F	🕵🏾‍♂️	🕵🏾‍♂️	🕵🏾 ♂	man detective: medium-dark skin tone
+550	U+1F575 U+1F3FF U+200D U+2642 U+FE0F	🕵🏿‍♂️	🕵🏿‍♂️	🕵🏿 ♂	man detective: dark skin tone
+551	U+1F575 U+FE0F U+200D U+2640 U+FE0F	🕵️‍♀️	🕵️‍♀️	🕵 ♀	woman detective
+552	U+1F575 U+1F3FB U+200D U+2640 U+FE0F	🕵🏻‍♀️	🕵🏻‍♀️	🕵🏻 ♀	woman detective: light skin tone
+553	U+1F575 U+1F3FC U+200D U+2640 U+FE0F	🕵🏼‍♀️	🕵🏼‍♀️	🕵🏼 ♀	woman detective: medium-light skin tone
+554	U+1F575 U+1F3FD U+200D U+2640 U+FE0F	🕵🏽‍♀️	🕵🏽‍♀️	🕵🏽 ♀	woman detective: medium skin tone
+555	U+1F575 U+1F3FE U+200D U+2640 U+FE0F	🕵🏾‍♀️	🕵🏾‍♀️	🕵🏾 ♀	woman detective: medium-dark skin tone
+556	U+1F575 U+1F3FF U+200D U+2640 U+FE0F	🕵🏿‍♀️	🕵🏿‍♀️	🕵🏿 ♀	woman detective: dark skin tone
+557	U+1F482 U+200D U+2642 U+FE0F	💂‍♂️	💂‍♂️	💂 ♂	man guard
+558	U+1F482 U+1F3FB U+200D U+2642 U+FE0F	💂🏻‍♂️	💂🏻‍♂️	💂🏻 ♂	man guard: light skin tone
+559	U+1F482 U+1F3FC U+200D U+2642 U+FE0F	💂🏼‍♂️	💂🏼‍♂️	💂🏼 ♂	man guard: medium-light skin tone
+560	U+1F482 U+1F3FD U+200D U+2642 U+FE0F	💂🏽‍♂️	💂🏽‍♂️	💂🏽 ♂	man guard: medium skin tone
+561	U+1F482 U+1F3FE U+200D U+2642 U+FE0F	💂🏾‍♂️	💂🏾‍♂️	💂🏾 ♂	man guard: medium-dark skin tone
+562	U+1F482 U+1F3FF U+200D U+2642 U+FE0F	💂🏿‍♂️	💂🏿‍♂️	💂🏿 ♂	man guard: dark skin tone
+563	U+1F482 U+200D U+2640 U+FE0F	💂‍♀️	💂‍♀️	💂 ♀	woman guard
+564	U+1F482 U+1F3FB U+200D U+2640 U+FE0F	💂🏻‍♀️	💂🏻‍♀️	💂🏻 ♀	woman guard: light skin tone
+565	U+1F482 U+1F3FC U+200D U+2640 U+FE0F	💂🏼‍♀️	💂🏼‍♀️	💂🏼 ♀	woman guard: medium-light skin tone
+566	U+1F482 U+1F3FD U+200D U+2640 U+FE0F	💂🏽‍♀️	💂🏽‍♀️	💂🏽 ♀	woman guard: medium skin tone
+567	U+1F482 U+1F3FE U+200D U+2640 U+FE0F	💂🏾‍♀️	💂🏾‍♀️	💂🏾 ♀	woman guard: medium-dark skin tone
+568	U+1F482 U+1F3FF U+200D U+2640 U+FE0F	💂🏿‍♀️	💂🏿‍♀️	💂🏿 ♀	woman guard: dark skin tone
+569	U+1F477 U+200D U+2642 U+FE0F	👷‍♂️	👷‍♂️	👷 ♂	man construction worker
+570	U+1F477 U+1F3FB U+200D U+2642 U+FE0F	👷🏻‍♂️	👷🏻‍♂️	👷🏻 ♂	man construction worker: light skin tone
+571	U+1F477 U+1F3FC U+200D U+2642 U+FE0F	👷🏼‍♂️	👷🏼‍♂️	👷🏼 ♂	man construction worker: medium-light skin tone
+572	U+1F477 U+1F3FD U+200D U+2642 U+FE0F	👷🏽‍♂️	👷🏽‍♂️	👷🏽 ♂	man construction worker: medium skin tone
+573	U+1F477 U+1F3FE U+200D U+2642 U+FE0F	👷🏾‍♂️	👷🏾‍♂️	👷🏾 ♂	man construction worker: medium-dark skin tone
+574	U+1F477 U+1F3FF U+200D U+2642 U+FE0F	👷🏿‍♂️	👷🏿‍♂️	👷🏿 ♂	man construction worker: dark skin tone
+575	U+1F477 U+200D U+2640 U+FE0F	👷‍♀️	👷‍♀️	👷 ♀	woman construction worker
+576	U+1F477 U+1F3FB U+200D U+2640 U+FE0F	👷🏻‍♀️	👷🏻‍♀️	👷🏻 ♀	woman construction worker: light skin tone
+577	U+1F477 U+1F3FC U+200D U+2640 U+FE0F	👷🏼‍♀️	👷🏼‍♀️	👷🏼 ♀	woman construction worker: medium-light skin tone
+578	U+1F477 U+1F3FD U+200D U+2640 U+FE0F	👷🏽‍♀️	👷🏽‍♀️	👷🏽 ♀	woman construction worker: medium skin tone
+579	U+1F477 U+1F3FE U+200D U+2640 U+FE0F	👷🏾‍♀️	👷🏾‍♀️	👷🏾 ♀	woman construction worker: medium-dark skin tone
+580	U+1F477 U+1F3FF U+200D U+2640 U+FE0F	👷🏿‍♀️	👷🏿‍♀️	👷🏿 ♀	woman construction worker: dark skin tone
+581	U+1F473 U+200D U+2642 U+FE0F	👳‍♂️	👳‍♂️	👳 ♂	man wearing turban
+582	U+1F473 U+1F3FB U+200D U+2642 U+FE0F	👳🏻‍♂️	👳🏻‍♂️	👳🏻 ♂	man wearing turban: light skin tone
+583	U+1F473 U+1F3FC U+200D U+2642 U+FE0F	👳🏼‍♂️	👳🏼‍♂️	👳🏼 ♂	man wearing turban: medium-light skin tone
+584	U+1F473 U+1F3FD U+200D U+2642 U+FE0F	👳🏽‍♂️	👳🏽‍♂️	👳🏽 ♂	man wearing turban: medium skin tone
+585	U+1F473 U+1F3FE U+200D U+2642 U+FE0F	👳🏾‍♂️	👳🏾‍♂️	👳🏾 ♂	man wearing turban: medium-dark skin tone
+586	U+1F473 U+1F3FF U+200D U+2642 U+FE0F	👳🏿‍♂️	👳🏿‍♂️	👳🏿 ♂	man wearing turban: dark skin tone
+587	U+1F473 U+200D U+2640 U+FE0F	👳‍♀️	👳‍♀️	👳 ♀	woman wearing turban
+588	U+1F473 U+1F3FB U+200D U+2640 U+FE0F	👳🏻‍♀️	👳🏻‍♀️	👳🏻 ♀	woman wearing turban: light skin tone
+589	U+1F473 U+1F3FC U+200D U+2640 U+FE0F	👳🏼‍♀️	👳🏼‍♀️	👳🏼 ♀	woman wearing turban: medium-light skin tone
+590	U+1F473 U+1F3FD U+200D U+2640 U+FE0F	👳🏽‍♀️	👳🏽‍♀️	👳🏽 ♀	woman wearing turban: medium skin tone
+591	U+1F473 U+1F3FE U+200D U+2640 U+FE0F	👳🏾‍♀️	👳🏾‍♀️	👳🏾 ♀	woman wearing turban: medium-dark skin tone
+592	U+1F473 U+1F3FF U+200D U+2640 U+FE0F	👳🏿‍♀️	👳🏿‍♀️	👳🏿 ♀	woman wearing turban: dark skin tone
+593	U+1F935 U+200D U+2642 U+FE0F	🤵‍♂️	🤵‍♂️	🤵 ♂	man in tuxedo
+594	U+1F935 U+1F3FB U+200D U+2642 U+FE0F	🤵🏻‍♂️	🤵🏻‍♂️	🤵🏻 ♂	man in tuxedo: light skin tone
+595	U+1F935 U+1F3FC U+200D U+2642 U+FE0F	🤵🏼‍♂️	🤵🏼‍♂️	🤵🏼 ♂	man in tuxedo: medium-light skin tone
+596	U+1F935 U+1F3FD U+200D U+2642 U+FE0F	🤵🏽‍♂️	🤵🏽‍♂️	🤵🏽 ♂	man in tuxedo: medium skin tone
+597	U+1F935 U+1F3FE U+200D U+2642 U+FE0F	🤵🏾‍♂️	🤵🏾‍♂️	🤵🏾 ♂	man in tuxedo: medium-dark skin tone
+598	U+1F935 U+1F3FF U+200D U+2642 U+FE0F	🤵🏿‍♂️	🤵🏿‍♂️	🤵🏿 ♂	man in tuxedo: dark skin tone
+599	U+1F935 U+200D U+2640 U+FE0F	🤵‍♀️	🤵‍♀️	🤵 ♀	woman in tuxedo
+600	U+1F935 U+1F3FB U+200D U+2640 U+FE0F	🤵🏻‍♀️	🤵🏻‍♀️	🤵🏻 ♀	woman in tuxedo: light skin tone
+601	U+1F935 U+1F3FC U+200D U+2640 U+FE0F	🤵🏼‍♀️	🤵🏼‍♀️	🤵🏼 ♀	woman in tuxedo: medium-light skin tone
+602	U+1F935 U+1F3FD U+200D U+2640 U+FE0F	🤵🏽‍♀️	🤵🏽‍♀️	🤵🏽 ♀	woman in tuxedo: medium skin tone
+603	U+1F935 U+1F3FE U+200D U+2640 U+FE0F	🤵🏾‍♀️	🤵🏾‍♀️	🤵🏾 ♀	woman in tuxedo: medium-dark skin tone
+604	U+1F935 U+1F3FF U+200D U+2640 U+FE0F	🤵🏿‍♀️	🤵🏿‍♀️	🤵🏿 ♀	woman in tuxedo: dark skin tone
+605	U+1F470 U+200D U+2642 U+FE0F	👰‍♂️	👰‍♂️	👰 ♂	man with veil
+606	U+1F470 U+1F3FB U+200D U+2642 U+FE0F	👰🏻‍♂️	👰🏻‍♂️	👰🏻 ♂	man with veil: light skin tone
+607	U+1F470 U+1F3FC U+200D U+2642 U+FE0F	👰🏼‍♂️	👰🏼‍♂️	👰🏼 ♂	man with veil: medium-light skin tone
+608	U+1F470 U+1F3FD U+200D U+2642 U+FE0F	👰🏽‍♂️	👰🏽‍♂️	👰🏽 ♂	man with veil: medium skin tone
+609	U+1F470 U+1F3FE U+200D U+2642 U+FE0F	👰🏾‍♂️	👰🏾‍♂️	👰🏾 ♂	man with veil: medium-dark skin tone
+610	U+1F470 U+1F3FF U+200D U+2642 U+FE0F	👰🏿‍♂️	👰🏿‍♂️	👰🏿 ♂	man with veil: dark skin tone
+611	U+1F470 U+200D U+2640 U+FE0F	👰‍♀️	👰‍♀️	👰 ♀	woman with veil
+612	U+1F470 U+1F3FB U+200D U+2640 U+FE0F	👰🏻‍♀️	👰🏻‍♀️	👰🏻 ♀	woman with veil: light skin tone
+613	U+1F470 U+1F3FC U+200D U+2640 U+FE0F	👰🏼‍♀️	👰🏼‍♀️	👰🏼 ♀	woman with veil: medium-light skin tone
+614	U+1F470 U+1F3FD U+200D U+2640 U+FE0F	👰🏽‍♀️	👰🏽‍♀️	👰🏽 ♀	woman with veil: medium skin tone
+615	U+1F470 U+1F3FE U+200D U+2640 U+FE0F	👰🏾‍♀️	👰🏾‍♀️	👰🏾 ♀	woman with veil: medium-dark skin tone
+616	U+1F470 U+1F3FF U+200D U+2640 U+FE0F	👰🏿‍♀️	👰🏿‍♀️	👰🏿 ♀	woman with veil: dark skin tone
+617	U+1F469 U+200D U+1F37C	👩‍🍼	👩‍🍼	👩 🍼	woman feeding baby
+618	U+1F469 U+1F3FB U+200D U+1F37C	👩🏻‍🍼	👩🏻‍🍼	👩🏻 🍼	woman feeding baby: light skin tone
+619	U+1F469 U+1F3FC U+200D U+1F37C	👩🏼‍🍼	👩🏼‍🍼	👩🏼 🍼	woman feeding baby: medium-light skin tone
+620	U+1F469 U+1F3FD U+200D U+1F37C	👩🏽‍🍼	👩🏽‍🍼	👩🏽 🍼	woman feeding baby: medium skin tone
+621	U+1F469 U+1F3FE U+200D U+1F37C	👩🏾‍🍼	👩🏾‍🍼	👩🏾 🍼	woman feeding baby: medium-dark skin tone
+622	U+1F469 U+1F3FF U+200D U+1F37C	👩🏿‍🍼	👩🏿‍🍼	👩🏿 🍼	woman feeding baby: dark skin tone
+623	U+1F468 U+200D U+1F37C	👨‍🍼	👨‍🍼	👨 🍼	man feeding baby
+624	U+1F468 U+1F3FB U+200D U+1F37C	👨🏻‍🍼	👨🏻‍🍼	👨🏻 🍼	man feeding baby: light skin tone
+625	U+1F468 U+1F3FC U+200D U+1F37C	👨🏼‍🍼	👨🏼‍🍼	👨🏼 🍼	man feeding baby: medium-light skin tone
+626	U+1F468 U+1F3FD U+200D U+1F37C	👨🏽‍🍼	👨🏽‍🍼	👨🏽 🍼	man feeding baby: medium skin tone
+627	U+1F468 U+1F3FE U+200D U+1F37C	👨🏾‍🍼	👨🏾‍🍼	👨🏾 🍼	man feeding baby: medium-dark skin tone
+628	U+1F468 U+1F3FF U+200D U+1F37C	👨🏿‍🍼	👨🏿‍🍼	👨🏿 🍼	man feeding baby: dark skin tone
+629	U+1F9D1 U+200D U+1F37C	🧑‍🍼	🧑‍🍼	🧑 🍼	person feeding baby
+630	U+1F9D1 U+1F3FB U+200D U+1F37C	🧑🏻‍🍼	🧑🏻‍🍼	🧑🏻 🍼	person feeding baby: light skin tone
+631	U+1F9D1 U+1F3FC U+200D U+1F37C	🧑🏼‍🍼	🧑🏼‍🍼	🧑🏼 🍼	person feeding baby: medium-light skin tone
+632	U+1F9D1 U+1F3FD U+200D U+1F37C	🧑🏽‍🍼	🧑🏽‍🍼	🧑🏽 🍼	person feeding baby: medium skin tone
+633	U+1F9D1 U+1F3FE U+200D U+1F37C	🧑🏾‍🍼	🧑🏾‍🍼	🧑🏾 🍼	person feeding baby: medium-dark skin tone
+634	U+1F9D1 U+1F3FF U+200D U+1F37C	🧑🏿‍🍼	🧑🏿‍🍼	🧑🏿 🍼	person feeding baby: dark skin tone
+635	U+1F9D1 U+200D U+1F384	🧑‍🎄	🧑‍🎄	🧑 🎄	Mx Claus
+636	U+1F9D1 U+1F3FB U+200D U+1F384	🧑🏻‍🎄	🧑🏻‍🎄	🧑🏻 🎄	Mx Claus: light skin tone
+637	U+1F9D1 U+1F3FC U+200D U+1F384	🧑🏼‍🎄	🧑🏼‍🎄	🧑🏼 🎄	Mx Claus: medium-light skin tone
+638	U+1F9D1 U+1F3FD U+200D U+1F384	🧑🏽‍🎄	🧑🏽‍🎄	🧑🏽 🎄	Mx Claus: medium skin tone
+639	U+1F9D1 U+1F3FE U+200D U+1F384	🧑🏾‍🎄	🧑🏾‍🎄	🧑🏾 🎄	Mx Claus: medium-dark skin tone
+640	U+1F9D1 U+1F3FF U+200D U+1F384	🧑🏿‍🎄	🧑🏿‍🎄	🧑🏿 🎄	Mx Claus: dark skin tone
+641	U+1F9B8 U+200D U+2642 U+FE0F	🦸‍♂️	🦸‍♂️	🦸 ♂	man superhero
+642	U+1F9B8 U+1F3FB U+200D U+2642 U+FE0F	🦸🏻‍♂️	🦸🏻‍♂️	🦸🏻 ♂	man superhero: light skin tone
+643	U+1F9B8 U+1F3FC U+200D U+2642 U+FE0F	🦸🏼‍♂️	🦸🏼‍♂️	🦸🏼 ♂	man superhero: medium-light skin tone
+644	U+1F9B8 U+1F3FD U+200D U+2642 U+FE0F	🦸🏽‍♂️	🦸🏽‍♂️	🦸🏽 ♂	man superhero: medium skin tone
+645	U+1F9B8 U+1F3FE U+200D U+2642 U+FE0F	🦸🏾‍♂️	🦸🏾‍♂️	🦸🏾 ♂	man superhero: medium-dark skin tone
+646	U+1F9B8 U+1F3FF U+200D U+2642 U+FE0F	🦸🏿‍♂️	🦸🏿‍♂️	🦸🏿 ♂	man superhero: dark skin tone
+647	U+1F9B8 U+200D U+2640 U+FE0F	🦸‍♀️	🦸‍♀️	🦸 ♀	woman superhero
+648	U+1F9B8 U+1F3FB U+200D U+2640 U+FE0F	🦸🏻‍♀️	🦸🏻‍♀️	🦸🏻 ♀	woman superhero: light skin tone
+649	U+1F9B8 U+1F3FC U+200D U+2640 U+FE0F	🦸🏼‍♀️	🦸🏼‍♀️	🦸🏼 ♀	woman superhero: medium-light skin tone
+650	U+1F9B8 U+1F3FD U+200D U+2640 U+FE0F	🦸🏽‍♀️	🦸🏽‍♀️	🦸🏽 ♀	woman superhero: medium skin tone
+651	U+1F9B8 U+1F3FE U+200D U+2640 U+FE0F	🦸🏾‍♀️	🦸🏾‍♀️	🦸🏾 ♀	woman superhero: medium-dark skin tone
+652	U+1F9B8 U+1F3FF U+200D U+2640 U+FE0F	🦸🏿‍♀️	🦸🏿‍♀️	🦸🏿 ♀	woman superhero: dark skin tone
+653	U+1F9B9 U+200D U+2642 U+FE0F	🦹‍♂️	🦹‍♂️	🦹 ♂	man supervillain
+654	U+1F9B9 U+1F3FB U+200D U+2642 U+FE0F	🦹🏻‍♂️	🦹🏻‍♂️	🦹🏻 ♂	man supervillain: light skin tone
+655	U+1F9B9 U+1F3FC U+200D U+2642 U+FE0F	🦹🏼‍♂️	🦹🏼‍♂️	🦹🏼 ♂	man supervillain: medium-light skin tone
+656	U+1F9B9 U+1F3FD U+200D U+2642 U+FE0F	🦹🏽‍♂️	🦹🏽‍♂️	🦹🏽 ♂	man supervillain: medium skin tone
+657	U+1F9B9 U+1F3FE U+200D U+2642 U+FE0F	🦹🏾‍♂️	🦹🏾‍♂️	🦹🏾 ♂	man supervillain: medium-dark skin tone
+658	U+1F9B9 U+1F3FF U+200D U+2642 U+FE0F	🦹🏿‍♂️	🦹🏿‍♂️	🦹🏿 ♂	man supervillain: dark skin tone
+659	U+1F9B9 U+200D U+2640 U+FE0F	🦹‍♀️	🦹‍♀️	🦹 ♀	woman supervillain
+660	U+1F9B9 U+1F3FB U+200D U+2640 U+FE0F	🦹🏻‍♀️	🦹🏻‍♀️	🦹🏻 ♀	woman supervillain: light skin tone
+661	U+1F9B9 U+1F3FC U+200D U+2640 U+FE0F	🦹🏼‍♀️	🦹🏼‍♀️	🦹🏼 ♀	woman supervillain: medium-light skin tone
+662	U+1F9B9 U+1F3FD U+200D U+2640 U+FE0F	🦹🏽‍♀️	🦹🏽‍♀️	🦹🏽 ♀	woman supervillain: medium skin tone
+663	U+1F9B9 U+1F3FE U+200D U+2640 U+FE0F	🦹🏾‍♀️	🦹🏾‍♀️	🦹🏾 ♀	woman supervillain: medium-dark skin tone
+664	U+1F9B9 U+1F3FF U+200D U+2640 U+FE0F	🦹🏿‍♀️	🦹🏿‍♀️	🦹🏿 ♀	woman supervillain: dark skin tone
+665	U+1F9D9 U+200D U+2642 U+FE0F	🧙‍♂️	🧙‍♂️	🧙 ♂	man mage
+666	U+1F9D9 U+1F3FB U+200D U+2642 U+FE0F	🧙🏻‍♂️	🧙🏻‍♂️	🧙🏻 ♂	man mage: light skin tone
+667	U+1F9D9 U+1F3FC U+200D U+2642 U+FE0F	🧙🏼‍♂️	🧙🏼‍♂️	🧙🏼 ♂	man mage: medium-light skin tone
+668	U+1F9D9 U+1F3FD U+200D U+2642 U+FE0F	🧙🏽‍♂️	🧙🏽‍♂️	🧙🏽 ♂	man mage: medium skin tone
+669	U+1F9D9 U+1F3FE U+200D U+2642 U+FE0F	🧙🏾‍♂️	🧙🏾‍♂️	🧙🏾 ♂	man mage: medium-dark skin tone
+670	U+1F9D9 U+1F3FF U+200D U+2642 U+FE0F	🧙🏿‍♂️	🧙🏿‍♂️	🧙🏿 ♂	man mage: dark skin tone
+671	U+1F9D9 U+200D U+2640 U+FE0F	🧙‍♀️	🧙‍♀️	🧙 ♀	woman mage
+672	U+1F9D9 U+1F3FB U+200D U+2640 U+FE0F	🧙🏻‍♀️	🧙🏻‍♀️	🧙🏻 ♀	woman mage: light skin tone
+673	U+1F9D9 U+1F3FC U+200D U+2640 U+FE0F	🧙🏼‍♀️	🧙🏼‍♀️	🧙🏼 ♀	woman mage: medium-light skin tone
+674	U+1F9D9 U+1F3FD U+200D U+2640 U+FE0F	🧙🏽‍♀️	🧙🏽‍♀️	🧙🏽 ♀	woman mage: medium skin tone
+675	U+1F9D9 U+1F3FE U+200D U+2640 U+FE0F	🧙🏾‍♀️	🧙🏾‍♀️	🧙🏾 ♀	woman mage: medium-dark skin tone
+676	U+1F9D9 U+1F3FF U+200D U+2640 U+FE0F	🧙🏿‍♀️	🧙🏿‍♀️	🧙🏿 ♀	woman mage: dark skin tone
+677	U+1F9DA U+200D U+2642 U+FE0F	🧚‍♂️	🧚‍♂️	🧚 ♂	man fairy
+678	U+1F9DA U+1F3FB U+200D U+2642 U+FE0F	🧚🏻‍♂️	🧚🏻‍♂️	🧚🏻 ♂	man fairy: light skin tone
+679	U+1F9DA U+1F3FC U+200D U+2642 U+FE0F	🧚🏼‍♂️	🧚🏼‍♂️	🧚🏼 ♂	man fairy: medium-light skin tone
+680	U+1F9DA U+1F3FD U+200D U+2642 U+FE0F	🧚🏽‍♂️	🧚🏽‍♂️	🧚🏽 ♂	man fairy: medium skin tone
+681	U+1F9DA U+1F3FE U+200D U+2642 U+FE0F	🧚🏾‍♂️	🧚🏾‍♂️	🧚🏾 ♂	man fairy: medium-dark skin tone
+682	U+1F9DA U+1F3FF U+200D U+2642 U+FE0F	🧚🏿‍♂️	🧚🏿‍♂️	🧚🏿 ♂	man fairy: dark skin tone
+683	U+1F9DA U+200D U+2640 U+FE0F	🧚‍♀️	🧚‍♀️	🧚 ♀	woman fairy
+684	U+1F9DA U+1F3FB U+200D U+2640 U+FE0F	🧚🏻‍♀️	🧚🏻‍♀️	🧚🏻 ♀	woman fairy: light skin tone
+685	U+1F9DA U+1F3FC U+200D U+2640 U+FE0F	🧚🏼‍♀️	🧚🏼‍♀️	🧚🏼 ♀	woman fairy: medium-light skin tone
+686	U+1F9DA U+1F3FD U+200D U+2640 U+FE0F	🧚🏽‍♀️	🧚🏽‍♀️	🧚🏽 ♀	woman fairy: medium skin tone
+687	U+1F9DA U+1F3FE U+200D U+2640 U+FE0F	🧚🏾‍♀️	🧚🏾‍♀️	🧚🏾 ♀	woman fairy: medium-dark skin tone
+688	U+1F9DA U+1F3FF U+200D U+2640 U+FE0F	🧚🏿‍♀️	🧚🏿‍♀️	🧚🏿 ♀	woman fairy: dark skin tone
+689	U+1F9DB U+200D U+2642 U+FE0F	🧛‍♂️	🧛‍♂️	🧛 ♂	man vampire
+690	U+1F9DB U+1F3FB U+200D U+2642 U+FE0F	🧛🏻‍♂️	🧛🏻‍♂️	🧛🏻 ♂	man vampire: light skin tone
+691	U+1F9DB U+1F3FC U+200D U+2642 U+FE0F	🧛🏼‍♂️	🧛🏼‍♂️	🧛🏼 ♂	man vampire: medium-light skin tone
+692	U+1F9DB U+1F3FD U+200D U+2642 U+FE0F	🧛🏽‍♂️	🧛🏽‍♂️	🧛🏽 ♂	man vampire: medium skin tone
+693	U+1F9DB U+1F3FE U+200D U+2642 U+FE0F	🧛🏾‍♂️	🧛🏾‍♂️	🧛🏾 ♂	man vampire: medium-dark skin tone
+694	U+1F9DB U+1F3FF U+200D U+2642 U+FE0F	🧛🏿‍♂️	🧛🏿‍♂️	🧛🏿 ♂	man vampire: dark skin tone
+695	U+1F9DB U+200D U+2640 U+FE0F	🧛‍♀️	🧛‍♀️	🧛 ♀	woman vampire
+696	U+1F9DB U+1F3FB U+200D U+2640 U+FE0F	🧛🏻‍♀️	🧛🏻‍♀️	🧛🏻 ♀	woman vampire: light skin tone
+697	U+1F9DB U+1F3FC U+200D U+2640 U+FE0F	🧛🏼‍♀️	🧛🏼‍♀️	🧛🏼 ♀	woman vampire: medium-light skin tone
+698	U+1F9DB U+1F3FD U+200D U+2640 U+FE0F	🧛🏽‍♀️	🧛🏽‍♀️	🧛🏽 ♀	woman vampire: medium skin tone
+699	U+1F9DB U+1F3FE U+200D U+2640 U+FE0F	🧛🏾‍♀️	🧛🏾‍♀️	🧛🏾 ♀	woman vampire: medium-dark skin tone
+700	U+1F9DB U+1F3FF U+200D U+2640 U+FE0F	🧛🏿‍♀️	🧛🏿‍♀️	🧛🏿 ♀	woman vampire: dark skin tone
+701	U+1F9DC U+200D U+2642 U+FE0F	🧜‍♂️	🧜‍♂️	🧜 ♂	merman
+702	U+1F9DC U+1F3FB U+200D U+2642 U+FE0F	🧜🏻‍♂️	🧜🏻‍♂️	🧜🏻 ♂	merman: light skin tone
+703	U+1F9DC U+1F3FC U+200D U+2642 U+FE0F	🧜🏼‍♂️	🧜🏼‍♂️	🧜🏼 ♂	merman: medium-light skin tone
+704	U+1F9DC U+1F3FD U+200D U+2642 U+FE0F	🧜🏽‍♂️	🧜🏽‍♂️	🧜🏽 ♂	merman: medium skin tone
+705	U+1F9DC U+1F3FE U+200D U+2642 U+FE0F	🧜🏾‍♂️	🧜🏾‍♂️	🧜🏾 ♂	merman: medium-dark skin tone
+706	U+1F9DC U+1F3FF U+200D U+2642 U+FE0F	🧜🏿‍♂️	🧜🏿‍♂️	🧜🏿 ♂	merman: dark skin tone
+707	U+1F9DC U+200D U+2640 U+FE0F	🧜‍♀️	🧜‍♀️	🧜 ♀	mermaid
+708	U+1F9DC U+1F3FB U+200D U+2640 U+FE0F	🧜🏻‍♀️	🧜🏻‍♀️	🧜🏻 ♀	mermaid: light skin tone
+709	U+1F9DC U+1F3FC U+200D U+2640 U+FE0F	🧜🏼‍♀️	🧜🏼‍♀️	🧜🏼 ♀	mermaid: medium-light skin tone
+710	U+1F9DC U+1F3FD U+200D U+2640 U+FE0F	🧜🏽‍♀️	🧜🏽‍♀️	🧜🏽 ♀	mermaid: medium skin tone
+711	U+1F9DC U+1F3FE U+200D U+2640 U+FE0F	🧜🏾‍♀️	🧜🏾‍♀️	🧜🏾 ♀	mermaid: medium-dark skin tone
+712	U+1F9DC U+1F3FF U+200D U+2640 U+FE0F	🧜🏿‍♀️	🧜🏿‍♀️	🧜🏿 ♀	mermaid: dark skin tone
+713	U+1F9DD U+200D U+2642 U+FE0F	🧝‍♂️	🧝‍♂️	🧝 ♂	man elf
+714	U+1F9DD U+1F3FB U+200D U+2642 U+FE0F	🧝🏻‍♂️	🧝🏻‍♂️	🧝🏻 ♂	man elf: light skin tone
+715	U+1F9DD U+1F3FC U+200D U+2642 U+FE0F	🧝🏼‍♂️	🧝🏼‍♂️	🧝🏼 ♂	man elf: medium-light skin tone
+716	U+1F9DD U+1F3FD U+200D U+2642 U+FE0F	🧝🏽‍♂️	🧝🏽‍♂️	🧝🏽 ♂	man elf: medium skin tone
+717	U+1F9DD U+1F3FE U+200D U+2642 U+FE0F	🧝🏾‍♂️	🧝🏾‍♂️	🧝🏾 ♂	man elf: medium-dark skin tone
+718	U+1F9DD U+1F3FF U+200D U+2642 U+FE0F	🧝🏿‍♂️	🧝🏿‍♂️	🧝🏿 ♂	man elf: dark skin tone
+719	U+1F9DD U+200D U+2640 U+FE0F	🧝‍♀️	🧝‍♀️	🧝 ♀	woman elf
+720	U+1F9DD U+1F3FB U+200D U+2640 U+FE0F	🧝🏻‍♀️	🧝🏻‍♀️	🧝🏻 ♀	woman elf: light skin tone
+721	U+1F9DD U+1F3FC U+200D U+2640 U+FE0F	🧝🏼‍♀️	🧝🏼‍♀️	🧝🏼 ♀	woman elf: medium-light skin tone
+722	U+1F9DD U+1F3FD U+200D U+2640 U+FE0F	🧝🏽‍♀️	🧝🏽‍♀️	🧝🏽 ♀	woman elf: medium skin tone
+723	U+1F9DD U+1F3FE U+200D U+2640 U+FE0F	🧝🏾‍♀️	🧝🏾‍♀️	🧝🏾 ♀	woman elf: medium-dark skin tone
+724	U+1F9DD U+1F3FF U+200D U+2640 U+FE0F	🧝🏿‍♀️	🧝🏿‍♀️	🧝🏿 ♀	woman elf: dark skin tone
+725	U+1F9DE U+200D U+2642 U+FE0F	🧞‍♂️	🧞‍♂️	🧞 ♂	man genie
+726	U+1F9DE U+200D U+2640 U+FE0F	🧞‍♀️	🧞‍♀️	🧞 ♀	woman genie
+727	U+1F9DF U+200D U+2642 U+FE0F	🧟‍♂️	🧟‍♂️	🧟 ♂	man zombie
+728	U+1F9DF U+200D U+2640 U+FE0F	🧟‍♀️	🧟‍♀️	🧟 ♀	woman zombie
+729	U+1F486 U+200D U+2642 U+FE0F	💆‍♂️	💆‍♂️	💆 ♂	man getting massage
+730	U+1F486 U+1F3FB U+200D U+2642 U+FE0F	💆🏻‍♂️	💆🏻‍♂️	💆🏻 ♂	man getting massage: light skin tone
+731	U+1F486 U+1F3FC U+200D U+2642 U+FE0F	💆🏼‍♂️	💆🏼‍♂️	💆🏼 ♂	man getting massage: medium-light skin tone
+732	U+1F486 U+1F3FD U+200D U+2642 U+FE0F	💆🏽‍♂️	💆🏽‍♂️	💆🏽 ♂	man getting massage: medium skin tone
+733	U+1F486 U+1F3FE U+200D U+2642 U+FE0F	💆🏾‍♂️	💆🏾‍♂️	💆🏾 ♂	man getting massage: medium-dark skin tone
+734	U+1F486 U+1F3FF U+200D U+2642 U+FE0F	💆🏿‍♂️	💆🏿‍♂️	💆🏿 ♂	man getting massage: dark skin tone
+735	U+1F486 U+200D U+2640 U+FE0F	💆‍♀️	💆‍♀️	💆 ♀	woman getting massage
+736	U+1F486 U+1F3FB U+200D U+2640 U+FE0F	💆🏻‍♀️	💆🏻‍♀️	💆🏻 ♀	woman getting massage: light skin tone
+737	U+1F486 U+1F3FC U+200D U+2640 U+FE0F	💆🏼‍♀️	💆🏼‍♀️	💆🏼 ♀	woman getting massage: medium-light skin tone
+738	U+1F486 U+1F3FD U+200D U+2640 U+FE0F	💆🏽‍♀️	💆🏽‍♀️	💆🏽 ♀	woman getting massage: medium skin tone
+739	U+1F486 U+1F3FE U+200D U+2640 U+FE0F	💆🏾‍♀️	💆🏾‍♀️	💆🏾 ♀	woman getting massage: medium-dark skin tone
+740	U+1F486 U+1F3FF U+200D U+2640 U+FE0F	💆🏿‍♀️	💆🏿‍♀️	💆🏿 ♀	woman getting massage: dark skin tone
+741	U+1F487 U+200D U+2642 U+FE0F	💇‍♂️	💇‍♂️	💇 ♂	man getting haircut
+742	U+1F487 U+1F3FB U+200D U+2642 U+FE0F	💇🏻‍♂️	💇🏻‍♂️	💇🏻 ♂	man getting haircut: light skin tone
+743	U+1F487 U+1F3FC U+200D U+2642 U+FE0F	💇🏼‍♂️	💇🏼‍♂️	💇🏼 ♂	man getting haircut: medium-light skin tone
+744	U+1F487 U+1F3FD U+200D U+2642 U+FE0F	💇🏽‍♂️	💇🏽‍♂️	💇🏽 ♂	man getting haircut: medium skin tone
+745	U+1F487 U+1F3FE U+200D U+2642 U+FE0F	💇🏾‍♂️	💇🏾‍♂️	💇🏾 ♂	man getting haircut: medium-dark skin tone
+746	U+1F487 U+1F3FF U+200D U+2642 U+FE0F	💇🏿‍♂️	💇🏿‍♂️	💇🏿 ♂	man getting haircut: dark skin tone
+747	U+1F487 U+200D U+2640 U+FE0F	💇‍♀️	💇‍♀️	💇 ♀	woman getting haircut
+748	U+1F487 U+1F3FB U+200D U+2640 U+FE0F	💇🏻‍♀️	💇🏻‍♀️	💇🏻 ♀	woman getting haircut: light skin tone
+749	U+1F487 U+1F3FC U+200D U+2640 U+FE0F	💇🏼‍♀️	💇🏼‍♀️	💇🏼 ♀	woman getting haircut: medium-light skin tone
+750	U+1F487 U+1F3FD U+200D U+2640 U+FE0F	💇🏽‍♀️	💇🏽‍♀️	💇🏽 ♀	woman getting haircut: medium skin tone
+751	U+1F487 U+1F3FE U+200D U+2640 U+FE0F	💇🏾‍♀️	💇🏾‍♀️	💇🏾 ♀	woman getting haircut: medium-dark skin tone
+752	U+1F487 U+1F3FF U+200D U+2640 U+FE0F	💇🏿‍♀️	💇🏿‍♀️	💇🏿 ♀	woman getting haircut: dark skin tone
+753	U+1F6B6 U+200D U+2642 U+FE0F	🚶‍♂️	🚶‍♂️	🚶 ♂	man walking
+754	U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F	🚶🏻‍♂️	🚶🏻‍♂️	🚶🏻 ♂	man walking: light skin tone
+755	U+1F6B6 U+1F3FC U+200D U+2642 U+FE0F	🚶🏼‍♂️	🚶🏼‍♂️	🚶🏼 ♂	man walking: medium-light skin tone
+756	U+1F6B6 U+1F3FD U+200D U+2642 U+FE0F	🚶🏽‍♂️	🚶🏽‍♂️	🚶🏽 ♂	man walking: medium skin tone
+757	U+1F6B6 U+1F3FE U+200D U+2642 U+FE0F	🚶🏾‍♂️	🚶🏾‍♂️	🚶🏾 ♂	man walking: medium-dark skin tone
+758	U+1F6B6 U+1F3FF U+200D U+2642 U+FE0F	🚶🏿‍♂️	🚶🏿‍♂️	🚶🏿 ♂	man walking: dark skin tone
+759	U+1F6B6 U+200D U+2640 U+FE0F	🚶‍♀️	🚶‍♀️	🚶 ♀	woman walking
+760	U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F	🚶🏻‍♀️	🚶🏻‍♀️	🚶🏻 ♀	woman walking: light skin tone
+761	U+1F6B6 U+1F3FC U+200D U+2640 U+FE0F	🚶🏼‍♀️	🚶🏼‍♀️	🚶🏼 ♀	woman walking: medium-light skin tone
+762	U+1F6B6 U+1F3FD U+200D U+2640 U+FE0F	🚶🏽‍♀️	🚶🏽‍♀️	🚶🏽 ♀	woman walking: medium skin tone
+763	U+1F6B6 U+1F3FE U+200D U+2640 U+FE0F	🚶🏾‍♀️	🚶🏾‍♀️	🚶🏾 ♀	woman walking: medium-dark skin tone
+764	U+1F6B6 U+1F3FF U+200D U+2640 U+FE0F	🚶🏿‍♀️	🚶🏿‍♀️	🚶🏿 ♀	woman walking: dark skin tone
+765	U+1F6B6 U+200D U+27A1 U+FE0F	🚶‍➡️	🚶‍➡️	🚶 ➡	person walking facing right
+766	U+1F6B6 U+1F3FB U+200D U+27A1 U+FE0F	🚶🏻‍➡️	🚶🏻‍➡️	🚶🏻 ➡	person walking facing right: light skin tone
+767	U+1F6B6 U+1F3FC U+200D U+27A1 U+FE0F	🚶🏼‍➡️	🚶🏼‍➡️	🚶🏼 ➡	person walking facing right: medium-light skin tone
+768	U+1F6B6 U+1F3FD U+200D U+27A1 U+FE0F	🚶🏽‍➡️	🚶🏽‍➡️	🚶🏽 ➡	person walking facing right: medium skin tone
+769	U+1F6B6 U+1F3FE U+200D U+27A1 U+FE0F	🚶🏾‍➡️	🚶🏾‍➡️	🚶🏾 ➡	person walking facing right: medium-dark skin tone
+770	U+1F6B6 U+1F3FF U+200D U+27A1 U+FE0F	🚶🏿‍➡️	🚶🏿‍➡️	🚶🏿 ➡	person walking facing right: dark skin tone
+771	U+1F6B6 U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🚶‍♀️‍➡️	🚶‍♀️‍➡️	🚶 ♀ ➡	woman walking facing right
+772	U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🚶🏻‍♀️‍➡️	🚶🏻‍♀️‍➡️	🚶🏻 ♀ ➡	woman walking facing right: light skin tone
+773	U+1F6B6 U+1F3FC U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🚶🏼‍♀️‍➡️	🚶🏼‍♀️‍➡️	🚶🏼 ♀ ➡	woman walking facing right: medium-light skin tone
+774	U+1F6B6 U+1F3FD U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🚶🏽‍♀️‍➡️	🚶🏽‍♀️‍➡️	🚶🏽 ♀ ➡	woman walking facing right: medium skin tone
+775	U+1F6B6 U+1F3FE U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🚶🏾‍♀️‍➡️	🚶🏾‍♀️‍➡️	🚶🏾 ♀ ➡	woman walking facing right: medium-dark skin tone
+776	U+1F6B6 U+1F3FF U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🚶🏿‍♀️‍➡️	🚶🏿‍♀️‍➡️	🚶🏿 ♀ ➡	woman walking facing right: dark skin tone
+777	U+1F6B6 U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🚶‍♂️‍➡️	🚶‍♂️‍➡️	🚶 ♂ ➡	man walking facing right
+778	U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🚶🏻‍♂️‍➡️	🚶🏻‍♂️‍➡️	🚶🏻 ♂ ➡	man walking facing right: light skin tone
+779	U+1F6B6 U+1F3FC U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🚶🏼‍♂️‍➡️	🚶🏼‍♂️‍➡️	🚶🏼 ♂ ➡	man walking facing right: medium-light skin tone
+780	U+1F6B6 U+1F3FD U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🚶🏽‍♂️‍➡️	🚶🏽‍♂️‍➡️	🚶🏽 ♂ ➡	man walking facing right: medium skin tone
+781	U+1F6B6 U+1F3FE U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🚶🏾‍♂️‍➡️	🚶🏾‍♂️‍➡️	🚶🏾 ♂ ➡	man walking facing right: medium-dark skin tone
+782	U+1F6B6 U+1F3FF U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🚶🏿‍♂️‍➡️	🚶🏿‍♂️‍➡️	🚶🏿 ♂ ➡	man walking facing right: dark skin tone
+783	U+1F9CD U+200D U+2642 U+FE0F	🧍‍♂️	🧍‍♂️	🧍 ♂	man standing
+784	U+1F9CD U+1F3FB U+200D U+2642 U+FE0F	🧍🏻‍♂️	🧍🏻‍♂️	🧍🏻 ♂	man standing: light skin tone
+785	U+1F9CD U+1F3FC U+200D U+2642 U+FE0F	🧍🏼‍♂️	🧍🏼‍♂️	🧍🏼 ♂	man standing: medium-light skin tone
+786	U+1F9CD U+1F3FD U+200D U+2642 U+FE0F	🧍🏽‍♂️	🧍🏽‍♂️	🧍🏽 ♂	man standing: medium skin tone
+787	U+1F9CD U+1F3FE U+200D U+2642 U+FE0F	🧍🏾‍♂️	🧍🏾‍♂️	🧍🏾 ♂	man standing: medium-dark skin tone
+788	U+1F9CD U+1F3FF U+200D U+2642 U+FE0F	🧍🏿‍♂️	🧍🏿‍♂️	🧍🏿 ♂	man standing: dark skin tone
+789	U+1F9CD U+200D U+2640 U+FE0F	🧍‍♀️	🧍‍♀️	🧍 ♀	woman standing
+790	U+1F9CD U+1F3FB U+200D U+2640 U+FE0F	🧍🏻‍♀️	🧍🏻‍♀️	🧍🏻 ♀	woman standing: light skin tone
+791	U+1F9CD U+1F3FC U+200D U+2640 U+FE0F	🧍🏼‍♀️	🧍🏼‍♀️	🧍🏼 ♀	woman standing: medium-light skin tone
+792	U+1F9CD U+1F3FD U+200D U+2640 U+FE0F	🧍🏽‍♀️	🧍🏽‍♀️	🧍🏽 ♀	woman standing: medium skin tone
+793	U+1F9CD U+1F3FE U+200D U+2640 U+FE0F	🧍🏾‍♀️	🧍🏾‍♀️	🧍🏾 ♀	woman standing: medium-dark skin tone
+794	U+1F9CD U+1F3FF U+200D U+2640 U+FE0F	🧍🏿‍♀️	🧍🏿‍♀️	🧍🏿 ♀	woman standing: dark skin tone
+795	U+1F9CE U+200D U+2642 U+FE0F	🧎‍♂️	🧎‍♂️	🧎 ♂	man kneeling
+796	U+1F9CE U+1F3FB U+200D U+2642 U+FE0F	🧎🏻‍♂️	🧎🏻‍♂️	🧎🏻 ♂	man kneeling: light skin tone
+797	U+1F9CE U+1F3FC U+200D U+2642 U+FE0F	🧎🏼‍♂️	🧎🏼‍♂️	🧎🏼 ♂	man kneeling: medium-light skin tone
+798	U+1F9CE U+1F3FD U+200D U+2642 U+FE0F	🧎🏽‍♂️	🧎🏽‍♂️	🧎🏽 ♂	man kneeling: medium skin tone
+799	U+1F9CE U+1F3FE U+200D U+2642 U+FE0F	🧎🏾‍♂️	🧎🏾‍♂️	🧎🏾 ♂	man kneeling: medium-dark skin tone
+800	U+1F9CE U+1F3FF U+200D U+2642 U+FE0F	🧎🏿‍♂️	🧎🏿‍♂️	🧎🏿 ♂	man kneeling: dark skin tone
+801	U+1F9CE U+200D U+2640 U+FE0F	🧎‍♀️	🧎‍♀️	🧎 ♀	woman kneeling
+802	U+1F9CE U+1F3FB U+200D U+2640 U+FE0F	🧎🏻‍♀️	🧎🏻‍♀️	🧎🏻 ♀	woman kneeling: light skin tone
+803	U+1F9CE U+1F3FC U+200D U+2640 U+FE0F	🧎🏼‍♀️	🧎🏼‍♀️	🧎🏼 ♀	woman kneeling: medium-light skin tone
+804	U+1F9CE U+1F3FD U+200D U+2640 U+FE0F	🧎🏽‍♀️	🧎🏽‍♀️	🧎🏽 ♀	woman kneeling: medium skin tone
+805	U+1F9CE U+1F3FE U+200D U+2640 U+FE0F	🧎🏾‍♀️	🧎🏾‍♀️	🧎🏾 ♀	woman kneeling: medium-dark skin tone
+806	U+1F9CE U+1F3FF U+200D U+2640 U+FE0F	🧎🏿‍♀️	🧎🏿‍♀️	🧎🏿 ♀	woman kneeling: dark skin tone
+807	U+1F9CE U+200D U+27A1 U+FE0F	🧎‍➡️	🧎‍➡️	🧎 ➡	person kneeling facing right
+808	U+1F9CE U+1F3FB U+200D U+27A1 U+FE0F	🧎🏻‍➡️	🧎🏻‍➡️	🧎🏻 ➡	person kneeling facing right: light skin tone
+809	U+1F9CE U+1F3FC U+200D U+27A1 U+FE0F	🧎🏼‍➡️	🧎🏼‍➡️	🧎🏼 ➡	person kneeling facing right: medium-light skin tone
+810	U+1F9CE U+1F3FD U+200D U+27A1 U+FE0F	🧎🏽‍➡️	🧎🏽‍➡️	🧎🏽 ➡	person kneeling facing right: medium skin tone
+811	U+1F9CE U+1F3FE U+200D U+27A1 U+FE0F	🧎🏾‍➡️	🧎🏾‍➡️	🧎🏾 ➡	person kneeling facing right: medium-dark skin tone
+812	U+1F9CE U+1F3FF U+200D U+27A1 U+FE0F	🧎🏿‍➡️	🧎🏿‍➡️	🧎🏿 ➡	person kneeling facing right: dark skin tone
+813	U+1F9CE U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🧎‍♀️‍➡️	🧎‍♀️‍➡️	🧎 ♀ ➡	woman kneeling facing right
+814	U+1F9CE U+1F3FB U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🧎🏻‍♀️‍➡️	🧎🏻‍♀️‍➡️	🧎🏻 ♀ ➡	woman kneeling facing right: light skin tone
+815	U+1F9CE U+1F3FC U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🧎🏼‍♀️‍➡️	🧎🏼‍♀️‍➡️	🧎🏼 ♀ ➡	woman kneeling facing right: medium-light skin tone
+816	U+1F9CE U+1F3FD U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🧎🏽‍♀️‍➡️	🧎🏽‍♀️‍➡️	🧎🏽 ♀ ➡	woman kneeling facing right: medium skin tone
+817	U+1F9CE U+1F3FE U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🧎🏾‍♀️‍➡️	🧎🏾‍♀️‍➡️	🧎🏾 ♀ ➡	woman kneeling facing right: medium-dark skin tone
+818	U+1F9CE U+1F3FF U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🧎🏿‍♀️‍➡️	🧎🏿‍♀️‍➡️	🧎🏿 ♀ ➡	woman kneeling facing right: dark skin tone
+819	U+1F9CE U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🧎‍♂️‍➡️	🧎‍♂️‍➡️	🧎 ♂ ➡	man kneeling facing right
+820	U+1F9CE U+1F3FB U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🧎🏻‍♂️‍➡️	🧎🏻‍♂️‍➡️	🧎🏻 ♂ ➡	man kneeling facing right: light skin tone
+821	U+1F9CE U+1F3FC U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🧎🏼‍♂️‍➡️	🧎🏼‍♂️‍➡️	🧎🏼 ♂ ➡	man kneeling facing right: medium-light skin tone
+822	U+1F9CE U+1F3FD U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🧎🏽‍♂️‍➡️	🧎🏽‍♂️‍➡️	🧎🏽 ♂ ➡	man kneeling facing right: medium skin tone
+823	U+1F9CE U+1F3FE U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🧎🏾‍♂️‍➡️	🧎🏾‍♂️‍➡️	🧎🏾 ♂ ➡	man kneeling facing right: medium-dark skin tone
+824	U+1F9CE U+1F3FF U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🧎🏿‍♂️‍➡️	🧎🏿‍♂️‍➡️	🧎🏿 ♂ ➡	man kneeling facing right: dark skin tone
+825	U+1F9D1 U+200D U+1F9AF	🧑‍🦯	🧑‍🦯	🧑 🦯	person with white cane
+826	U+1F9D1 U+1F3FB U+200D U+1F9AF	🧑🏻‍🦯	🧑🏻‍🦯	🧑🏻 🦯	person with white cane: light skin tone
+827	U+1F9D1 U+1F3FC U+200D U+1F9AF	🧑🏼‍🦯	🧑🏼‍🦯	🧑🏼 🦯	person with white cane: medium-light skin tone
+828	U+1F9D1 U+1F3FD U+200D U+1F9AF	🧑🏽‍🦯	🧑🏽‍🦯	🧑🏽 🦯	person with white cane: medium skin tone
+829	U+1F9D1 U+1F3FE U+200D U+1F9AF	🧑🏾‍🦯	🧑🏾‍🦯	🧑🏾 🦯	person with white cane: medium-dark skin tone
+830	U+1F9D1 U+1F3FF U+200D U+1F9AF	🧑🏿‍🦯	🧑🏿‍🦯	🧑🏿 🦯	person with white cane: dark skin tone
+831	U+1F9D1 U+200D U+1F9AF U+200D U+27A1 U+FE0F	🧑‍🦯‍➡️	🧑‍🦯‍➡️	🧑 🦯 ➡	person with white cane facing right
+832	U+1F9D1 U+1F3FB U+200D U+1F9AF U+200D U+27A1 U+FE0F	🧑🏻‍🦯‍➡️	🧑🏻‍🦯‍➡️	🧑🏻 🦯 ➡	person with white cane facing right: light skin tone
+833	U+1F9D1 U+1F3FC U+200D U+1F9AF U+200D U+27A1 U+FE0F	🧑🏼‍🦯‍➡️	🧑🏼‍🦯‍➡️	🧑🏼 🦯 ➡	person with white cane facing right: medium-light skin tone
+834	U+1F9D1 U+1F3FD U+200D U+1F9AF U+200D U+27A1 U+FE0F	🧑🏽‍🦯‍➡️	🧑🏽‍🦯‍➡️	🧑🏽 🦯 ➡	person with white cane facing right: medium skin tone
+835	U+1F9D1 U+1F3FE U+200D U+1F9AF U+200D U+27A1 U+FE0F	🧑🏾‍🦯‍➡️	🧑🏾‍🦯‍➡️	🧑🏾 🦯 ➡	person with white cane facing right: medium-dark skin tone
+836	U+1F9D1 U+1F3FF U+200D U+1F9AF U+200D U+27A1 U+FE0F	🧑🏿‍🦯‍➡️	🧑🏿‍🦯‍➡️	🧑🏿 🦯 ➡	person with white cane facing right: dark skin tone
+837	U+1F468 U+200D U+1F9AF	👨‍🦯	👨‍🦯	👨 🦯	man with white cane
+838	U+1F468 U+1F3FB U+200D U+1F9AF	👨🏻‍🦯	👨🏻‍🦯	👨🏻 🦯	man with white cane: light skin tone
+839	U+1F468 U+1F3FC U+200D U+1F9AF	👨🏼‍🦯	👨🏼‍🦯	👨🏼 🦯	man with white cane: medium-light skin tone
+840	U+1F468 U+1F3FD U+200D U+1F9AF	👨🏽‍🦯	👨🏽‍🦯	👨🏽 🦯	man with white cane: medium skin tone
+841	U+1F468 U+1F3FE U+200D U+1F9AF	👨🏾‍🦯	👨🏾‍🦯	👨🏾 🦯	man with white cane: medium-dark skin tone
+842	U+1F468 U+1F3FF U+200D U+1F9AF	👨🏿‍🦯	👨🏿‍🦯	👨🏿 🦯	man with white cane: dark skin tone
+843	U+1F468 U+200D U+1F9AF U+200D U+27A1 U+FE0F	👨‍🦯‍➡️	👨‍🦯‍➡️	👨 🦯 ➡	man with white cane facing right
+844	U+1F468 U+1F3FB U+200D U+1F9AF U+200D U+27A1 U+FE0F	👨🏻‍🦯‍➡️	👨🏻‍🦯‍➡️	👨🏻 🦯 ➡	man with white cane facing right: light skin tone
+845	U+1F468 U+1F3FC U+200D U+1F9AF U+200D U+27A1 U+FE0F	👨🏼‍🦯‍➡️	👨🏼‍🦯‍➡️	👨🏼 🦯 ➡	man with white cane facing right: medium-light skin tone
+846	U+1F468 U+1F3FD U+200D U+1F9AF U+200D U+27A1 U+FE0F	👨🏽‍🦯‍➡️	👨🏽‍🦯‍➡️	👨🏽 🦯 ➡	man with white cane facing right: medium skin tone
+847	U+1F468 U+1F3FE U+200D U+1F9AF U+200D U+27A1 U+FE0F	👨🏾‍🦯‍➡️	👨🏾‍🦯‍➡️	👨🏾 🦯 ➡	man with white cane facing right: medium-dark skin tone
+848	U+1F468 U+1F3FF U+200D U+1F9AF U+200D U+27A1 U+FE0F	👨🏿‍🦯‍➡️	👨🏿‍🦯‍➡️	👨🏿 🦯 ➡	man with white cane facing right: dark skin tone
+849	U+1F469 U+200D U+1F9AF	👩‍🦯	👩‍🦯	👩 🦯	woman with white cane
+850	U+1F469 U+1F3FB U+200D U+1F9AF	👩🏻‍🦯	👩🏻‍🦯	👩🏻 🦯	woman with white cane: light skin tone
+851	U+1F469 U+1F3FC U+200D U+1F9AF	👩🏼‍🦯	👩🏼‍🦯	👩🏼 🦯	woman with white cane: medium-light skin tone
+852	U+1F469 U+1F3FD U+200D U+1F9AF	👩🏽‍🦯	👩🏽‍🦯	👩🏽 🦯	woman with white cane: medium skin tone
+853	U+1F469 U+1F3FE U+200D U+1F9AF	👩🏾‍🦯	👩🏾‍🦯	👩🏾 🦯	woman with white cane: medium-dark skin tone
+854	U+1F469 U+1F3FF U+200D U+1F9AF	👩🏿‍🦯	👩🏿‍🦯	👩🏿 🦯	woman with white cane: dark skin tone
+855	U+1F469 U+200D U+1F9AF U+200D U+27A1 U+FE0F	👩‍🦯‍➡️	👩‍🦯‍➡️	👩 🦯 ➡	woman with white cane facing right
+856	U+1F469 U+1F3FB U+200D U+1F9AF U+200D U+27A1 U+FE0F	👩🏻‍🦯‍➡️	👩🏻‍🦯‍➡️	👩🏻 🦯 ➡	woman with white cane facing right: light skin tone
+857	U+1F469 U+1F3FC U+200D U+1F9AF U+200D U+27A1 U+FE0F	👩🏼‍🦯‍➡️	👩🏼‍🦯‍➡️	👩🏼 🦯 ➡	woman with white cane facing right: medium-light skin tone
+858	U+1F469 U+1F3FD U+200D U+1F9AF U+200D U+27A1 U+FE0F	👩🏽‍🦯‍➡️	👩🏽‍🦯‍➡️	👩🏽 🦯 ➡	woman with white cane facing right: medium skin tone
+859	U+1F469 U+1F3FE U+200D U+1F9AF U+200D U+27A1 U+FE0F	👩🏾‍🦯‍➡️	👩🏾‍🦯‍➡️	👩🏾 🦯 ➡	woman with white cane facing right: medium-dark skin tone
+860	U+1F469 U+1F3FF U+200D U+1F9AF U+200D U+27A1 U+FE0F	👩🏿‍🦯‍➡️	👩🏿‍🦯‍➡️	👩🏿 🦯 ➡	woman with white cane facing right: dark skin tone
+861	U+1F9D1 U+200D U+1F9BC	🧑‍🦼	🧑‍🦼	🧑 🦼	person in motorized wheelchair
+862	U+1F9D1 U+1F3FB U+200D U+1F9BC	🧑🏻‍🦼	🧑🏻‍🦼	🧑🏻 🦼	person in motorized wheelchair: light skin tone
+863	U+1F9D1 U+1F3FC U+200D U+1F9BC	🧑🏼‍🦼	🧑🏼‍🦼	🧑🏼 🦼	person in motorized wheelchair: medium-light skin tone
+864	U+1F9D1 U+1F3FD U+200D U+1F9BC	🧑🏽‍🦼	🧑🏽‍🦼	🧑🏽 🦼	person in motorized wheelchair: medium skin tone
+865	U+1F9D1 U+1F3FE U+200D U+1F9BC	🧑🏾‍🦼	🧑🏾‍🦼	🧑🏾 🦼	person in motorized wheelchair: medium-dark skin tone
+866	U+1F9D1 U+1F3FF U+200D U+1F9BC	🧑🏿‍🦼	🧑🏿‍🦼	🧑🏿 🦼	person in motorized wheelchair: dark skin tone
+867	U+1F9D1 U+200D U+1F9BC U+200D U+27A1 U+FE0F	🧑‍🦼‍➡️	🧑‍🦼‍➡️	🧑 🦼 ➡	person in motorized wheelchair facing right
+868	U+1F9D1 U+1F3FB U+200D U+1F9BC U+200D U+27A1 U+FE0F	🧑🏻‍🦼‍➡️	🧑🏻‍🦼‍➡️	🧑🏻 🦼 ➡	person in motorized wheelchair facing right: light skin tone
+869	U+1F9D1 U+1F3FC U+200D U+1F9BC U+200D U+27A1 U+FE0F	🧑🏼‍🦼‍➡️	🧑🏼‍🦼‍➡️	🧑🏼 🦼 ➡	person in motorized wheelchair facing right: medium-light skin tone
+870	U+1F9D1 U+1F3FD U+200D U+1F9BC U+200D U+27A1 U+FE0F	🧑🏽‍🦼‍➡️	🧑🏽‍🦼‍➡️	🧑🏽 🦼 ➡	person in motorized wheelchair facing right: medium skin tone
+871	U+1F9D1 U+1F3FE U+200D U+1F9BC U+200D U+27A1 U+FE0F	🧑🏾‍🦼‍➡️	🧑🏾‍🦼‍➡️	🧑🏾 🦼 ➡	person in motorized wheelchair facing right: medium-dark skin tone
+872	U+1F9D1 U+1F3FF U+200D U+1F9BC U+200D U+27A1 U+FE0F	🧑🏿‍🦼‍➡️	🧑🏿‍🦼‍➡️	🧑🏿 🦼 ➡	person in motorized wheelchair facing right: dark skin tone
+873	U+1F468 U+200D U+1F9BC	👨‍🦼	👨‍🦼	👨 🦼	man in motorized wheelchair
+874	U+1F468 U+1F3FB U+200D U+1F9BC	👨🏻‍🦼	👨🏻‍🦼	👨🏻 🦼	man in motorized wheelchair: light skin tone
+875	U+1F468 U+1F3FC U+200D U+1F9BC	👨🏼‍🦼	👨🏼‍🦼	👨🏼 🦼	man in motorized wheelchair: medium-light skin tone
+876	U+1F468 U+1F3FD U+200D U+1F9BC	👨🏽‍🦼	👨🏽‍🦼	👨🏽 🦼	man in motorized wheelchair: medium skin tone
+877	U+1F468 U+1F3FE U+200D U+1F9BC	👨🏾‍🦼	👨🏾‍🦼	👨🏾 🦼	man in motorized wheelchair: medium-dark skin tone
+878	U+1F468 U+1F3FF U+200D U+1F9BC	👨🏿‍🦼	👨🏿‍🦼	👨🏿 🦼	man in motorized wheelchair: dark skin tone
+879	U+1F468 U+200D U+1F9BC U+200D U+27A1 U+FE0F	👨‍🦼‍➡️	👨‍🦼‍➡️	👨 🦼 ➡	man in motorized wheelchair facing right
+880	U+1F468 U+1F3FB U+200D U+1F9BC U+200D U+27A1 U+FE0F	👨🏻‍🦼‍➡️	👨🏻‍🦼‍➡️	👨🏻 🦼 ➡	man in motorized wheelchair facing right: light skin tone
+881	U+1F468 U+1F3FC U+200D U+1F9BC U+200D U+27A1 U+FE0F	👨🏼‍🦼‍➡️	👨🏼‍🦼‍➡️	👨🏼 🦼 ➡	man in motorized wheelchair facing right: medium-light skin tone
+882	U+1F468 U+1F3FD U+200D U+1F9BC U+200D U+27A1 U+FE0F	👨🏽‍🦼‍➡️	👨🏽‍🦼‍➡️	👨🏽 🦼 ➡	man in motorized wheelchair facing right: medium skin tone
+883	U+1F468 U+1F3FE U+200D U+1F9BC U+200D U+27A1 U+FE0F	👨🏾‍🦼‍➡️	👨🏾‍🦼‍➡️	👨🏾 🦼 ➡	man in motorized wheelchair facing right: medium-dark skin tone
+884	U+1F468 U+1F3FF U+200D U+1F9BC U+200D U+27A1 U+FE0F	👨🏿‍🦼‍➡️	👨🏿‍🦼‍➡️	👨🏿 🦼 ➡	man in motorized wheelchair facing right: dark skin tone
+885	U+1F469 U+200D U+1F9BC	👩‍🦼	👩‍🦼	👩 🦼	woman in motorized wheelchair
+886	U+1F469 U+1F3FB U+200D U+1F9BC	👩🏻‍🦼	👩🏻‍🦼	👩🏻 🦼	woman in motorized wheelchair: light skin tone
+887	U+1F469 U+1F3FC U+200D U+1F9BC	👩🏼‍🦼	👩🏼‍🦼	👩🏼 🦼	woman in motorized wheelchair: medium-light skin tone
+888	U+1F469 U+1F3FD U+200D U+1F9BC	👩🏽‍🦼	👩🏽‍🦼	👩🏽 🦼	woman in motorized wheelchair: medium skin tone
+889	U+1F469 U+1F3FE U+200D U+1F9BC	👩🏾‍🦼	👩🏾‍🦼	👩🏾 🦼	woman in motorized wheelchair: medium-dark skin tone
+890	U+1F469 U+1F3FF U+200D U+1F9BC	👩🏿‍🦼	👩🏿‍🦼	👩🏿 🦼	woman in motorized wheelchair: dark skin tone
+891	U+1F469 U+200D U+1F9BC U+200D U+27A1 U+FE0F	👩‍🦼‍➡️	👩‍🦼‍➡️	👩 🦼 ➡	woman in motorized wheelchair facing right
+892	U+1F469 U+1F3FB U+200D U+1F9BC U+200D U+27A1 U+FE0F	👩🏻‍🦼‍➡️	👩🏻‍🦼‍➡️	👩🏻 🦼 ➡	woman in motorized wheelchair facing right: light skin tone
+893	U+1F469 U+1F3FC U+200D U+1F9BC U+200D U+27A1 U+FE0F	👩🏼‍🦼‍➡️	👩🏼‍🦼‍➡️	👩🏼 🦼 ➡	woman in motorized wheelchair facing right: medium-light skin tone
+894	U+1F469 U+1F3FD U+200D U+1F9BC U+200D U+27A1 U+FE0F	👩🏽‍🦼‍➡️	👩🏽‍🦼‍➡️	👩🏽 🦼 ➡	woman in motorized wheelchair facing right: medium skin tone
+895	U+1F469 U+1F3FE U+200D U+1F9BC U+200D U+27A1 U+FE0F	👩🏾‍🦼‍➡️	👩🏾‍🦼‍➡️	👩🏾 🦼 ➡	woman in motorized wheelchair facing right: medium-dark skin tone
+896	U+1F469 U+1F3FF U+200D U+1F9BC U+200D U+27A1 U+FE0F	👩🏿‍🦼‍➡️	👩🏿‍🦼‍➡️	👩🏿 🦼 ➡	woman in motorized wheelchair facing right: dark skin tone
+897	U+1F9D1 U+200D U+1F9BD	🧑‍🦽	🧑‍🦽	🧑 🦽	person in manual wheelchair
+898	U+1F9D1 U+1F3FB U+200D U+1F9BD	🧑🏻‍🦽	🧑🏻‍🦽	🧑🏻 🦽	person in manual wheelchair: light skin tone
+899	U+1F9D1 U+1F3FC U+200D U+1F9BD	🧑🏼‍🦽	🧑🏼‍🦽	🧑🏼 🦽	person in manual wheelchair: medium-light skin tone
+900	U+1F9D1 U+1F3FD U+200D U+1F9BD	🧑🏽‍🦽	🧑🏽‍🦽	🧑🏽 🦽	person in manual wheelchair: medium skin tone
+901	U+1F9D1 U+1F3FE U+200D U+1F9BD	🧑🏾‍🦽	🧑🏾‍🦽	🧑🏾 🦽	person in manual wheelchair: medium-dark skin tone
+902	U+1F9D1 U+1F3FF U+200D U+1F9BD	🧑🏿‍🦽	🧑🏿‍🦽	🧑🏿 🦽	person in manual wheelchair: dark skin tone
+903	U+1F9D1 U+200D U+1F9BD U+200D U+27A1 U+FE0F	🧑‍🦽‍➡️	🧑‍🦽‍➡️	🧑 🦽 ➡	person in manual wheelchair facing right
+904	U+1F9D1 U+1F3FB U+200D U+1F9BD U+200D U+27A1 U+FE0F	🧑🏻‍🦽‍➡️	🧑🏻‍🦽‍➡️	🧑🏻 🦽 ➡	person in manual wheelchair facing right: light skin tone
+905	U+1F9D1 U+1F3FC U+200D U+1F9BD U+200D U+27A1 U+FE0F	🧑🏼‍🦽‍➡️	🧑🏼‍🦽‍➡️	🧑🏼 🦽 ➡	person in manual wheelchair facing right: medium-light skin tone
+906	U+1F9D1 U+1F3FD U+200D U+1F9BD U+200D U+27A1 U+FE0F	🧑🏽‍🦽‍➡️	🧑🏽‍🦽‍➡️	🧑🏽 🦽 ➡	person in manual wheelchair facing right: medium skin tone
+907	U+1F9D1 U+1F3FE U+200D U+1F9BD U+200D U+27A1 U+FE0F	🧑🏾‍🦽‍➡️	🧑🏾‍🦽‍➡️	🧑🏾 🦽 ➡	person in manual wheelchair facing right: medium-dark skin tone
+908	U+1F9D1 U+1F3FF U+200D U+1F9BD U+200D U+27A1 U+FE0F	🧑🏿‍🦽‍➡️	🧑🏿‍🦽‍➡️	🧑🏿 🦽 ➡	person in manual wheelchair facing right: dark skin tone
+909	U+1F468 U+200D U+1F9BD	👨‍🦽	👨‍🦽	👨 🦽	man in manual wheelchair
+910	U+1F468 U+1F3FB U+200D U+1F9BD	👨🏻‍🦽	👨🏻‍🦽	👨🏻 🦽	man in manual wheelchair: light skin tone
+911	U+1F468 U+1F3FC U+200D U+1F9BD	👨🏼‍🦽	👨🏼‍🦽	👨🏼 🦽	man in manual wheelchair: medium-light skin tone
+912	U+1F468 U+1F3FD U+200D U+1F9BD	👨🏽‍🦽	👨🏽‍🦽	👨🏽 🦽	man in manual wheelchair: medium skin tone
+913	U+1F468 U+1F3FE U+200D U+1F9BD	👨🏾‍🦽	👨🏾‍🦽	👨🏾 🦽	man in manual wheelchair: medium-dark skin tone
+914	U+1F468 U+1F3FF U+200D U+1F9BD	👨🏿‍🦽	👨🏿‍🦽	👨🏿 🦽	man in manual wheelchair: dark skin tone
+915	U+1F468 U+200D U+1F9BD U+200D U+27A1 U+FE0F	👨‍🦽‍➡️	👨‍🦽‍➡️	👨 🦽 ➡	man in manual wheelchair facing right
+916	U+1F468 U+1F3FB U+200D U+1F9BD U+200D U+27A1 U+FE0F	👨🏻‍🦽‍➡️	👨🏻‍🦽‍➡️	👨🏻 🦽 ➡	man in manual wheelchair facing right: light skin tone
+917	U+1F468 U+1F3FC U+200D U+1F9BD U+200D U+27A1 U+FE0F	👨🏼‍🦽‍➡️	👨🏼‍🦽‍➡️	👨🏼 🦽 ➡	man in manual wheelchair facing right: medium-light skin tone
+918	U+1F468 U+1F3FD U+200D U+1F9BD U+200D U+27A1 U+FE0F	👨🏽‍🦽‍➡️	👨🏽‍🦽‍➡️	👨🏽 🦽 ➡	man in manual wheelchair facing right: medium skin tone
+919	U+1F468 U+1F3FE U+200D U+1F9BD U+200D U+27A1 U+FE0F	👨🏾‍🦽‍➡️	👨🏾‍🦽‍➡️	👨🏾 🦽 ➡	man in manual wheelchair facing right: medium-dark skin tone
+920	U+1F468 U+1F3FF U+200D U+1F9BD U+200D U+27A1 U+FE0F	👨🏿‍🦽‍➡️	👨🏿‍🦽‍➡️	👨🏿 🦽 ➡	man in manual wheelchair facing right: dark skin tone
+921	U+1F469 U+200D U+1F9BD	👩‍🦽	👩‍🦽	👩 🦽	woman in manual wheelchair
+922	U+1F469 U+1F3FB U+200D U+1F9BD	👩🏻‍🦽	👩🏻‍🦽	👩🏻 🦽	woman in manual wheelchair: light skin tone
+923	U+1F469 U+1F3FC U+200D U+1F9BD	👩🏼‍🦽	👩🏼‍🦽	👩🏼 🦽	woman in manual wheelchair: medium-light skin tone
+924	U+1F469 U+1F3FD U+200D U+1F9BD	👩🏽‍🦽	👩🏽‍🦽	👩🏽 🦽	woman in manual wheelchair: medium skin tone
+925	U+1F469 U+1F3FE U+200D U+1F9BD	👩🏾‍🦽	👩🏾‍🦽	👩🏾 🦽	woman in manual wheelchair: medium-dark skin tone
+926	U+1F469 U+1F3FF U+200D U+1F9BD	👩🏿‍🦽	👩🏿‍🦽	👩🏿 🦽	woman in manual wheelchair: dark skin tone
+927	U+1F469 U+200D U+1F9BD U+200D U+27A1 U+FE0F	👩‍🦽‍➡️	👩‍🦽‍➡️	👩 🦽 ➡	woman in manual wheelchair facing right
+928	U+1F469 U+1F3FB U+200D U+1F9BD U+200D U+27A1 U+FE0F	👩🏻‍🦽‍➡️	👩🏻‍🦽‍➡️	👩🏻 🦽 ➡	woman in manual wheelchair facing right: light skin tone
+929	U+1F469 U+1F3FC U+200D U+1F9BD U+200D U+27A1 U+FE0F	👩🏼‍🦽‍➡️	👩🏼‍🦽‍➡️	👩🏼 🦽 ➡	woman in manual wheelchair facing right: medium-light skin tone
+930	U+1F469 U+1F3FD U+200D U+1F9BD U+200D U+27A1 U+FE0F	👩🏽‍🦽‍➡️	👩🏽‍🦽‍➡️	👩🏽 🦽 ➡	woman in manual wheelchair facing right: medium skin tone
+931	U+1F469 U+1F3FE U+200D U+1F9BD U+200D U+27A1 U+FE0F	👩🏾‍🦽‍➡️	👩🏾‍🦽‍➡️	👩🏾 🦽 ➡	woman in manual wheelchair facing right: medium-dark skin tone
+932	U+1F469 U+1F3FF U+200D U+1F9BD U+200D U+27A1 U+FE0F	👩🏿‍🦽‍➡️	👩🏿‍🦽‍➡️	👩🏿 🦽 ➡	woman in manual wheelchair facing right: dark skin tone
+933	U+1F3C3 U+200D U+2642 U+FE0F	🏃‍♂️	🏃‍♂️	🏃 ♂	man running
+934	U+1F3C3 U+1F3FB U+200D U+2642 U+FE0F	🏃🏻‍♂️	🏃🏻‍♂️	🏃🏻 ♂	man running: light skin tone
+935	U+1F3C3 U+1F3FC U+200D U+2642 U+FE0F	🏃🏼‍♂️	🏃🏼‍♂️	🏃🏼 ♂	man running: medium-light skin tone
+936	U+1F3C3 U+1F3FD U+200D U+2642 U+FE0F	🏃🏽‍♂️	🏃🏽‍♂️	🏃🏽 ♂	man running: medium skin tone
+937	U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F	🏃🏾‍♂️	🏃🏾‍♂️	🏃🏾 ♂	man running: medium-dark skin tone
+938	U+1F3C3 U+1F3FF U+200D U+2642 U+FE0F	🏃🏿‍♂️	🏃🏿‍♂️	🏃🏿 ♂	man running: dark skin tone
+939	U+1F3C3 U+200D U+2640 U+FE0F	🏃‍♀️	🏃‍♀️	🏃 ♀	woman running
+940	U+1F3C3 U+1F3FB U+200D U+2640 U+FE0F	🏃🏻‍♀️	🏃🏻‍♀️	🏃🏻 ♀	woman running: light skin tone
+941	U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F	🏃🏼‍♀️	🏃🏼‍♀️	🏃🏼 ♀	woman running: medium-light skin tone
+942	U+1F3C3 U+1F3FD U+200D U+2640 U+FE0F	🏃🏽‍♀️	🏃🏽‍♀️	🏃🏽 ♀	woman running: medium skin tone
+943	U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F	🏃🏾‍♀️	🏃🏾‍♀️	🏃🏾 ♀	woman running: medium-dark skin tone
+944	U+1F3C3 U+1F3FF U+200D U+2640 U+FE0F	🏃🏿‍♀️	🏃🏿‍♀️	🏃🏿 ♀	woman running: dark skin tone
+945	U+1F3C3 U+200D U+27A1 U+FE0F	🏃‍➡️	🏃‍➡️	🏃 ➡	person running facing right
+946	U+1F3C3 U+1F3FB U+200D U+27A1 U+FE0F	🏃🏻‍➡️	🏃🏻‍➡️	🏃🏻 ➡	person running facing right: light skin tone
+947	U+1F3C3 U+1F3FC U+200D U+27A1 U+FE0F	🏃🏼‍➡️	🏃🏼‍➡️	🏃🏼 ➡	person running facing right: medium-light skin tone
+948	U+1F3C3 U+1F3FD U+200D U+27A1 U+FE0F	🏃🏽‍➡️	🏃🏽‍➡️	🏃🏽 ➡	person running facing right: medium skin tone
+949	U+1F3C3 U+1F3FE U+200D U+27A1 U+FE0F	🏃🏾‍➡️	🏃🏾‍➡️	🏃🏾 ➡	person running facing right: medium-dark skin tone
+950	U+1F3C3 U+1F3FF U+200D U+27A1 U+FE0F	🏃🏿‍➡️	🏃🏿‍➡️	🏃🏿 ➡	person running facing right: dark skin tone
+951	U+1F3C3 U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🏃‍♀️‍➡️	🏃‍♀️‍➡️	🏃 ♀ ➡	woman running facing right
+952	U+1F3C3 U+1F3FB U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🏃🏻‍♀️‍➡️	🏃🏻‍♀️‍➡️	🏃🏻 ♀ ➡	woman running facing right: light skin tone
+953	U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🏃🏼‍♀️‍➡️	🏃🏼‍♀️‍➡️	🏃🏼 ♀ ➡	woman running facing right: medium-light skin tone
+954	U+1F3C3 U+1F3FD U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🏃🏽‍♀️‍➡️	🏃🏽‍♀️‍➡️	🏃🏽 ♀ ➡	woman running facing right: medium skin tone
+955	U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🏃🏾‍♀️‍➡️	🏃🏾‍♀️‍➡️	🏃🏾 ♀ ➡	woman running facing right: medium-dark skin tone
+956	U+1F3C3 U+1F3FF U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🏃🏿‍♀️‍➡️	🏃🏿‍♀️‍➡️	🏃🏿 ♀ ➡	woman running facing right: dark skin tone
+957	U+1F3C3 U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🏃‍♂️‍➡️	🏃‍♂️‍➡️	🏃 ♂ ➡	man running facing right
+958	U+1F3C3 U+1F3FB U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🏃🏻‍♂️‍➡️	🏃🏻‍♂️‍➡️	🏃🏻 ♂ ➡	man running facing right: light skin tone
+959	U+1F3C3 U+1F3FC U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🏃🏼‍♂️‍➡️	🏃🏼‍♂️‍➡️	🏃🏼 ♂ ➡	man running facing right: medium-light skin tone
+960	U+1F3C3 U+1F3FD U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🏃🏽‍♂️‍➡️	🏃🏽‍♂️‍➡️	🏃🏽 ♂ ➡	man running facing right: medium skin tone
+961	U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🏃🏾‍♂️‍➡️	🏃🏾‍♂️‍➡️	🏃🏾 ♂ ➡	man running facing right: medium-dark skin tone
+962	U+1F3C3 U+1F3FF U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🏃🏿‍♂️‍➡️	🏃🏿‍♂️‍➡️	🏃🏿 ♂ ➡	man running facing right: dark skin tone
+963	U+1F46F U+200D U+2642 U+FE0F	👯‍♂️	👯‍♂️	👯 ♂	men with bunny ears
+964	U+1F46F U+200D U+2640 U+FE0F	👯‍♀️	👯‍♀️	👯 ♀	women with bunny ears
+965	U+1F9D6 U+200D U+2642 U+FE0F	🧖‍♂️	🧖‍♂️	🧖 ♂	man in steamy room
+966	U+1F9D6 U+1F3FB U+200D U+2642 U+FE0F	🧖🏻‍♂️	🧖🏻‍♂️	🧖🏻 ♂	man in steamy room: light skin tone
+967	U+1F9D6 U+1F3FC U+200D U+2642 U+FE0F	🧖🏼‍♂️	🧖🏼‍♂️	🧖🏼 ♂	man in steamy room: medium-light skin tone
+968	U+1F9D6 U+1F3FD U+200D U+2642 U+FE0F	🧖🏽‍♂️	🧖🏽‍♂️	🧖🏽 ♂	man in steamy room: medium skin tone
+969	U+1F9D6 U+1F3FE U+200D U+2642 U+FE0F	🧖🏾‍♂️	🧖🏾‍♂️	🧖🏾 ♂	man in steamy room: medium-dark skin tone
+970	U+1F9D6 U+1F3FF U+200D U+2642 U+FE0F	🧖🏿‍♂️	🧖🏿‍♂️	🧖🏿 ♂	man in steamy room: dark skin tone
+971	U+1F9D6 U+200D U+2640 U+FE0F	🧖‍♀️	🧖‍♀️	🧖 ♀	woman in steamy room
+972	U+1F9D6 U+1F3FB U+200D U+2640 U+FE0F	🧖🏻‍♀️	🧖🏻‍♀️	🧖🏻 ♀	woman in steamy room: light skin tone
+973	U+1F9D6 U+1F3FC U+200D U+2640 U+FE0F	🧖🏼‍♀️	🧖🏼‍♀️	🧖🏼 ♀	woman in steamy room: medium-light skin tone
+974	U+1F9D6 U+1F3FD U+200D U+2640 U+FE0F	🧖🏽‍♀️	🧖🏽‍♀️	🧖🏽 ♀	woman in steamy room: medium skin tone
+975	U+1F9D6 U+1F3FE U+200D U+2640 U+FE0F	🧖🏾‍♀️	🧖🏾‍♀️	🧖🏾 ♀	woman in steamy room: medium-dark skin tone
+976	U+1F9D6 U+1F3FF U+200D U+2640 U+FE0F	🧖🏿‍♀️	🧖🏿‍♀️	🧖🏿 ♀	woman in steamy room: dark skin tone
+977	U+1F9D7 U+200D U+2642 U+FE0F	🧗‍♂️	🧗‍♂️	🧗 ♂	man climbing
+978	U+1F9D7 U+1F3FB U+200D U+2642 U+FE0F	🧗🏻‍♂️	🧗🏻‍♂️	🧗🏻 ♂	man climbing: light skin tone
+979	U+1F9D7 U+1F3FC U+200D U+2642 U+FE0F	🧗🏼‍♂️	🧗🏼‍♂️	🧗🏼 ♂	man climbing: medium-light skin tone
+980	U+1F9D7 U+1F3FD U+200D U+2642 U+FE0F	🧗🏽‍♂️	🧗🏽‍♂️	🧗🏽 ♂	man climbing: medium skin tone
+981	U+1F9D7 U+1F3FE U+200D U+2642 U+FE0F	🧗🏾‍♂️	🧗🏾‍♂️	🧗🏾 ♂	man climbing: medium-dark skin tone
+982	U+1F9D7 U+1F3FF U+200D U+2642 U+FE0F	🧗🏿‍♂️	🧗🏿‍♂️	🧗🏿 ♂	man climbing: dark skin tone
+983	U+1F9D7 U+200D U+2640 U+FE0F	🧗‍♀️	🧗‍♀️	🧗 ♀	woman climbing
+984	U+1F9D7 U+1F3FB U+200D U+2640 U+FE0F	🧗🏻‍♀️	🧗🏻‍♀️	🧗🏻 ♀	woman climbing: light skin tone
+985	U+1F9D7 U+1F3FC U+200D U+2640 U+FE0F	🧗🏼‍♀️	🧗🏼‍♀️	🧗🏼 ♀	woman climbing: medium-light skin tone
+986	U+1F9D7 U+1F3FD U+200D U+2640 U+FE0F	🧗🏽‍♀️	🧗🏽‍♀️	🧗🏽 ♀	woman climbing: medium skin tone
+987	U+1F9D7 U+1F3FE U+200D U+2640 U+FE0F	🧗🏾‍♀️	🧗🏾‍♀️	🧗🏾 ♀	woman climbing: medium-dark skin tone
+988	U+1F9D7 U+1F3FF U+200D U+2640 U+FE0F	🧗🏿‍♀️	🧗🏿‍♀️	🧗🏿 ♀	woman climbing: dark skin tone
+989	U+1F3CC U+FE0F U+200D U+2642 U+FE0F	🏌️‍♂️	🏌️‍♂️	🏌 ♂	man golfing
+990	U+1F3CC U+1F3FB U+200D U+2642 U+FE0F	🏌🏻‍♂️	🏌🏻‍♂️	🏌🏻 ♂	man golfing: light skin tone
+991	U+1F3CC U+1F3FC U+200D U+2642 U+FE0F	🏌🏼‍♂️	🏌🏼‍♂️	🏌🏼 ♂	man golfing: medium-light skin tone
+992	U+1F3CC U+1F3FD U+200D U+2642 U+FE0F	🏌🏽‍♂️	🏌🏽‍♂️	🏌🏽 ♂	man golfing: medium skin tone
+993	U+1F3CC U+1F3FE U+200D U+2642 U+FE0F	🏌🏾‍♂️	🏌🏾‍♂️	🏌🏾 ♂	man golfing: medium-dark skin tone
+994	U+1F3CC U+1F3FF U+200D U+2642 U+FE0F	🏌🏿‍♂️	🏌🏿‍♂️	🏌🏿 ♂	man golfing: dark skin tone
+995	U+1F3CC U+FE0F U+200D U+2640 U+FE0F	🏌️‍♀️	🏌️‍♀️	🏌 ♀	woman golfing
+996	U+1F3CC U+1F3FB U+200D U+2640 U+FE0F	🏌🏻‍♀️	🏌🏻‍♀️	🏌🏻 ♀	woman golfing: light skin tone
+997	U+1F3CC U+1F3FC U+200D U+2640 U+FE0F	🏌🏼‍♀️	🏌🏼‍♀️	🏌🏼 ♀	woman golfing: medium-light skin tone
+998	U+1F3CC U+1F3FD U+200D U+2640 U+FE0F	🏌🏽‍♀️	🏌🏽‍♀️	🏌🏽 ♀	woman golfing: medium skin tone
+999	U+1F3CC U+1F3FE U+200D U+2640 U+FE0F	🏌🏾‍♀️	🏌🏾‍♀️	🏌🏾 ♀	woman golfing: medium-dark skin tone
+1000	U+1F3CC U+1F3FF U+200D U+2640 U+FE0F	🏌🏿‍♀️	🏌🏿‍♀️	🏌🏿 ♀	woman golfing: dark skin tone
+1001	U+1F3C4 U+200D U+2642 U+FE0F	🏄‍♂️	🏄‍♂️	🏄 ♂	man surfing
+1002	U+1F3C4 U+1F3FB U+200D U+2642 U+FE0F	🏄🏻‍♂️	🏄🏻‍♂️	🏄🏻 ♂	man surfing: light skin tone
+1003	U+1F3C4 U+1F3FC U+200D U+2642 U+FE0F	🏄🏼‍♂️	🏄🏼‍♂️	🏄🏼 ♂	man surfing: medium-light skin tone
+1004	U+1F3C4 U+1F3FD U+200D U+2642 U+FE0F	🏄🏽‍♂️	🏄🏽‍♂️	🏄🏽 ♂	man surfing: medium skin tone
+1005	U+1F3C4 U+1F3FE U+200D U+2642 U+FE0F	🏄🏾‍♂️	🏄🏾‍♂️	🏄🏾 ♂	man surfing: medium-dark skin tone
+1006	U+1F3C4 U+1F3FF U+200D U+2642 U+FE0F	🏄🏿‍♂️	🏄🏿‍♂️	🏄🏿 ♂	man surfing: dark skin tone
+1007	U+1F3C4 U+200D U+2640 U+FE0F	🏄‍♀️	🏄‍♀️	🏄 ♀	woman surfing
+1008	U+1F3C4 U+1F3FB U+200D U+2640 U+FE0F	🏄🏻‍♀️	🏄🏻‍♀️	🏄🏻 ♀	woman surfing: light skin tone
+1009	U+1F3C4 U+1F3FC U+200D U+2640 U+FE0F	🏄🏼‍♀️	🏄🏼‍♀️	🏄🏼 ♀	woman surfing: medium-light skin tone
+1010	U+1F3C4 U+1F3FD U+200D U+2640 U+FE0F	🏄🏽‍♀️	🏄🏽‍♀️	🏄🏽 ♀	woman surfing: medium skin tone
+1011	U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F	🏄🏾‍♀️	🏄🏾‍♀️	🏄🏾 ♀	woman surfing: medium-dark skin tone
+1012	U+1F3C4 U+1F3FF U+200D U+2640 U+FE0F	🏄🏿‍♀️	🏄🏿‍♀️	🏄🏿 ♀	woman surfing: dark skin tone
+1013	U+1F6A3 U+200D U+2642 U+FE0F	🚣‍♂️	🚣‍♂️	🚣 ♂	man rowing boat
+1014	U+1F6A3 U+1F3FB U+200D U+2642 U+FE0F	🚣🏻‍♂️	🚣🏻‍♂️	🚣🏻 ♂	man rowing boat: light skin tone
+1015	U+1F6A3 U+1F3FC U+200D U+2642 U+FE0F	🚣🏼‍♂️	🚣🏼‍♂️	🚣🏼 ♂	man rowing boat: medium-light skin tone
+1016	U+1F6A3 U+1F3FD U+200D U+2642 U+FE0F	🚣🏽‍♂️	🚣🏽‍♂️	🚣🏽 ♂	man rowing boat: medium skin tone
+1017	U+1F6A3 U+1F3FE U+200D U+2642 U+FE0F	🚣🏾‍♂️	🚣🏾‍♂️	🚣🏾 ♂	man rowing boat: medium-dark skin tone
+1018	U+1F6A3 U+1F3FF U+200D U+2642 U+FE0F	🚣🏿‍♂️	🚣🏿‍♂️	🚣🏿 ♂	man rowing boat: dark skin tone
+1019	U+1F6A3 U+200D U+2640 U+FE0F	🚣‍♀️	🚣‍♀️	🚣 ♀	woman rowing boat
+1020	U+1F6A3 U+1F3FB U+200D U+2640 U+FE0F	🚣🏻‍♀️	🚣🏻‍♀️	🚣🏻 ♀	woman rowing boat: light skin tone
+1021	U+1F6A3 U+1F3FC U+200D U+2640 U+FE0F	🚣🏼‍♀️	🚣🏼‍♀️	🚣🏼 ♀	woman rowing boat: medium-light skin tone
+1022	U+1F6A3 U+1F3FD U+200D U+2640 U+FE0F	🚣🏽‍♀️	🚣🏽‍♀️	🚣🏽 ♀	woman rowing boat: medium skin tone
+1023	U+1F6A3 U+1F3FE U+200D U+2640 U+FE0F	🚣🏾‍♀️	🚣🏾‍♀️	🚣🏾 ♀	woman rowing boat: medium-dark skin tone
+1024	U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F	🚣🏿‍♀️	🚣🏿‍♀️	🚣🏿 ♀	woman rowing boat: dark skin tone
+1025	U+1F3CA U+200D U+2642 U+FE0F	🏊‍♂️	🏊‍♂️	🏊 ♂	man swimming
+1026	U+1F3CA U+1F3FB U+200D U+2642 U+FE0F	🏊🏻‍♂️	🏊🏻‍♂️	🏊🏻 ♂	man swimming: light skin tone
+1027	U+1F3CA U+1F3FC U+200D U+2642 U+FE0F	🏊🏼‍♂️	🏊🏼‍♂️	🏊🏼 ♂	man swimming: medium-light skin tone
+1028	U+1F3CA U+1F3FD U+200D U+2642 U+FE0F	🏊🏽‍♂️	🏊🏽‍♂️	🏊🏽 ♂	man swimming: medium skin tone
+1029	U+1F3CA U+1F3FE U+200D U+2642 U+FE0F	🏊🏾‍♂️	🏊🏾‍♂️	🏊🏾 ♂	man swimming: medium-dark skin tone
+1030	U+1F3CA U+1F3FF U+200D U+2642 U+FE0F	🏊🏿‍♂️	🏊🏿‍♂️	🏊🏿 ♂	man swimming: dark skin tone
+1031	U+1F3CA U+200D U+2640 U+FE0F	🏊‍♀️	🏊‍♀️	🏊 ♀	woman swimming
+1032	U+1F3CA U+1F3FB U+200D U+2640 U+FE0F	🏊🏻‍♀️	🏊🏻‍♀️	🏊🏻 ♀	woman swimming: light skin tone
+1033	U+1F3CA U+1F3FC U+200D U+2640 U+FE0F	🏊🏼‍♀️	🏊🏼‍♀️	🏊🏼 ♀	woman swimming: medium-light skin tone
+1034	U+1F3CA U+1F3FD U+200D U+2640 U+FE0F	🏊🏽‍♀️	🏊🏽‍♀️	🏊🏽 ♀	woman swimming: medium skin tone
+1035	U+1F3CA U+1F3FE U+200D U+2640 U+FE0F	🏊🏾‍♀️	🏊🏾‍♀️	🏊🏾 ♀	woman swimming: medium-dark skin tone
+1036	U+1F3CA U+1F3FF U+200D U+2640 U+FE0F	🏊🏿‍♀️	🏊🏿‍♀️	🏊🏿 ♀	woman swimming: dark skin tone
+1037	U+26F9 U+FE0F U+200D U+2642 U+FE0F	⛹️‍♂️	⛹️‍♂️	⛹ ♂	man bouncing ball
+1038	U+26F9 U+1F3FB U+200D U+2642 U+FE0F	⛹🏻‍♂️	⛹🏻‍♂️	⛹🏻 ♂	man bouncing ball: light skin tone
+1039	U+26F9 U+1F3FC U+200D U+2642 U+FE0F	⛹🏼‍♂️	⛹🏼‍♂️	⛹🏼 ♂	man bouncing ball: medium-light skin tone
+1040	U+26F9 U+1F3FD U+200D U+2642 U+FE0F	⛹🏽‍♂️	⛹🏽‍♂️	⛹🏽 ♂	man bouncing ball: medium skin tone
+1041	U+26F9 U+1F3FE U+200D U+2642 U+FE0F	⛹🏾‍♂️	⛹🏾‍♂️	⛹🏾 ♂	man bouncing ball: medium-dark skin tone
+1042	U+26F9 U+1F3FF U+200D U+2642 U+FE0F	⛹🏿‍♂️	⛹🏿‍♂️	⛹🏿 ♂	man bouncing ball: dark skin tone
+1043	U+26F9 U+FE0F U+200D U+2640 U+FE0F	⛹️‍♀️	⛹️‍♀️	⛹ ♀	woman bouncing ball
+1044	U+26F9 U+1F3FB U+200D U+2640 U+FE0F	⛹🏻‍♀️	⛹🏻‍♀️	⛹🏻 ♀	woman bouncing ball: light skin tone
+1045	U+26F9 U+1F3FC U+200D U+2640 U+FE0F	⛹🏼‍♀️	⛹🏼‍♀️	⛹🏼 ♀	woman bouncing ball: medium-light skin tone
+1046	U+26F9 U+1F3FD U+200D U+2640 U+FE0F	⛹🏽‍♀️	⛹🏽‍♀️	⛹🏽 ♀	woman bouncing ball: medium skin tone
+1047	U+26F9 U+1F3FE U+200D U+2640 U+FE0F	⛹🏾‍♀️	⛹🏾‍♀️	⛹🏾 ♀	woman bouncing ball: medium-dark skin tone
+1048	U+26F9 U+1F3FF U+200D U+2640 U+FE0F	⛹🏿‍♀️	⛹🏿‍♀️	⛹🏿 ♀	woman bouncing ball: dark skin tone
+1049	U+1F3CB U+FE0F U+200D U+2642 U+FE0F	🏋️‍♂️	🏋️‍♂️	🏋 ♂	man lifting weights
+1050	U+1F3CB U+1F3FB U+200D U+2642 U+FE0F	🏋🏻‍♂️	🏋🏻‍♂️	🏋🏻 ♂	man lifting weights: light skin tone
+1051	U+1F3CB U+1F3FC U+200D U+2642 U+FE0F	🏋🏼‍♂️	🏋🏼‍♂️	🏋🏼 ♂	man lifting weights: medium-light skin tone
+1052	U+1F3CB U+1F3FD U+200D U+2642 U+FE0F	🏋🏽‍♂️	🏋🏽‍♂️	🏋🏽 ♂	man lifting weights: medium skin tone
+1053	U+1F3CB U+1F3FE U+200D U+2642 U+FE0F	🏋🏾‍♂️	🏋🏾‍♂️	🏋🏾 ♂	man lifting weights: medium-dark skin tone
+1054	U+1F3CB U+1F3FF U+200D U+2642 U+FE0F	🏋🏿‍♂️	🏋🏿‍♂️	🏋🏿 ♂	man lifting weights: dark skin tone
+1055	U+1F3CB U+FE0F U+200D U+2640 U+FE0F	🏋️‍♀️	🏋️‍♀️	🏋 ♀	woman lifting weights
+1056	U+1F3CB U+1F3FB U+200D U+2640 U+FE0F	🏋🏻‍♀️	🏋🏻‍♀️	🏋🏻 ♀	woman lifting weights: light skin tone
+1057	U+1F3CB U+1F3FC U+200D U+2640 U+FE0F	🏋🏼‍♀️	🏋🏼‍♀️	🏋🏼 ♀	woman lifting weights: medium-light skin tone
+1058	U+1F3CB U+1F3FD U+200D U+2640 U+FE0F	🏋🏽‍♀️	🏋🏽‍♀️	🏋🏽 ♀	woman lifting weights: medium skin tone
+1059	U+1F3CB U+1F3FE U+200D U+2640 U+FE0F	🏋🏾‍♀️	🏋🏾‍♀️	🏋🏾 ♀	woman lifting weights: medium-dark skin tone
+1060	U+1F3CB U+1F3FF U+200D U+2640 U+FE0F	🏋🏿‍♀️	🏋🏿‍♀️	🏋🏿 ♀	woman lifting weights: dark skin tone
+1061	U+1F6B4 U+200D U+2642 U+FE0F	🚴‍♂️	🚴‍♂️	🚴 ♂	man biking
+1062	U+1F6B4 U+1F3FB U+200D U+2642 U+FE0F	🚴🏻‍♂️	🚴🏻‍♂️	🚴🏻 ♂	man biking: light skin tone
+1063	U+1F6B4 U+1F3FC U+200D U+2642 U+FE0F	🚴🏼‍♂️	🚴🏼‍♂️	🚴🏼 ♂	man biking: medium-light skin tone
+1064	U+1F6B4 U+1F3FD U+200D U+2642 U+FE0F	🚴🏽‍♂️	🚴🏽‍♂️	🚴🏽 ♂	man biking: medium skin tone
+1065	U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F	🚴🏾‍♂️	🚴🏾‍♂️	🚴🏾 ♂	man biking: medium-dark skin tone
+1066	U+1F6B4 U+1F3FF U+200D U+2642 U+FE0F	🚴🏿‍♂️	🚴🏿‍♂️	🚴🏿 ♂	man biking: dark skin tone
+1067	U+1F6B4 U+200D U+2640 U+FE0F	🚴‍♀️	🚴‍♀️	🚴 ♀	woman biking
+1068	U+1F6B4 U+1F3FB U+200D U+2640 U+FE0F	🚴🏻‍♀️	🚴🏻‍♀️	🚴🏻 ♀	woman biking: light skin tone
+1069	U+1F6B4 U+1F3FC U+200D U+2640 U+FE0F	🚴🏼‍♀️	🚴🏼‍♀️	🚴🏼 ♀	woman biking: medium-light skin tone
+1070	U+1F6B4 U+1F3FD U+200D U+2640 U+FE0F	🚴🏽‍♀️	🚴🏽‍♀️	🚴🏽 ♀	woman biking: medium skin tone
+1071	U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F	🚴🏾‍♀️	🚴🏾‍♀️	🚴🏾 ♀	woman biking: medium-dark skin tone
+1072	U+1F6B4 U+1F3FF U+200D U+2640 U+FE0F	🚴🏿‍♀️	🚴🏿‍♀️	🚴🏿 ♀	woman biking: dark skin tone
+1073	U+1F6B5 U+200D U+2642 U+FE0F	🚵‍♂️	🚵‍♂️	🚵 ♂	man mountain biking
+1074	U+1F6B5 U+1F3FB U+200D U+2642 U+FE0F	🚵🏻‍♂️	🚵🏻‍♂️	🚵🏻 ♂	man mountain biking: light skin tone
+1075	U+1F6B5 U+1F3FC U+200D U+2642 U+FE0F	🚵🏼‍♂️	🚵🏼‍♂️	🚵🏼 ♂	man mountain biking: medium-light skin tone
+1076	U+1F6B5 U+1F3FD U+200D U+2642 U+FE0F	🚵🏽‍♂️	🚵🏽‍♂️	🚵🏽 ♂	man mountain biking: medium skin tone
+1077	U+1F6B5 U+1F3FE U+200D U+2642 U+FE0F	🚵🏾‍♂️	🚵🏾‍♂️	🚵🏾 ♂	man mountain biking: medium-dark skin tone
+1078	U+1F6B5 U+1F3FF U+200D U+2642 U+FE0F	🚵🏿‍♂️	🚵🏿‍♂️	🚵🏿 ♂	man mountain biking: dark skin tone
+1079	U+1F6B5 U+200D U+2640 U+FE0F	🚵‍♀️	🚵‍♀️	🚵 ♀	woman mountain biking
+1080	U+1F6B5 U+1F3FB U+200D U+2640 U+FE0F	🚵🏻‍♀️	🚵🏻‍♀️	🚵🏻 ♀	woman mountain biking: light skin tone
+1081	U+1F6B5 U+1F3FC U+200D U+2640 U+FE0F	🚵🏼‍♀️	🚵🏼‍♀️	🚵🏼 ♀	woman mountain biking: medium-light skin tone
+1082	U+1F6B5 U+1F3FD U+200D U+2640 U+FE0F	🚵🏽‍♀️	🚵🏽‍♀️	🚵🏽 ♀	woman mountain biking: medium skin tone
+1083	U+1F6B5 U+1F3FE U+200D U+2640 U+FE0F	🚵🏾‍♀️	🚵🏾‍♀️	🚵🏾 ♀	woman mountain biking: medium-dark skin tone
+1084	U+1F6B5 U+1F3FF U+200D U+2640 U+FE0F	🚵🏿‍♀️	🚵🏿‍♀️	🚵🏿 ♀	woman mountain biking: dark skin tone
+1085	U+1F938 U+200D U+2642 U+FE0F	🤸‍♂️	🤸‍♂️	🤸 ♂	man cartwheeling
+1086	U+1F938 U+1F3FB U+200D U+2642 U+FE0F	🤸🏻‍♂️	🤸🏻‍♂️	🤸🏻 ♂	man cartwheeling: light skin tone
+1087	U+1F938 U+1F3FC U+200D U+2642 U+FE0F	🤸🏼‍♂️	🤸🏼‍♂️	🤸🏼 ♂	man cartwheeling: medium-light skin tone
+1088	U+1F938 U+1F3FD U+200D U+2642 U+FE0F	🤸🏽‍♂️	🤸🏽‍♂️	🤸🏽 ♂	man cartwheeling: medium skin tone
+1089	U+1F938 U+1F3FE U+200D U+2642 U+FE0F	🤸🏾‍♂️	🤸🏾‍♂️	🤸🏾 ♂	man cartwheeling: medium-dark skin tone
+1090	U+1F938 U+1F3FF U+200D U+2642 U+FE0F	🤸🏿‍♂️	🤸🏿‍♂️	🤸🏿 ♂	man cartwheeling: dark skin tone
+1091	U+1F938 U+200D U+2640 U+FE0F	🤸‍♀️	🤸‍♀️	🤸 ♀	woman cartwheeling
+1092	U+1F938 U+1F3FB U+200D U+2640 U+FE0F	🤸🏻‍♀️	🤸🏻‍♀️	🤸🏻 ♀	woman cartwheeling: light skin tone
+1093	U+1F938 U+1F3FC U+200D U+2640 U+FE0F	🤸🏼‍♀️	🤸🏼‍♀️	🤸🏼 ♀	woman cartwheeling: medium-light skin tone
+1094	U+1F938 U+1F3FD U+200D U+2640 U+FE0F	🤸🏽‍♀️	🤸🏽‍♀️	🤸🏽 ♀	woman cartwheeling: medium skin tone
+1095	U+1F938 U+1F3FE U+200D U+2640 U+FE0F	🤸🏾‍♀️	🤸🏾‍♀️	🤸🏾 ♀	woman cartwheeling: medium-dark skin tone
+1096	U+1F938 U+1F3FF U+200D U+2640 U+FE0F	🤸🏿‍♀️	🤸🏿‍♀️	🤸🏿 ♀	woman cartwheeling: dark skin tone
+1097	U+1F93C U+200D U+2642 U+FE0F	🤼‍♂️	🤼‍♂️	🤼 ♂	men wrestling
+1098	U+1F93C U+200D U+2640 U+FE0F	🤼‍♀️	🤼‍♀️	🤼 ♀	women wrestling
+1099	U+1F93D U+200D U+2642 U+FE0F	🤽‍♂️	🤽‍♂️	🤽 ♂	man playing water polo
+1100	U+1F93D U+1F3FB U+200D U+2642 U+FE0F	🤽🏻‍♂️	🤽🏻‍♂️	🤽🏻 ♂	man playing water polo: light skin tone
+1101	U+1F93D U+1F3FC U+200D U+2642 U+FE0F	🤽🏼‍♂️	🤽🏼‍♂️	🤽🏼 ♂	man playing water polo: medium-light skin tone
+1102	U+1F93D U+1F3FD U+200D U+2642 U+FE0F	🤽🏽‍♂️	🤽🏽‍♂️	🤽🏽 ♂	man playing water polo: medium skin tone
+1103	U+1F93D U+1F3FE U+200D U+2642 U+FE0F	🤽🏾‍♂️	🤽🏾‍♂️	🤽🏾 ♂	man playing water polo: medium-dark skin tone
+1104	U+1F93D U+1F3FF U+200D U+2642 U+FE0F	🤽🏿‍♂️	🤽🏿‍♂️	🤽🏿 ♂	man playing water polo: dark skin tone
+1105	U+1F93D U+200D U+2640 U+FE0F	🤽‍♀️	🤽‍♀️	🤽 ♀	woman playing water polo
+1106	U+1F93D U+1F3FB U+200D U+2640 U+FE0F	🤽🏻‍♀️	🤽🏻‍♀️	🤽🏻 ♀	woman playing water polo: light skin tone
+1107	U+1F93D U+1F3FC U+200D U+2640 U+FE0F	🤽🏼‍♀️	🤽🏼‍♀️	🤽🏼 ♀	woman playing water polo: medium-light skin tone
+1108	U+1F93D U+1F3FD U+200D U+2640 U+FE0F	🤽🏽‍♀️	🤽🏽‍♀️	🤽🏽 ♀	woman playing water polo: medium skin tone
+1109	U+1F93D U+1F3FE U+200D U+2640 U+FE0F	🤽🏾‍♀️	🤽🏾‍♀️	🤽🏾 ♀	woman playing water polo: medium-dark skin tone
+1110	U+1F93D U+1F3FF U+200D U+2640 U+FE0F	🤽🏿‍♀️	🤽🏿‍♀️	🤽🏿 ♀	woman playing water polo: dark skin tone
+1111	U+1F93E U+200D U+2642 U+FE0F	🤾‍♂️	🤾‍♂️	🤾 ♂	man playing handball
+1112	U+1F93E U+1F3FB U+200D U+2642 U+FE0F	🤾🏻‍♂️	🤾🏻‍♂️	🤾🏻 ♂	man playing handball: light skin tone
+1113	U+1F93E U+1F3FC U+200D U+2642 U+FE0F	🤾🏼‍♂️	🤾🏼‍♂️	🤾🏼 ♂	man playing handball: medium-light skin tone
+1114	U+1F93E U+1F3FD U+200D U+2642 U+FE0F	🤾🏽‍♂️	🤾🏽‍♂️	🤾🏽 ♂	man playing handball: medium skin tone
+1115	U+1F93E U+1F3FE U+200D U+2642 U+FE0F	🤾🏾‍♂️	🤾🏾‍♂️	🤾🏾 ♂	man playing handball: medium-dark skin tone
+1116	U+1F93E U+1F3FF U+200D U+2642 U+FE0F	🤾🏿‍♂️	🤾🏿‍♂️	🤾🏿 ♂	man playing handball: dark skin tone
+1117	U+1F93E U+200D U+2640 U+FE0F	🤾‍♀️	🤾‍♀️	🤾 ♀	woman playing handball
+1118	U+1F93E U+1F3FB U+200D U+2640 U+FE0F	🤾🏻‍♀️	🤾🏻‍♀️	🤾🏻 ♀	woman playing handball: light skin tone
+1119	U+1F93E U+1F3FC U+200D U+2640 U+FE0F	🤾🏼‍♀️	🤾🏼‍♀️	🤾🏼 ♀	woman playing handball: medium-light skin tone
+1120	U+1F93E U+1F3FD U+200D U+2640 U+FE0F	🤾🏽‍♀️	🤾🏽‍♀️	🤾🏽 ♀	woman playing handball: medium skin tone
+1121	U+1F93E U+1F3FE U+200D U+2640 U+FE0F	🤾🏾‍♀️	🤾🏾‍♀️	🤾🏾 ♀	woman playing handball: medium-dark skin tone
+1122	U+1F93E U+1F3FF U+200D U+2640 U+FE0F	🤾🏿‍♀️	🤾🏿‍♀️	🤾🏿 ♀	woman playing handball: dark skin tone
+1123	U+1F939 U+200D U+2642 U+FE0F	🤹‍♂️	🤹‍♂️	🤹 ♂	man juggling
+1124	U+1F939 U+1F3FB U+200D U+2642 U+FE0F	🤹🏻‍♂️	🤹🏻‍♂️	🤹🏻 ♂	man juggling: light skin tone
+1125	U+1F939 U+1F3FC U+200D U+2642 U+FE0F	🤹🏼‍♂️	🤹🏼‍♂️	🤹🏼 ♂	man juggling: medium-light skin tone
+1126	U+1F939 U+1F3FD U+200D U+2642 U+FE0F	🤹🏽‍♂️	🤹🏽‍♂️	🤹🏽 ♂	man juggling: medium skin tone
+1127	U+1F939 U+1F3FE U+200D U+2642 U+FE0F	🤹🏾‍♂️	🤹🏾‍♂️	🤹🏾 ♂	man juggling: medium-dark skin tone
+1128	U+1F939 U+1F3FF U+200D U+2642 U+FE0F	🤹🏿‍♂️	🤹🏿‍♂️	🤹🏿 ♂	man juggling: dark skin tone
+1129	U+1F939 U+200D U+2640 U+FE0F	🤹‍♀️	🤹‍♀️	🤹 ♀	woman juggling
+1130	U+1F939 U+1F3FB U+200D U+2640 U+FE0F	🤹🏻‍♀️	🤹🏻‍♀️	🤹🏻 ♀	woman juggling: light skin tone
+1131	U+1F939 U+1F3FC U+200D U+2640 U+FE0F	🤹🏼‍♀️	🤹🏼‍♀️	🤹🏼 ♀	woman juggling: medium-light skin tone
+1132	U+1F939 U+1F3FD U+200D U+2640 U+FE0F	🤹🏽‍♀️	🤹🏽‍♀️	🤹🏽 ♀	woman juggling: medium skin tone
+1133	U+1F939 U+1F3FE U+200D U+2640 U+FE0F	🤹🏾‍♀️	🤹🏾‍♀️	🤹🏾 ♀	woman juggling: medium-dark skin tone
+1134	U+1F939 U+1F3FF U+200D U+2640 U+FE0F	🤹🏿‍♀️	🤹🏿‍♀️	🤹🏿 ♀	woman juggling: dark skin tone
+1135	U+1F9D8 U+200D U+2642 U+FE0F	🧘‍♂️	🧘‍♂️	🧘 ♂	man in lotus position
+1136	U+1F9D8 U+1F3FB U+200D U+2642 U+FE0F	🧘🏻‍♂️	🧘🏻‍♂️	🧘🏻 ♂	man in lotus position: light skin tone
+1137	U+1F9D8 U+1F3FC U+200D U+2642 U+FE0F	🧘🏼‍♂️	🧘🏼‍♂️	🧘🏼 ♂	man in lotus position: medium-light skin tone
+1138	U+1F9D8 U+1F3FD U+200D U+2642 U+FE0F	🧘🏽‍♂️	🧘🏽‍♂️	🧘🏽 ♂	man in lotus position: medium skin tone
+1139	U+1F9D8 U+1F3FE U+200D U+2642 U+FE0F	🧘🏾‍♂️	🧘🏾‍♂️	🧘🏾 ♂	man in lotus position: medium-dark skin tone
+1140	U+1F9D8 U+1F3FF U+200D U+2642 U+FE0F	🧘🏿‍♂️	🧘🏿‍♂️	🧘🏿 ♂	man in lotus position: dark skin tone
+1141	U+1F9D8 U+200D U+2640 U+FE0F	🧘‍♀️	🧘‍♀️	🧘 ♀	woman in lotus position
+1142	U+1F9D8 U+1F3FB U+200D U+2640 U+FE0F	🧘🏻‍♀️	🧘🏻‍♀️	🧘🏻 ♀	woman in lotus position: light skin tone
+1143	U+1F9D8 U+1F3FC U+200D U+2640 U+FE0F	🧘🏼‍♀️	🧘🏼‍♀️	🧘🏼 ♀	woman in lotus position: medium-light skin tone
+1144	U+1F9D8 U+1F3FD U+200D U+2640 U+FE0F	🧘🏽‍♀️	🧘🏽‍♀️	🧘🏽 ♀	woman in lotus position: medium skin tone
+1145	U+1F9D8 U+1F3FE U+200D U+2640 U+FE0F	🧘🏾‍♀️	🧘🏾‍♀️	🧘🏾 ♀	woman in lotus position: medium-dark skin tone
+1146	U+1F9D8 U+1F3FF U+200D U+2640 U+FE0F	🧘🏿‍♀️	🧘🏿‍♀️	🧘🏿 ♀	woman in lotus position: dark skin tone
+1147	U+1F9D1 U+200D U+1F91D U+200D U+1F9D1	🧑‍🤝‍🧑	🧑‍🤝‍🧑	🧑 🤝 🧑	people holding hands
+1148	U+1F9D1 U+1F3FB U+200D U+1F91D U+200D U+1F9D1 U+1F3FB	🧑🏻‍🤝‍🧑🏻	🧑🏻‍🤝‍🧑🏻	🧑🏻 🤝 🧑🏻	people holding hands: light skin tone
+1149	U+1F9D1 U+1F3FB U+200D U+1F91D U+200D U+1F9D1 U+1F3FC	🧑🏻‍🤝‍🧑🏼	🧑🏻‍🤝‍🧑🏼	🧑🏻 🤝 🧑🏼	people holding hands: light skin tone, medium-light skin tone
+1150	U+1F9D1 U+1F3FB U+200D U+1F91D U+200D U+1F9D1 U+1F3FD	🧑🏻‍🤝‍🧑🏽	🧑🏻‍🤝‍🧑🏽	🧑🏻 🤝 🧑🏽	people holding hands: light skin tone, medium skin tone
+1151	U+1F9D1 U+1F3FB U+200D U+1F91D U+200D U+1F9D1 U+1F3FE	🧑🏻‍🤝‍🧑🏾	🧑🏻‍🤝‍🧑🏾	🧑🏻 🤝 🧑🏾	people holding hands: light skin tone, medium-dark skin tone
+1152	U+1F9D1 U+1F3FB U+200D U+1F91D U+200D U+1F9D1 U+1F3FF	🧑🏻‍🤝‍🧑🏿	🧑🏻‍🤝‍🧑🏿	🧑🏻 🤝 🧑🏿	people holding hands: light skin tone, dark skin tone
+1153	U+1F9D1 U+1F3FC U+200D U+1F91D U+200D U+1F9D1 U+1F3FB	🧑🏼‍🤝‍🧑🏻	🧑🏼‍🤝‍🧑🏻	🧑🏼 🤝 🧑🏻	people holding hands: medium-light skin tone, light skin tone
+1154	U+1F9D1 U+1F3FC U+200D U+1F91D U+200D U+1F9D1 U+1F3FC	🧑🏼‍🤝‍🧑🏼	🧑🏼‍🤝‍🧑🏼	🧑🏼 🤝 🧑🏼	people holding hands: medium-light skin tone
+1155	U+1F9D1 U+1F3FC U+200D U+1F91D U+200D U+1F9D1 U+1F3FD	🧑🏼‍🤝‍🧑🏽	🧑🏼‍🤝‍🧑🏽	🧑🏼 🤝 🧑🏽	people holding hands: medium-light skin tone, medium skin tone
+1156	U+1F9D1 U+1F3FC U+200D U+1F91D U+200D U+1F9D1 U+1F3FE	🧑🏼‍🤝‍🧑🏾	🧑🏼‍🤝‍🧑🏾	🧑🏼 🤝 🧑🏾	people holding hands: medium-light skin tone, medium-dark skin tone
+1157	U+1F9D1 U+1F3FC U+200D U+1F91D U+200D U+1F9D1 U+1F3FF	🧑🏼‍🤝‍🧑🏿	🧑🏼‍🤝‍🧑🏿	🧑🏼 🤝 🧑🏿	people holding hands: medium-light skin tone, dark skin tone
+1158	U+1F9D1 U+1F3FD U+200D U+1F91D U+200D U+1F9D1 U+1F3FB	🧑🏽‍🤝‍🧑🏻	🧑🏽‍🤝‍🧑🏻	🧑🏽 🤝 🧑🏻	people holding hands: medium skin tone, light skin tone
+1159	U+1F9D1 U+1F3FD U+200D U+1F91D U+200D U+1F9D1 U+1F3FC	🧑🏽‍🤝‍🧑🏼	🧑🏽‍🤝‍🧑🏼	🧑🏽 🤝 🧑🏼	people holding hands: medium skin tone, medium-light skin tone
+1160	U+1F9D1 U+1F3FD U+200D U+1F91D U+200D U+1F9D1 U+1F3FD	🧑🏽‍🤝‍🧑🏽	🧑🏽‍🤝‍🧑🏽	🧑🏽 🤝 🧑🏽	people holding hands: medium skin tone
+1161	U+1F9D1 U+1F3FD U+200D U+1F91D U+200D U+1F9D1 U+1F3FE	🧑🏽‍🤝‍🧑🏾	🧑🏽‍🤝‍🧑🏾	🧑🏽 🤝 🧑🏾	people holding hands: medium skin tone, medium-dark skin tone
+1162	U+1F9D1 U+1F3FD U+200D U+1F91D U+200D U+1F9D1 U+1F3FF	🧑🏽‍🤝‍🧑🏿	🧑🏽‍🤝‍🧑🏿	🧑🏽 🤝 🧑🏿	people holding hands: medium skin tone, dark skin tone
+1163	U+1F9D1 U+1F3FE U+200D U+1F91D U+200D U+1F9D1 U+1F3FB	🧑🏾‍🤝‍🧑🏻	🧑🏾‍🤝‍🧑🏻	🧑🏾 🤝 🧑🏻	people holding hands: medium-dark skin tone, light skin tone
+1164	U+1F9D1 U+1F3FE U+200D U+1F91D U+200D U+1F9D1 U+1F3FC	🧑🏾‍🤝‍🧑🏼	🧑🏾‍🤝‍🧑🏼	🧑🏾 🤝 🧑🏼	people holding hands: medium-dark skin tone, medium-light skin tone
+1165	U+1F9D1 U+1F3FE U+200D U+1F91D U+200D U+1F9D1 U+1F3FD	🧑🏾‍🤝‍🧑🏽	🧑🏾‍🤝‍🧑🏽	🧑🏾 🤝 🧑🏽	people holding hands: medium-dark skin tone, medium skin tone
+1166	U+1F9D1 U+1F3FE U+200D U+1F91D U+200D U+1F9D1 U+1F3FE	🧑🏾‍🤝‍🧑🏾	🧑🏾‍🤝‍🧑🏾	🧑🏾 🤝 🧑🏾	people holding hands: medium-dark skin tone
+1167	U+1F9D1 U+1F3FE U+200D U+1F91D U+200D U+1F9D1 U+1F3FF	🧑🏾‍🤝‍🧑🏿	🧑🏾‍🤝‍🧑🏿	🧑🏾 🤝 🧑🏿	people holding hands: medium-dark skin tone, dark skin tone
+1168	U+1F9D1 U+1F3FF U+200D U+1F91D U+200D U+1F9D1 U+1F3FB	🧑🏿‍🤝‍🧑🏻	🧑🏿‍🤝‍🧑🏻	🧑🏿 🤝 🧑🏻	people holding hands: dark skin tone, light skin tone
+1169	U+1F9D1 U+1F3FF U+200D U+1F91D U+200D U+1F9D1 U+1F3FC	🧑🏿‍🤝‍🧑🏼	🧑🏿‍🤝‍🧑🏼	🧑🏿 🤝 🧑🏼	people holding hands: dark skin tone, medium-light skin tone
+1170	U+1F9D1 U+1F3FF U+200D U+1F91D U+200D U+1F9D1 U+1F3FD	🧑🏿‍🤝‍🧑🏽	🧑🏿‍🤝‍🧑🏽	🧑🏿 🤝 🧑🏽	people holding hands: dark skin tone, medium skin tone
+1171	U+1F9D1 U+1F3FF U+200D U+1F91D U+200D U+1F9D1 U+1F3FE	🧑🏿‍🤝‍🧑🏾	🧑🏿‍🤝‍🧑🏾	🧑🏿 🤝 🧑🏾	people holding hands: dark skin tone, medium-dark skin tone
+1172	U+1F9D1 U+1F3FF U+200D U+1F91D U+200D U+1F9D1 U+1F3FF	🧑🏿‍🤝‍🧑🏿	🧑🏿‍🤝‍🧑🏿	🧑🏿 🤝 🧑🏿	people holding hands: dark skin tone
+1173	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F469 U+1F3FC	👩🏻‍🤝‍👩🏼	👩🏻‍🤝‍👩🏼	👩🏻 🤝 👩🏼	women holding hands: light skin tone, medium-light skin tone
+1174	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F469 U+1F3FD	👩🏻‍🤝‍👩🏽	👩🏻‍🤝‍👩🏽	👩🏻 🤝 👩🏽	women holding hands: light skin tone, medium skin tone
+1175	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F469 U+1F3FE	👩🏻‍🤝‍👩🏾	👩🏻‍🤝‍👩🏾	👩🏻 🤝 👩🏾	women holding hands: light skin tone, medium-dark skin tone
+1176	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F469 U+1F3FF	👩🏻‍🤝‍👩🏿	👩🏻‍🤝‍👩🏿	👩🏻 🤝 👩🏿	women holding hands: light skin tone, dark skin tone
+1177	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F469 U+1F3FB	👩🏼‍🤝‍👩🏻	👩🏼‍🤝‍👩🏻	👩🏼 🤝 👩🏻	women holding hands: medium-light skin tone, light skin tone
+1178	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F469 U+1F3FD	👩🏼‍🤝‍👩🏽	👩🏼‍🤝‍👩🏽	👩🏼 🤝 👩🏽	women holding hands: medium-light skin tone, medium skin tone
+1179	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F469 U+1F3FE	👩🏼‍🤝‍👩🏾	👩🏼‍🤝‍👩🏾	👩🏼 🤝 👩🏾	women holding hands: medium-light skin tone, medium-dark skin tone
+1180	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F469 U+1F3FF	👩🏼‍🤝‍👩🏿	👩🏼‍🤝‍👩🏿	👩🏼 🤝 👩🏿	women holding hands: medium-light skin tone, dark skin tone
+1181	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F469 U+1F3FB	👩🏽‍🤝‍👩🏻	👩🏽‍🤝‍👩🏻	👩🏽 🤝 👩🏻	women holding hands: medium skin tone, light skin tone
+1182	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F469 U+1F3FC	👩🏽‍🤝‍👩🏼	👩🏽‍🤝‍👩🏼	👩🏽 🤝 👩🏼	women holding hands: medium skin tone, medium-light skin tone
+1183	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F469 U+1F3FE	👩🏽‍🤝‍👩🏾	👩🏽‍🤝‍👩🏾	👩🏽 🤝 👩🏾	women holding hands: medium skin tone, medium-dark skin tone
+1184	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F469 U+1F3FF	👩🏽‍🤝‍👩🏿	👩🏽‍🤝‍👩🏿	👩🏽 🤝 👩🏿	women holding hands: medium skin tone, dark skin tone
+1185	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F469 U+1F3FB	👩🏾‍🤝‍👩🏻	👩🏾‍🤝‍👩🏻	👩🏾 🤝 👩🏻	women holding hands: medium-dark skin tone, light skin tone
+1186	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F469 U+1F3FC	👩🏾‍🤝‍👩🏼	👩🏾‍🤝‍👩🏼	👩🏾 🤝 👩🏼	women holding hands: medium-dark skin tone, medium-light skin tone
+1187	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F469 U+1F3FD	👩🏾‍🤝‍👩🏽	👩🏾‍🤝‍👩🏽	👩🏾 🤝 👩🏽	women holding hands: medium-dark skin tone, medium skin tone
+1188	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F469 U+1F3FF	👩🏾‍🤝‍👩🏿	👩🏾‍🤝‍👩🏿	👩🏾 🤝 👩🏿	women holding hands: medium-dark skin tone, dark skin tone
+1189	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F469 U+1F3FB	👩🏿‍🤝‍👩🏻	👩🏿‍🤝‍👩🏻	👩🏿 🤝 👩🏻	women holding hands: dark skin tone, light skin tone
+1190	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F469 U+1F3FC	👩🏿‍🤝‍👩🏼	👩🏿‍🤝‍👩🏼	👩🏿 🤝 👩🏼	women holding hands: dark skin tone, medium-light skin tone
+1191	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F469 U+1F3FD	👩🏿‍🤝‍👩🏽	👩🏿‍🤝‍👩🏽	👩🏿 🤝 👩🏽	women holding hands: dark skin tone, medium skin tone
+1192	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F469 U+1F3FE	👩🏿‍🤝‍👩🏾	👩🏿‍🤝‍👩🏾	👩🏿 🤝 👩🏾	women holding hands: dark skin tone, medium-dark skin tone
+1193	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FC	👩🏻‍🤝‍👨🏼	👩🏻‍🤝‍👨🏼	👩🏻 🤝 👨🏼	woman and man holding hands: light skin tone, medium-light skin tone
+1194	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FD	👩🏻‍🤝‍👨🏽	👩🏻‍🤝‍👨🏽	👩🏻 🤝 👨🏽	woman and man holding hands: light skin tone, medium skin tone
+1195	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FE	👩🏻‍🤝‍👨🏾	👩🏻‍🤝‍👨🏾	👩🏻 🤝 👨🏾	woman and man holding hands: light skin tone, medium-dark skin tone
+1196	U+1F469 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FF	👩🏻‍🤝‍👨🏿	👩🏻‍🤝‍👨🏿	👩🏻 🤝 👨🏿	woman and man holding hands: light skin tone, dark skin tone
+1197	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FB	👩🏼‍🤝‍👨🏻	👩🏼‍🤝‍👨🏻	👩🏼 🤝 👨🏻	woman and man holding hands: medium-light skin tone, light skin tone
+1198	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FD	👩🏼‍🤝‍👨🏽	👩🏼‍🤝‍👨🏽	👩🏼 🤝 👨🏽	woman and man holding hands: medium-light skin tone, medium skin tone
+1199	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FE	👩🏼‍🤝‍👨🏾	👩🏼‍🤝‍👨🏾	👩🏼 🤝 👨🏾	woman and man holding hands: medium-light skin tone, medium-dark skin tone
+1200	U+1F469 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FF	👩🏼‍🤝‍👨🏿	👩🏼‍🤝‍👨🏿	👩🏼 🤝 👨🏿	woman and man holding hands: medium-light skin tone, dark skin tone
+1201	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FB	👩🏽‍🤝‍👨🏻	👩🏽‍🤝‍👨🏻	👩🏽 🤝 👨🏻	woman and man holding hands: medium skin tone, light skin tone
+1202	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FC	👩🏽‍🤝‍👨🏼	👩🏽‍🤝‍👨🏼	👩🏽 🤝 👨🏼	woman and man holding hands: medium skin tone, medium-light skin tone
+1203	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FE	👩🏽‍🤝‍👨🏾	👩🏽‍🤝‍👨🏾	👩🏽 🤝 👨🏾	woman and man holding hands: medium skin tone, medium-dark skin tone
+1204	U+1F469 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FF	👩🏽‍🤝‍👨🏿	👩🏽‍🤝‍👨🏿	👩🏽 🤝 👨🏿	woman and man holding hands: medium skin tone, dark skin tone
+1205	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FB	👩🏾‍🤝‍👨🏻	👩🏾‍🤝‍👨🏻	👩🏾 🤝 👨🏻	woman and man holding hands: medium-dark skin tone, light skin tone
+1206	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FC	👩🏾‍🤝‍👨🏼	👩🏾‍🤝‍👨🏼	👩🏾 🤝 👨🏼	woman and man holding hands: medium-dark skin tone, medium-light skin tone
+1207	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FD	👩🏾‍🤝‍👨🏽	👩🏾‍🤝‍👨🏽	👩🏾 🤝 👨🏽	woman and man holding hands: medium-dark skin tone, medium skin tone
+1208	U+1F469 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FF	👩🏾‍🤝‍👨🏿	👩🏾‍🤝‍👨🏿	👩🏾 🤝 👨🏿	woman and man holding hands: medium-dark skin tone, dark skin tone
+1209	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FB	👩🏿‍🤝‍👨🏻	👩🏿‍🤝‍👨🏻	👩🏿 🤝 👨🏻	woman and man holding hands: dark skin tone, light skin tone
+1210	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FC	👩🏿‍🤝‍👨🏼	👩🏿‍🤝‍👨🏼	👩🏿 🤝 👨🏼	woman and man holding hands: dark skin tone, medium-light skin tone
+1211	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FD	👩🏿‍🤝‍👨🏽	👩🏿‍🤝‍👨🏽	👩🏿 🤝 👨🏽	woman and man holding hands: dark skin tone, medium skin tone
+1212	U+1F469 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FE	👩🏿‍🤝‍👨🏾	👩🏿‍🤝‍👨🏾	👩🏿 🤝 👨🏾	woman and man holding hands: dark skin tone, medium-dark skin tone
+1213	U+1F468 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FC	👨🏻‍🤝‍👨🏼	👨🏻‍🤝‍👨🏼	👨🏻 🤝 👨🏼	men holding hands: light skin tone, medium-light skin tone
+1214	U+1F468 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FD	👨🏻‍🤝‍👨🏽	👨🏻‍🤝‍👨🏽	👨🏻 🤝 👨🏽	men holding hands: light skin tone, medium skin tone
+1215	U+1F468 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FE	👨🏻‍🤝‍👨🏾	👨🏻‍🤝‍👨🏾	👨🏻 🤝 👨🏾	men holding hands: light skin tone, medium-dark skin tone
+1216	U+1F468 U+1F3FB U+200D U+1F91D U+200D U+1F468 U+1F3FF	👨🏻‍🤝‍👨🏿	👨🏻‍🤝‍👨🏿	👨🏻 🤝 👨🏿	men holding hands: light skin tone, dark skin tone
+1217	U+1F468 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FB	👨🏼‍🤝‍👨🏻	👨🏼‍🤝‍👨🏻	👨🏼 🤝 👨🏻	men holding hands: medium-light skin tone, light skin tone
+1218	U+1F468 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FD	👨🏼‍🤝‍👨🏽	👨🏼‍🤝‍👨🏽	👨🏼 🤝 👨🏽	men holding hands: medium-light skin tone, medium skin tone
+1219	U+1F468 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FE	👨🏼‍🤝‍👨🏾	👨🏼‍🤝‍👨🏾	👨🏼 🤝 👨🏾	men holding hands: medium-light skin tone, medium-dark skin tone
+1220	U+1F468 U+1F3FC U+200D U+1F91D U+200D U+1F468 U+1F3FF	👨🏼‍🤝‍👨🏿	👨🏼‍🤝‍👨🏿	👨🏼 🤝 👨🏿	men holding hands: medium-light skin tone, dark skin tone
+1221	U+1F468 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FB	👨🏽‍🤝‍👨🏻	👨🏽‍🤝‍👨🏻	👨🏽 🤝 👨🏻	men holding hands: medium skin tone, light skin tone
+1222	U+1F468 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FC	👨🏽‍🤝‍👨🏼	👨🏽‍🤝‍👨🏼	👨🏽 🤝 👨🏼	men holding hands: medium skin tone, medium-light skin tone
+1223	U+1F468 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FE	👨🏽‍🤝‍👨🏾	👨🏽‍🤝‍👨🏾	👨🏽 🤝 👨🏾	men holding hands: medium skin tone, medium-dark skin tone
+1224	U+1F468 U+1F3FD U+200D U+1F91D U+200D U+1F468 U+1F3FF	👨🏽‍🤝‍👨🏿	👨🏽‍🤝‍👨🏿	👨🏽 🤝 👨🏿	men holding hands: medium skin tone, dark skin tone
+1225	U+1F468 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FB	👨🏾‍🤝‍👨🏻	👨🏾‍🤝‍👨🏻	👨🏾 🤝 👨🏻	men holding hands: medium-dark skin tone, light skin tone
+1226	U+1F468 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FC	👨🏾‍🤝‍👨🏼	👨🏾‍🤝‍👨🏼	👨🏾 🤝 👨🏼	men holding hands: medium-dark skin tone, medium-light skin tone
+1227	U+1F468 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FD	👨🏾‍🤝‍👨🏽	👨🏾‍🤝‍👨🏽	👨🏾 🤝 👨🏽	men holding hands: medium-dark skin tone, medium skin tone
+1228	U+1F468 U+1F3FE U+200D U+1F91D U+200D U+1F468 U+1F3FF	👨🏾‍🤝‍👨🏿	👨🏾‍🤝‍👨🏿	👨🏾 🤝 👨🏿	men holding hands: medium-dark skin tone, dark skin tone
+1229	U+1F468 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FB	👨🏿‍🤝‍👨🏻	👨🏿‍🤝‍👨🏻	👨🏿 🤝 👨🏻	men holding hands: dark skin tone, light skin tone
+1230	U+1F468 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FC	👨🏿‍🤝‍👨🏼	👨🏿‍🤝‍👨🏼	👨🏿 🤝 👨🏼	men holding hands: dark skin tone, medium-light skin tone
+1231	U+1F468 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FD	👨🏿‍🤝‍👨🏽	👨🏿‍🤝‍👨🏽	👨🏿 🤝 👨🏽	men holding hands: dark skin tone, medium skin tone
+1232	U+1F468 U+1F3FF U+200D U+1F91D U+200D U+1F468 U+1F3FE	👨🏿‍🤝‍👨🏾	👨🏿‍🤝‍👨🏾	👨🏿 🤝 👨🏾	men holding hands: dark skin tone, medium-dark skin tone
+1233	U+1F48F	💏	💏	💏	kiss
+1234	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FC	🧑🏻‍❤️‍💋‍🧑🏼	🧑🏻‍❤️‍💋‍🧑🏼	🧑🏻 ❤ 💋 🧑🏼	kiss: person, person, light skin tone, medium-light skin tone
+1235	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FD	🧑🏻‍❤️‍💋‍🧑🏽	🧑🏻‍❤️‍💋‍🧑🏽	🧑🏻 ❤ 💋 🧑🏽	kiss: person, person, light skin tone, medium skin tone
+1236	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FE	🧑🏻‍❤️‍💋‍🧑🏾	🧑🏻‍❤️‍💋‍🧑🏾	🧑🏻 ❤ 💋 🧑🏾	kiss: person, person, light skin tone, medium-dark skin tone
+1237	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FF	🧑🏻‍❤️‍💋‍🧑🏿	🧑🏻‍❤️‍💋‍🧑🏿	🧑🏻 ❤ 💋 🧑🏿	kiss: person, person, light skin tone, dark skin tone
+1238	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FB	🧑🏼‍❤️‍💋‍🧑🏻	🧑🏼‍❤️‍💋‍🧑🏻	🧑🏼 ❤ 💋 🧑🏻	kiss: person, person, medium-light skin tone, light skin tone
+1239	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FD	🧑🏼‍❤️‍💋‍🧑🏽	🧑🏼‍❤️‍💋‍🧑🏽	🧑🏼 ❤ 💋 🧑🏽	kiss: person, person, medium-light skin tone, medium skin tone
+1240	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FE	🧑🏼‍❤️‍💋‍🧑🏾	🧑🏼‍❤️‍💋‍🧑🏾	🧑🏼 ❤ 💋 🧑🏾	kiss: person, person, medium-light skin tone, medium-dark skin tone
+1241	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FF	🧑🏼‍❤️‍💋‍🧑🏿	🧑🏼‍❤️‍💋‍🧑🏿	🧑🏼 ❤ 💋 🧑🏿	kiss: person, person, medium-light skin tone, dark skin tone
+1242	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FB	🧑🏽‍❤️‍💋‍🧑🏻	🧑🏽‍❤️‍💋‍🧑🏻	🧑🏽 ❤ 💋 🧑🏻	kiss: person, person, medium skin tone, light skin tone
+1243	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FC	🧑🏽‍❤️‍💋‍🧑🏼	🧑🏽‍❤️‍💋‍🧑🏼	🧑🏽 ❤ 💋 🧑🏼	kiss: person, person, medium skin tone, medium-light skin tone
+1244	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FE	🧑🏽‍❤️‍💋‍🧑🏾	🧑🏽‍❤️‍💋‍🧑🏾	🧑🏽 ❤ 💋 🧑🏾	kiss: person, person, medium skin tone, medium-dark skin tone
+1245	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FF	🧑🏽‍❤️‍💋‍🧑🏿	🧑🏽‍❤️‍💋‍🧑🏿	🧑🏽 ❤ 💋 🧑🏿	kiss: person, person, medium skin tone, dark skin tone
+1246	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FB	🧑🏾‍❤️‍💋‍🧑🏻	🧑🏾‍❤️‍💋‍🧑🏻	🧑🏾 ❤ 💋 🧑🏻	kiss: person, person, medium-dark skin tone, light skin tone
+1247	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FC	🧑🏾‍❤️‍💋‍🧑🏼	🧑🏾‍❤️‍💋‍🧑🏼	🧑🏾 ❤ 💋 🧑🏼	kiss: person, person, medium-dark skin tone, medium-light skin tone
+1248	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FD	🧑🏾‍❤️‍💋‍🧑🏽	🧑🏾‍❤️‍💋‍🧑🏽	🧑🏾 ❤ 💋 🧑🏽	kiss: person, person, medium-dark skin tone, medium skin tone
+1249	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FF	🧑🏾‍❤️‍💋‍🧑🏿	🧑🏾‍❤️‍💋‍🧑🏿	🧑🏾 ❤ 💋 🧑🏿	kiss: person, person, medium-dark skin tone, dark skin tone
+1250	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FB	🧑🏿‍❤️‍💋‍🧑🏻	🧑🏿‍❤️‍💋‍🧑🏻	🧑🏿 ❤ 💋 🧑🏻	kiss: person, person, dark skin tone, light skin tone
+1251	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FC	🧑🏿‍❤️‍💋‍🧑🏼	🧑🏿‍❤️‍💋‍🧑🏼	🧑🏿 ❤ 💋 🧑🏼	kiss: person, person, dark skin tone, medium-light skin tone
+1252	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FD	🧑🏿‍❤️‍💋‍🧑🏽	🧑🏿‍❤️‍💋‍🧑🏽	🧑🏿 ❤ 💋 🧑🏽	kiss: person, person, dark skin tone, medium skin tone
+1253	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F9D1 U+1F3FE	🧑🏿‍❤️‍💋‍🧑🏾	🧑🏿‍❤️‍💋‍🧑🏾	🧑🏿 ❤ 💋 🧑🏾	kiss: person, person, dark skin tone, medium-dark skin tone
+1254	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468	👩‍❤️‍💋‍👨	👩‍❤️‍💋‍👨	👩 ❤ 💋 👨	kiss: woman, man
+1255	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👩🏻‍❤️‍💋‍👨🏻	👩🏻‍❤️‍💋‍👨🏻	👩🏻 ❤ 💋 👨🏻	kiss: woman, man, light skin tone
+1256	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👩🏻‍❤️‍💋‍👨🏼	👩🏻‍❤️‍💋‍👨🏼	👩🏻 ❤ 💋 👨🏼	kiss: woman, man, light skin tone, medium-light skin tone
+1257	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👩🏻‍❤️‍💋‍👨🏽	👩🏻‍❤️‍💋‍👨🏽	👩🏻 ❤ 💋 👨🏽	kiss: woman, man, light skin tone, medium skin tone
+1258	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👩🏻‍❤️‍💋‍👨🏾	👩🏻‍❤️‍💋‍👨🏾	👩🏻 ❤ 💋 👨🏾	kiss: woman, man, light skin tone, medium-dark skin tone
+1259	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👩🏻‍❤️‍💋‍👨🏿	👩🏻‍❤️‍💋‍👨🏿	👩🏻 ❤ 💋 👨🏿	kiss: woman, man, light skin tone, dark skin tone
+1260	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👩🏼‍❤️‍💋‍👨🏻	👩🏼‍❤️‍💋‍👨🏻	👩🏼 ❤ 💋 👨🏻	kiss: woman, man, medium-light skin tone, light skin tone
+1261	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👩🏼‍❤️‍💋‍👨🏼	👩🏼‍❤️‍💋‍👨🏼	👩🏼 ❤ 💋 👨🏼	kiss: woman, man, medium-light skin tone
+1262	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👩🏼‍❤️‍💋‍👨🏽	👩🏼‍❤️‍💋‍👨🏽	👩🏼 ❤ 💋 👨🏽	kiss: woman, man, medium-light skin tone, medium skin tone
+1263	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👩🏼‍❤️‍💋‍👨🏾	👩🏼‍❤️‍💋‍👨🏾	👩🏼 ❤ 💋 👨🏾	kiss: woman, man, medium-light skin tone, medium-dark skin tone
+1264	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👩🏼‍❤️‍💋‍👨🏿	👩🏼‍❤️‍💋‍👨🏿	👩🏼 ❤ 💋 👨🏿	kiss: woman, man, medium-light skin tone, dark skin tone
+1265	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👩🏽‍❤️‍💋‍👨🏻	👩🏽‍❤️‍💋‍👨🏻	👩🏽 ❤ 💋 👨🏻	kiss: woman, man, medium skin tone, light skin tone
+1266	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👩🏽‍❤️‍💋‍👨🏼	👩🏽‍❤️‍💋‍👨🏼	👩🏽 ❤ 💋 👨🏼	kiss: woman, man, medium skin tone, medium-light skin tone
+1267	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👩🏽‍❤️‍💋‍👨🏽	👩🏽‍❤️‍💋‍👨🏽	👩🏽 ❤ 💋 👨🏽	kiss: woman, man, medium skin tone
+1268	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👩🏽‍❤️‍💋‍👨🏾	👩🏽‍❤️‍💋‍👨🏾	👩🏽 ❤ 💋 👨🏾	kiss: woman, man, medium skin tone, medium-dark skin tone
+1269	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👩🏽‍❤️‍💋‍👨🏿	👩🏽‍❤️‍💋‍👨🏿	👩🏽 ❤ 💋 👨🏿	kiss: woman, man, medium skin tone, dark skin tone
+1270	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👩🏾‍❤️‍💋‍👨🏻	👩🏾‍❤️‍💋‍👨🏻	👩🏾 ❤ 💋 👨🏻	kiss: woman, man, medium-dark skin tone, light skin tone
+1271	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👩🏾‍❤️‍💋‍👨🏼	👩🏾‍❤️‍💋‍👨🏼	👩🏾 ❤ 💋 👨🏼	kiss: woman, man, medium-dark skin tone, medium-light skin tone
+1272	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👩🏾‍❤️‍💋‍👨🏽	👩🏾‍❤️‍💋‍👨🏽	👩🏾 ❤ 💋 👨🏽	kiss: woman, man, medium-dark skin tone, medium skin tone
+1273	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👩🏾‍❤️‍💋‍👨🏾	👩🏾‍❤️‍💋‍👨🏾	👩🏾 ❤ 💋 👨🏾	kiss: woman, man, medium-dark skin tone
+1274	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👩🏾‍❤️‍💋‍👨🏿	👩🏾‍❤️‍💋‍👨🏿	👩🏾 ❤ 💋 👨🏿	kiss: woman, man, medium-dark skin tone, dark skin tone
+1275	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👩🏿‍❤️‍💋‍👨🏻	👩🏿‍❤️‍💋‍👨🏻	👩🏿 ❤ 💋 👨🏻	kiss: woman, man, dark skin tone, light skin tone
+1276	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👩🏿‍❤️‍💋‍👨🏼	👩🏿‍❤️‍💋‍👨🏼	👩🏿 ❤ 💋 👨🏼	kiss: woman, man, dark skin tone, medium-light skin tone
+1277	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👩🏿‍❤️‍💋‍👨🏽	👩🏿‍❤️‍💋‍👨🏽	👩🏿 ❤ 💋 👨🏽	kiss: woman, man, dark skin tone, medium skin tone
+1278	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👩🏿‍❤️‍💋‍👨🏾	👩🏿‍❤️‍💋‍👨🏾	👩🏿 ❤ 💋 👨🏾	kiss: woman, man, dark skin tone, medium-dark skin tone
+1279	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👩🏿‍❤️‍💋‍👨🏿	👩🏿‍❤️‍💋‍👨🏿	👩🏿 ❤ 💋 👨🏿	kiss: woman, man, dark skin tone
+1280	U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468	👨‍❤️‍💋‍👨	👨‍❤️‍💋‍👨	👨 ❤ 💋 👨	kiss: man, man
+1281	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👨🏻‍❤️‍💋‍👨🏻	👨🏻‍❤️‍💋‍👨🏻	👨🏻 ❤ 💋 👨🏻	kiss: man, man, light skin tone
+1282	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👨🏻‍❤️‍💋‍👨🏼	👨🏻‍❤️‍💋‍👨🏼	👨🏻 ❤ 💋 👨🏼	kiss: man, man, light skin tone, medium-light skin tone
+1283	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👨🏻‍❤️‍💋‍👨🏽	👨🏻‍❤️‍💋‍👨🏽	👨🏻 ❤ 💋 👨🏽	kiss: man, man, light skin tone, medium skin tone
+1284	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👨🏻‍❤️‍💋‍👨🏾	👨🏻‍❤️‍💋‍👨🏾	👨🏻 ❤ 💋 👨🏾	kiss: man, man, light skin tone, medium-dark skin tone
+1285	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👨🏻‍❤️‍💋‍👨🏿	👨🏻‍❤️‍💋‍👨🏿	👨🏻 ❤ 💋 👨🏿	kiss: man, man, light skin tone, dark skin tone
+1286	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👨🏼‍❤️‍💋‍👨🏻	👨🏼‍❤️‍💋‍👨🏻	👨🏼 ❤ 💋 👨🏻	kiss: man, man, medium-light skin tone, light skin tone
+1287	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👨🏼‍❤️‍💋‍👨🏼	👨🏼‍❤️‍💋‍👨🏼	👨🏼 ❤ 💋 👨🏼	kiss: man, man, medium-light skin tone
+1288	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👨🏼‍❤️‍💋‍👨🏽	👨🏼‍❤️‍💋‍👨🏽	👨🏼 ❤ 💋 👨🏽	kiss: man, man, medium-light skin tone, medium skin tone
+1289	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👨🏼‍❤️‍💋‍👨🏾	👨🏼‍❤️‍💋‍👨🏾	👨🏼 ❤ 💋 👨🏾	kiss: man, man, medium-light skin tone, medium-dark skin tone
+1290	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👨🏼‍❤️‍💋‍👨🏿	👨🏼‍❤️‍💋‍👨🏿	👨🏼 ❤ 💋 👨🏿	kiss: man, man, medium-light skin tone, dark skin tone
+1291	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👨🏽‍❤️‍💋‍👨🏻	👨🏽‍❤️‍💋‍👨🏻	👨🏽 ❤ 💋 👨🏻	kiss: man, man, medium skin tone, light skin tone
+1292	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👨🏽‍❤️‍💋‍👨🏼	👨🏽‍❤️‍💋‍👨🏼	👨🏽 ❤ 💋 👨🏼	kiss: man, man, medium skin tone, medium-light skin tone
+1293	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👨🏽‍❤️‍💋‍👨🏽	👨🏽‍❤️‍💋‍👨🏽	👨🏽 ❤ 💋 👨🏽	kiss: man, man, medium skin tone
+1294	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👨🏽‍❤️‍💋‍👨🏾	👨🏽‍❤️‍💋‍👨🏾	👨🏽 ❤ 💋 👨🏾	kiss: man, man, medium skin tone, medium-dark skin tone
+1295	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👨🏽‍❤️‍💋‍👨🏿	👨🏽‍❤️‍💋‍👨🏿	👨🏽 ❤ 💋 👨🏿	kiss: man, man, medium skin tone, dark skin tone
+1296	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👨🏾‍❤️‍💋‍👨🏻	👨🏾‍❤️‍💋‍👨🏻	👨🏾 ❤ 💋 👨🏻	kiss: man, man, medium-dark skin tone, light skin tone
+1297	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👨🏾‍❤️‍💋‍👨🏼	👨🏾‍❤️‍💋‍👨🏼	👨🏾 ❤ 💋 👨🏼	kiss: man, man, medium-dark skin tone, medium-light skin tone
+1298	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👨🏾‍❤️‍💋‍👨🏽	👨🏾‍❤️‍💋‍👨🏽	👨🏾 ❤ 💋 👨🏽	kiss: man, man, medium-dark skin tone, medium skin tone
+1299	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👨🏾‍❤️‍💋‍👨🏾	👨🏾‍❤️‍💋‍👨🏾	👨🏾 ❤ 💋 👨🏾	kiss: man, man, medium-dark skin tone
+1300	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👨🏾‍❤️‍💋‍👨🏿	👨🏾‍❤️‍💋‍👨🏿	👨🏾 ❤ 💋 👨🏿	kiss: man, man, medium-dark skin tone, dark skin tone
+1301	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FB	👨🏿‍❤️‍💋‍👨🏻	👨🏿‍❤️‍💋‍👨🏻	👨🏿 ❤ 💋 👨🏻	kiss: man, man, dark skin tone, light skin tone
+1302	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FC	👨🏿‍❤️‍💋‍👨🏼	👨🏿‍❤️‍💋‍👨🏼	👨🏿 ❤ 💋 👨🏼	kiss: man, man, dark skin tone, medium-light skin tone
+1303	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FD	👨🏿‍❤️‍💋‍👨🏽	👨🏿‍❤️‍💋‍👨🏽	👨🏿 ❤ 💋 👨🏽	kiss: man, man, dark skin tone, medium skin tone
+1304	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FE	👨🏿‍❤️‍💋‍👨🏾	👨🏿‍❤️‍💋‍👨🏾	👨🏿 ❤ 💋 👨🏾	kiss: man, man, dark skin tone, medium-dark skin tone
+1305	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 U+1F3FF	👨🏿‍❤️‍💋‍👨🏿	👨🏿‍❤️‍💋‍👨🏿	👨🏿 ❤ 💋 👨🏿	kiss: man, man, dark skin tone
+1306	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469	👩‍❤️‍💋‍👩	👩‍❤️‍💋‍👩	👩 ❤ 💋 👩	kiss: woman, woman
+1307	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FB	👩🏻‍❤️‍💋‍👩🏻	👩🏻‍❤️‍💋‍👩🏻	👩🏻 ❤ 💋 👩🏻	kiss: woman, woman, light skin tone
+1308	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FC	👩🏻‍❤️‍💋‍👩🏼	👩🏻‍❤️‍💋‍👩🏼	👩🏻 ❤ 💋 👩🏼	kiss: woman, woman, light skin tone, medium-light skin tone
+1309	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FD	👩🏻‍❤️‍💋‍👩🏽	👩🏻‍❤️‍💋‍👩🏽	👩🏻 ❤ 💋 👩🏽	kiss: woman, woman, light skin tone, medium skin tone
+1310	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FE	👩🏻‍❤️‍💋‍👩🏾	👩🏻‍❤️‍💋‍👩🏾	👩🏻 ❤ 💋 👩🏾	kiss: woman, woman, light skin tone, medium-dark skin tone
+1311	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FF	👩🏻‍❤️‍💋‍👩🏿	👩🏻‍❤️‍💋‍👩🏿	👩🏻 ❤ 💋 👩🏿	kiss: woman, woman, light skin tone, dark skin tone
+1312	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FB	👩🏼‍❤️‍💋‍👩🏻	👩🏼‍❤️‍💋‍👩🏻	👩🏼 ❤ 💋 👩🏻	kiss: woman, woman, medium-light skin tone, light skin tone
+1313	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FC	👩🏼‍❤️‍💋‍👩🏼	👩🏼‍❤️‍💋‍👩🏼	👩🏼 ❤ 💋 👩🏼	kiss: woman, woman, medium-light skin tone
+1314	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FD	👩🏼‍❤️‍💋‍👩🏽	👩🏼‍❤️‍💋‍👩🏽	👩🏼 ❤ 💋 👩🏽	kiss: woman, woman, medium-light skin tone, medium skin tone
+1315	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FE	👩🏼‍❤️‍💋‍👩🏾	👩🏼‍❤️‍💋‍👩🏾	👩🏼 ❤ 💋 👩🏾	kiss: woman, woman, medium-light skin tone, medium-dark skin tone
+1316	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FF	👩🏼‍❤️‍💋‍👩🏿	👩🏼‍❤️‍💋‍👩🏿	👩🏼 ❤ 💋 👩🏿	kiss: woman, woman, medium-light skin tone, dark skin tone
+1317	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FB	👩🏽‍❤️‍💋‍👩🏻	👩🏽‍❤️‍💋‍👩🏻	👩🏽 ❤ 💋 👩🏻	kiss: woman, woman, medium skin tone, light skin tone
+1318	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FC	👩🏽‍❤️‍💋‍👩🏼	👩🏽‍❤️‍💋‍👩🏼	👩🏽 ❤ 💋 👩🏼	kiss: woman, woman, medium skin tone, medium-light skin tone
+1319	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FD	👩🏽‍❤️‍💋‍👩🏽	👩🏽‍❤️‍💋‍👩🏽	👩🏽 ❤ 💋 👩🏽	kiss: woman, woman, medium skin tone
+1320	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FE	👩🏽‍❤️‍💋‍👩🏾	👩🏽‍❤️‍💋‍👩🏾	👩🏽 ❤ 💋 👩🏾	kiss: woman, woman, medium skin tone, medium-dark skin tone
+1321	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FF	👩🏽‍❤️‍💋‍👩🏿	👩🏽‍❤️‍💋‍👩🏿	👩🏽 ❤ 💋 👩🏿	kiss: woman, woman, medium skin tone, dark skin tone
+1322	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FB	👩🏾‍❤️‍💋‍👩🏻	👩🏾‍❤️‍💋‍👩🏻	👩🏾 ❤ 💋 👩🏻	kiss: woman, woman, medium-dark skin tone, light skin tone
+1323	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FC	👩🏾‍❤️‍💋‍👩🏼	👩🏾‍❤️‍💋‍👩🏼	👩🏾 ❤ 💋 👩🏼	kiss: woman, woman, medium-dark skin tone, medium-light skin tone
+1324	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FD	👩🏾‍❤️‍💋‍👩🏽	👩🏾‍❤️‍💋‍👩🏽	👩🏾 ❤ 💋 👩🏽	kiss: woman, woman, medium-dark skin tone, medium skin tone
+1325	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FE	👩🏾‍❤️‍💋‍👩🏾	👩🏾‍❤️‍💋‍👩🏾	👩🏾 ❤ 💋 👩🏾	kiss: woman, woman, medium-dark skin tone
+1326	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FF	👩🏾‍❤️‍💋‍👩🏿	👩🏾‍❤️‍💋‍👩🏿	👩🏾 ❤ 💋 👩🏿	kiss: woman, woman, medium-dark skin tone, dark skin tone
+1327	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FB	👩🏿‍❤️‍💋‍👩🏻	👩🏿‍❤️‍💋‍👩🏻	👩🏿 ❤ 💋 👩🏻	kiss: woman, woman, dark skin tone, light skin tone
+1328	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FC	👩🏿‍❤️‍💋‍👩🏼	👩🏿‍❤️‍💋‍👩🏼	👩🏿 ❤ 💋 👩🏼	kiss: woman, woman, dark skin tone, medium-light skin tone
+1329	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FD	👩🏿‍❤️‍💋‍👩🏽	👩🏿‍❤️‍💋‍👩🏽	👩🏿 ❤ 💋 👩🏽	kiss: woman, woman, dark skin tone, medium skin tone
+1330	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FE	👩🏿‍❤️‍💋‍👩🏾	👩🏿‍❤️‍💋‍👩🏾	👩🏿 ❤ 💋 👩🏾	kiss: woman, woman, dark skin tone, medium-dark skin tone
+1331	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 U+1F3FF	👩🏿‍❤️‍💋‍👩🏿	👩🏿‍❤️‍💋‍👩🏿	👩🏿 ❤ 💋 👩🏿	kiss: woman, woman, dark skin tone
+1332	U+1F491	💑	💑	💑	couple with heart
+1333	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FC	🧑🏻‍❤️‍🧑🏼	🧑🏻‍❤️‍🧑🏼	🧑🏻 ❤ 🧑🏼	couple with heart: person, person, light skin tone, medium-light skin tone
+1334	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FD	🧑🏻‍❤️‍🧑🏽	🧑🏻‍❤️‍🧑🏽	🧑🏻 ❤ 🧑🏽	couple with heart: person, person, light skin tone, medium skin tone
+1335	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FE	🧑🏻‍❤️‍🧑🏾	🧑🏻‍❤️‍🧑🏾	🧑🏻 ❤ 🧑🏾	couple with heart: person, person, light skin tone, medium-dark skin tone
+1336	U+1F9D1 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FF	🧑🏻‍❤️‍🧑🏿	🧑🏻‍❤️‍🧑🏿	🧑🏻 ❤ 🧑🏿	couple with heart: person, person, light skin tone, dark skin tone
+1337	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FB	🧑🏼‍❤️‍🧑🏻	🧑🏼‍❤️‍🧑🏻	🧑🏼 ❤ 🧑🏻	couple with heart: person, person, medium-light skin tone, light skin tone
+1338	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FD	🧑🏼‍❤️‍🧑🏽	🧑🏼‍❤️‍🧑🏽	🧑🏼 ❤ 🧑🏽	couple with heart: person, person, medium-light skin tone, medium skin tone
+1339	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FE	🧑🏼‍❤️‍🧑🏾	🧑🏼‍❤️‍🧑🏾	🧑🏼 ❤ 🧑🏾	couple with heart: person, person, medium-light skin tone, medium-dark skin tone
+1340	U+1F9D1 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FF	🧑🏼‍❤️‍🧑🏿	🧑🏼‍❤️‍🧑🏿	🧑🏼 ❤ 🧑🏿	couple with heart: person, person, medium-light skin tone, dark skin tone
+1341	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FB	🧑🏽‍❤️‍🧑🏻	🧑🏽‍❤️‍🧑🏻	🧑🏽 ❤ 🧑🏻	couple with heart: person, person, medium skin tone, light skin tone
+1342	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FC	🧑🏽‍❤️‍🧑🏼	🧑🏽‍❤️‍🧑🏼	🧑🏽 ❤ 🧑🏼	couple with heart: person, person, medium skin tone, medium-light skin tone
+1343	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FE	🧑🏽‍❤️‍🧑🏾	🧑🏽‍❤️‍🧑🏾	🧑🏽 ❤ 🧑🏾	couple with heart: person, person, medium skin tone, medium-dark skin tone
+1344	U+1F9D1 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FF	🧑🏽‍❤️‍🧑🏿	🧑🏽‍❤️‍🧑🏿	🧑🏽 ❤ 🧑🏿	couple with heart: person, person, medium skin tone, dark skin tone
+1345	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FB	🧑🏾‍❤️‍🧑🏻	🧑🏾‍❤️‍🧑🏻	🧑🏾 ❤ 🧑🏻	couple with heart: person, person, medium-dark skin tone, light skin tone
+1346	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FC	🧑🏾‍❤️‍🧑🏼	🧑🏾‍❤️‍🧑🏼	🧑🏾 ❤ 🧑🏼	couple with heart: person, person, medium-dark skin tone, medium-light skin tone
+1347	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FD	🧑🏾‍❤️‍🧑🏽	🧑🏾‍❤️‍🧑🏽	🧑🏾 ❤ 🧑🏽	couple with heart: person, person, medium-dark skin tone, medium skin tone
+1348	U+1F9D1 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FF	🧑🏾‍❤️‍🧑🏿	🧑🏾‍❤️‍🧑🏿	🧑🏾 ❤ 🧑🏿	couple with heart: person, person, medium-dark skin tone, dark skin tone
+1349	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FB	🧑🏿‍❤️‍🧑🏻	🧑🏿‍❤️‍🧑🏻	🧑🏿 ❤ 🧑🏻	couple with heart: person, person, dark skin tone, light skin tone
+1350	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FC	🧑🏿‍❤️‍🧑🏼	🧑🏿‍❤️‍🧑🏼	🧑🏿 ❤ 🧑🏼	couple with heart: person, person, dark skin tone, medium-light skin tone
+1351	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FD	🧑🏿‍❤️‍🧑🏽	🧑🏿‍❤️‍🧑🏽	🧑🏿 ❤ 🧑🏽	couple with heart: person, person, dark skin tone, medium skin tone
+1352	U+1F9D1 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F9D1 U+1F3FE	🧑🏿‍❤️‍🧑🏾	🧑🏿‍❤️‍🧑🏾	🧑🏿 ❤ 🧑🏾	couple with heart: person, person, dark skin tone, medium-dark skin tone
+1353	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468	👩‍❤️‍👨	👩‍❤️‍👨	👩 ❤ 👨	couple with heart: woman, man
+1354	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👩🏻‍❤️‍👨🏻	👩🏻‍❤️‍👨🏻	👩🏻 ❤ 👨🏻	couple with heart: woman, man, light skin tone
+1355	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👩🏻‍❤️‍👨🏼	👩🏻‍❤️‍👨🏼	👩🏻 ❤ 👨🏼	couple with heart: woman, man, light skin tone, medium-light skin tone
+1356	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👩🏻‍❤️‍👨🏽	👩🏻‍❤️‍👨🏽	👩🏻 ❤ 👨🏽	couple with heart: woman, man, light skin tone, medium skin tone
+1357	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👩🏻‍❤️‍👨🏾	👩🏻‍❤️‍👨🏾	👩🏻 ❤ 👨🏾	couple with heart: woman, man, light skin tone, medium-dark skin tone
+1358	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👩🏻‍❤️‍👨🏿	👩🏻‍❤️‍👨🏿	👩🏻 ❤ 👨🏿	couple with heart: woman, man, light skin tone, dark skin tone
+1359	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👩🏼‍❤️‍👨🏻	👩🏼‍❤️‍👨🏻	👩🏼 ❤ 👨🏻	couple with heart: woman, man, medium-light skin tone, light skin tone
+1360	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👩🏼‍❤️‍👨🏼	👩🏼‍❤️‍👨🏼	👩🏼 ❤ 👨🏼	couple with heart: woman, man, medium-light skin tone
+1361	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👩🏼‍❤️‍👨🏽	👩🏼‍❤️‍👨🏽	👩🏼 ❤ 👨🏽	couple with heart: woman, man, medium-light skin tone, medium skin tone
+1362	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👩🏼‍❤️‍👨🏾	👩🏼‍❤️‍👨🏾	👩🏼 ❤ 👨🏾	couple with heart: woman, man, medium-light skin tone, medium-dark skin tone
+1363	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👩🏼‍❤️‍👨🏿	👩🏼‍❤️‍👨🏿	👩🏼 ❤ 👨🏿	couple with heart: woman, man, medium-light skin tone, dark skin tone
+1364	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👩🏽‍❤️‍👨🏻	👩🏽‍❤️‍👨🏻	👩🏽 ❤ 👨🏻	couple with heart: woman, man, medium skin tone, light skin tone
+1365	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👩🏽‍❤️‍👨🏼	👩🏽‍❤️‍👨🏼	👩🏽 ❤ 👨🏼	couple with heart: woman, man, medium skin tone, medium-light skin tone
+1366	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👩🏽‍❤️‍👨🏽	👩🏽‍❤️‍👨🏽	👩🏽 ❤ 👨🏽	couple with heart: woman, man, medium skin tone
+1367	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👩🏽‍❤️‍👨🏾	👩🏽‍❤️‍👨🏾	👩🏽 ❤ 👨🏾	couple with heart: woman, man, medium skin tone, medium-dark skin tone
+1368	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👩🏽‍❤️‍👨🏿	👩🏽‍❤️‍👨🏿	👩🏽 ❤ 👨🏿	couple with heart: woman, man, medium skin tone, dark skin tone
+1369	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👩🏾‍❤️‍👨🏻	👩🏾‍❤️‍👨🏻	👩🏾 ❤ 👨🏻	couple with heart: woman, man, medium-dark skin tone, light skin tone
+1370	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👩🏾‍❤️‍👨🏼	👩🏾‍❤️‍👨🏼	👩🏾 ❤ 👨🏼	couple with heart: woman, man, medium-dark skin tone, medium-light skin tone
+1371	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👩🏾‍❤️‍👨🏽	👩🏾‍❤️‍👨🏽	👩🏾 ❤ 👨🏽	couple with heart: woman, man, medium-dark skin tone, medium skin tone
+1372	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👩🏾‍❤️‍👨🏾	👩🏾‍❤️‍👨🏾	👩🏾 ❤ 👨🏾	couple with heart: woman, man, medium-dark skin tone
+1373	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👩🏾‍❤️‍👨🏿	👩🏾‍❤️‍👨🏿	👩🏾 ❤ 👨🏿	couple with heart: woman, man, medium-dark skin tone, dark skin tone
+1374	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👩🏿‍❤️‍👨🏻	👩🏿‍❤️‍👨🏻	👩🏿 ❤ 👨🏻	couple with heart: woman, man, dark skin tone, light skin tone
+1375	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👩🏿‍❤️‍👨🏼	👩🏿‍❤️‍👨🏼	👩🏿 ❤ 👨🏼	couple with heart: woman, man, dark skin tone, medium-light skin tone
+1376	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👩🏿‍❤️‍👨🏽	👩🏿‍❤️‍👨🏽	👩🏿 ❤ 👨🏽	couple with heart: woman, man, dark skin tone, medium skin tone
+1377	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👩🏿‍❤️‍👨🏾	👩🏿‍❤️‍👨🏾	👩🏿 ❤ 👨🏾	couple with heart: woman, man, dark skin tone, medium-dark skin tone
+1378	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👩🏿‍❤️‍👨🏿	👩🏿‍❤️‍👨🏿	👩🏿 ❤ 👨🏿	couple with heart: woman, man, dark skin tone
+1379	U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468	👨‍❤️‍👨	👨‍❤️‍👨	👨 ❤ 👨	couple with heart: man, man
+1380	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👨🏻‍❤️‍👨🏻	👨🏻‍❤️‍👨🏻	👨🏻 ❤ 👨🏻	couple with heart: man, man, light skin tone
+1381	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👨🏻‍❤️‍👨🏼	👨🏻‍❤️‍👨🏼	👨🏻 ❤ 👨🏼	couple with heart: man, man, light skin tone, medium-light skin tone
+1382	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👨🏻‍❤️‍👨🏽	👨🏻‍❤️‍👨🏽	👨🏻 ❤ 👨🏽	couple with heart: man, man, light skin tone, medium skin tone
+1383	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👨🏻‍❤️‍👨🏾	👨🏻‍❤️‍👨🏾	👨🏻 ❤ 👨🏾	couple with heart: man, man, light skin tone, medium-dark skin tone
+1384	U+1F468 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👨🏻‍❤️‍👨🏿	👨🏻‍❤️‍👨🏿	👨🏻 ❤ 👨🏿	couple with heart: man, man, light skin tone, dark skin tone
+1385	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👨🏼‍❤️‍👨🏻	👨🏼‍❤️‍👨🏻	👨🏼 ❤ 👨🏻	couple with heart: man, man, medium-light skin tone, light skin tone
+1386	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👨🏼‍❤️‍👨🏼	👨🏼‍❤️‍👨🏼	👨🏼 ❤ 👨🏼	couple with heart: man, man, medium-light skin tone
+1387	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👨🏼‍❤️‍👨🏽	👨🏼‍❤️‍👨🏽	👨🏼 ❤ 👨🏽	couple with heart: man, man, medium-light skin tone, medium skin tone
+1388	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👨🏼‍❤️‍👨🏾	👨🏼‍❤️‍👨🏾	👨🏼 ❤ 👨🏾	couple with heart: man, man, medium-light skin tone, medium-dark skin tone
+1389	U+1F468 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👨🏼‍❤️‍👨🏿	👨🏼‍❤️‍👨🏿	👨🏼 ❤ 👨🏿	couple with heart: man, man, medium-light skin tone, dark skin tone
+1390	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👨🏽‍❤️‍👨🏻	👨🏽‍❤️‍👨🏻	👨🏽 ❤ 👨🏻	couple with heart: man, man, medium skin tone, light skin tone
+1391	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👨🏽‍❤️‍👨🏼	👨🏽‍❤️‍👨🏼	👨🏽 ❤ 👨🏼	couple with heart: man, man, medium skin tone, medium-light skin tone
+1392	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👨🏽‍❤️‍👨🏽	👨🏽‍❤️‍👨🏽	👨🏽 ❤ 👨🏽	couple with heart: man, man, medium skin tone
+1393	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👨🏽‍❤️‍👨🏾	👨🏽‍❤️‍👨🏾	👨🏽 ❤ 👨🏾	couple with heart: man, man, medium skin tone, medium-dark skin tone
+1394	U+1F468 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👨🏽‍❤️‍👨🏿	👨🏽‍❤️‍👨🏿	👨🏽 ❤ 👨🏿	couple with heart: man, man, medium skin tone, dark skin tone
+1395	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👨🏾‍❤️‍👨🏻	👨🏾‍❤️‍👨🏻	👨🏾 ❤ 👨🏻	couple with heart: man, man, medium-dark skin tone, light skin tone
+1396	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👨🏾‍❤️‍👨🏼	👨🏾‍❤️‍👨🏼	👨🏾 ❤ 👨🏼	couple with heart: man, man, medium-dark skin tone, medium-light skin tone
+1397	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👨🏾‍❤️‍👨🏽	👨🏾‍❤️‍👨🏽	👨🏾 ❤ 👨🏽	couple with heart: man, man, medium-dark skin tone, medium skin tone
+1398	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👨🏾‍❤️‍👨🏾	👨🏾‍❤️‍👨🏾	👨🏾 ❤ 👨🏾	couple with heart: man, man, medium-dark skin tone
+1399	U+1F468 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👨🏾‍❤️‍👨🏿	👨🏾‍❤️‍👨🏿	👨🏾 ❤ 👨🏿	couple with heart: man, man, medium-dark skin tone, dark skin tone
+1400	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FB	👨🏿‍❤️‍👨🏻	👨🏿‍❤️‍👨🏻	👨🏿 ❤ 👨🏻	couple with heart: man, man, dark skin tone, light skin tone
+1401	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FC	👨🏿‍❤️‍👨🏼	👨🏿‍❤️‍👨🏼	👨🏿 ❤ 👨🏼	couple with heart: man, man, dark skin tone, medium-light skin tone
+1402	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FD	👨🏿‍❤️‍👨🏽	👨🏿‍❤️‍👨🏽	👨🏿 ❤ 👨🏽	couple with heart: man, man, dark skin tone, medium skin tone
+1403	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FE	👨🏿‍❤️‍👨🏾	👨🏿‍❤️‍👨🏾	👨🏿 ❤ 👨🏾	couple with heart: man, man, dark skin tone, medium-dark skin tone
+1404	U+1F468 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F468 U+1F3FF	👨🏿‍❤️‍👨🏿	👨🏿‍❤️‍👨🏿	👨🏿 ❤ 👨🏿	couple with heart: man, man, dark skin tone
+1405	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469	👩‍❤️‍👩	👩‍❤️‍👩	👩 ❤ 👩	couple with heart: woman, woman
+1406	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FB	👩🏻‍❤️‍👩🏻	👩🏻‍❤️‍👩🏻	👩🏻 ❤ 👩🏻	couple with heart: woman, woman, light skin tone
+1407	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FC	👩🏻‍❤️‍👩🏼	👩🏻‍❤️‍👩🏼	👩🏻 ❤ 👩🏼	couple with heart: woman, woman, light skin tone, medium-light skin tone
+1408	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FD	👩🏻‍❤️‍👩🏽	👩🏻‍❤️‍👩🏽	👩🏻 ❤ 👩🏽	couple with heart: woman, woman, light skin tone, medium skin tone
+1409	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FE	👩🏻‍❤️‍👩🏾	👩🏻‍❤️‍👩🏾	👩🏻 ❤ 👩🏾	couple with heart: woman, woman, light skin tone, medium-dark skin tone
+1410	U+1F469 U+1F3FB U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FF	👩🏻‍❤️‍👩🏿	👩🏻‍❤️‍👩🏿	👩🏻 ❤ 👩🏿	couple with heart: woman, woman, light skin tone, dark skin tone
+1411	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FB	👩🏼‍❤️‍👩🏻	👩🏼‍❤️‍👩🏻	👩🏼 ❤ 👩🏻	couple with heart: woman, woman, medium-light skin tone, light skin tone
+1412	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FC	👩🏼‍❤️‍👩🏼	👩🏼‍❤️‍👩🏼	👩🏼 ❤ 👩🏼	couple with heart: woman, woman, medium-light skin tone
+1413	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FD	👩🏼‍❤️‍👩🏽	👩🏼‍❤️‍👩🏽	👩🏼 ❤ 👩🏽	couple with heart: woman, woman, medium-light skin tone, medium skin tone
+1414	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FE	👩🏼‍❤️‍👩🏾	👩🏼‍❤️‍👩🏾	👩🏼 ❤ 👩🏾	couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone
+1415	U+1F469 U+1F3FC U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FF	👩🏼‍❤️‍👩🏿	👩🏼‍❤️‍👩🏿	👩🏼 ❤ 👩🏿	couple with heart: woman, woman, medium-light skin tone, dark skin tone
+1416	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FB	👩🏽‍❤️‍👩🏻	👩🏽‍❤️‍👩🏻	👩🏽 ❤ 👩🏻	couple with heart: woman, woman, medium skin tone, light skin tone
+1417	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FC	👩🏽‍❤️‍👩🏼	👩🏽‍❤️‍👩🏼	👩🏽 ❤ 👩🏼	couple with heart: woman, woman, medium skin tone, medium-light skin tone
+1418	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FD	👩🏽‍❤️‍👩🏽	👩🏽‍❤️‍👩🏽	👩🏽 ❤ 👩🏽	couple with heart: woman, woman, medium skin tone
+1419	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FE	👩🏽‍❤️‍👩🏾	👩🏽‍❤️‍👩🏾	👩🏽 ❤ 👩🏾	couple with heart: woman, woman, medium skin tone, medium-dark skin tone
+1420	U+1F469 U+1F3FD U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FF	👩🏽‍❤️‍👩🏿	👩🏽‍❤️‍👩🏿	👩🏽 ❤ 👩🏿	couple with heart: woman, woman, medium skin tone, dark skin tone
+1421	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FB	👩🏾‍❤️‍👩🏻	👩🏾‍❤️‍👩🏻	👩🏾 ❤ 👩🏻	couple with heart: woman, woman, medium-dark skin tone, light skin tone
+1422	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FC	👩🏾‍❤️‍👩🏼	👩🏾‍❤️‍👩🏼	👩🏾 ❤ 👩🏼	couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone
+1423	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FD	👩🏾‍❤️‍👩🏽	👩🏾‍❤️‍👩🏽	👩🏾 ❤ 👩🏽	couple with heart: woman, woman, medium-dark skin tone, medium skin tone
+1424	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FE	👩🏾‍❤️‍👩🏾	👩🏾‍❤️‍👩🏾	👩🏾 ❤ 👩🏾	couple with heart: woman, woman, medium-dark skin tone
+1425	U+1F469 U+1F3FE U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FF	👩🏾‍❤️‍👩🏿	👩🏾‍❤️‍👩🏿	👩🏾 ❤ 👩🏿	couple with heart: woman, woman, medium-dark skin tone, dark skin tone
+1426	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FB	👩🏿‍❤️‍👩🏻	👩🏿‍❤️‍👩🏻	👩🏿 ❤ 👩🏻	couple with heart: woman, woman, dark skin tone, light skin tone
+1427	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FC	👩🏿‍❤️‍👩🏼	👩🏿‍❤️‍👩🏼	👩🏿 ❤ 👩🏼	couple with heart: woman, woman, dark skin tone, medium-light skin tone
+1428	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FD	👩🏿‍❤️‍👩🏽	👩🏿‍❤️‍👩🏽	👩🏿 ❤ 👩🏽	couple with heart: woman, woman, dark skin tone, medium skin tone
+1429	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FE	👩🏿‍❤️‍👩🏾	👩🏿‍❤️‍👩🏾	👩🏿 ❤ 👩🏾	couple with heart: woman, woman, dark skin tone, medium-dark skin tone
+1430	U+1F469 U+1F3FF U+200D U+2764 U+FE0F U+200D U+1F469 U+1F3FF	👩🏿‍❤️‍👩🏿	👩🏿‍❤️‍👩🏿	👩🏿 ❤ 👩🏿	couple with heart: woman, woman, dark skin tone
+1431	U+1F468 U+200D U+1F469 U+200D U+1F466	👨‍👩‍👦	👨‍👩‍👦	👨 👩 👦	family: man, woman, boy
+1432	U+1F468 U+200D U+1F469 U+200D U+1F467	👨‍👩‍👧	👨‍👩‍👧	👨 👩 👧	family: man, woman, girl
+1433	U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466	👨‍👩‍👧‍👦	👨‍👩‍👧‍👦	👨 👩 👧 👦	family: man, woman, girl, boy
+1434	U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466	👨‍👩‍👦‍👦	👨‍👩‍👦‍👦	👨 👩 👦 👦	family: man, woman, boy, boy
+1435	U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467	👨‍👩‍👧‍👧	👨‍👩‍👧‍👧	👨 👩 👧 👧	family: man, woman, girl, girl
+1436	U+1F468 U+200D U+1F468 U+200D U+1F466	👨‍👨‍👦	👨‍👨‍👦	👨 👨 👦	family: man, man, boy
+1437	U+1F468 U+200D U+1F468 U+200D U+1F467	👨‍👨‍👧	👨‍👨‍👧	👨 👨 👧	family: man, man, girl
+1438	U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466	👨‍👨‍👧‍👦	👨‍👨‍👧‍👦	👨 👨 👧 👦	family: man, man, girl, boy
+1439	U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466	👨‍👨‍👦‍👦	👨‍👨‍👦‍👦	👨 👨 👦 👦	family: man, man, boy, boy
+1440	U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467	👨‍👨‍👧‍👧	👨‍👨‍👧‍👧	👨 👨 👧 👧	family: man, man, girl, girl
+1441	U+1F469 U+200D U+1F469 U+200D U+1F466	👩‍👩‍👦	👩‍👩‍👦	👩 👩 👦	family: woman, woman, boy
+1442	U+1F469 U+200D U+1F469 U+200D U+1F467	👩‍👩‍👧	👩‍👩‍👧	👩 👩 👧	family: woman, woman, girl
+1443	U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466	👩‍👩‍👧‍👦	👩‍👩‍👧‍👦	👩 👩 👧 👦	family: woman, woman, girl, boy
+1444	U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466	👩‍👩‍👦‍👦	👩‍👩‍👦‍👦	👩 👩 👦 👦	family: woman, woman, boy, boy
+1445	U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467	👩‍👩‍👧‍👧	👩‍👩‍👧‍👧	👩 👩 👧 👧	family: woman, woman, girl, girl
+1446	U+1F468 U+200D U+1F466	👨‍👦	👨‍👦	👨 👦	family: man, boy
+1447	U+1F468 U+200D U+1F466 U+200D U+1F466	👨‍👦‍👦	👨‍👦‍👦	👨 👦 👦	family: man, boy, boy
+1448	U+1F468 U+200D U+1F467	👨‍👧	👨‍👧	👨 👧	family: man, girl
+1449	U+1F468 U+200D U+1F467 U+200D U+1F466	👨‍👧‍👦	👨‍👧‍👦	👨 👧 👦	family: man, girl, boy
+1450	U+1F468 U+200D U+1F467 U+200D U+1F467	👨‍👧‍👧	👨‍👧‍👧	👨 👧 👧	family: man, girl, girl
+1451	U+1F469 U+200D U+1F466	👩‍👦	👩‍👦	👩 👦	family: woman, boy
+1452	U+1F469 U+200D U+1F466 U+200D U+1F466	👩‍👦‍👦	👩‍👦‍👦	👩 👦 👦	family: woman, boy, boy
+1453	U+1F469 U+200D U+1F467	👩‍👧	👩‍👧	👩 👧	family: woman, girl
+1454	U+1F469 U+200D U+1F467 U+200D U+1F466	👩‍👧‍👦	👩‍👧‍👦	👩 👧 👦	family: woman, girl, boy
+1455	U+1F469 U+200D U+1F467 U+200D U+1F467	👩‍👧‍👧	👩‍👧‍👧	👩 👧 👧	family: woman, girl, girl
+1456	U+1F46A	👪	👪	👪	family
+1457	U+1F9D1 U+200D U+1F9D1 U+200D U+1F9D2	🧑‍🧑‍🧒	🧑‍🧑‍🧒	🧑 🧑 🧒	family: adult, adult, child
+1458	U+1F9D1 U+200D U+1F9D1 U+200D U+1F9D2 U+200D U+1F9D2	🧑‍🧑‍🧒‍🧒	🧑‍🧑‍🧒‍🧒	🧑 🧑 🧒 🧒	family: adult, adult, child, child
+1459	U+1F9D1 U+200D U+1F9D2	🧑‍🧒	🧑‍🧒	🧑 🧒	family: adult, child
+1460	U+1F9D1 U+200D U+1F9D2 U+200D U+1F9D2	🧑‍🧒‍🧒	🧑‍🧒‍🧒	🧑 🧒 🧒	family: adult, child, child
+1461	U+1F415 U+200D U+1F9BA	🐕‍🦺	🐕‍🦺	🐕 🦺	service dog
+1462	U+1F408 U+200D U+2B1B	🐈‍⬛	🐈‍⬛	🐈 ⬛	black cat
+1463	U+1F43B U+200D U+2744 U+FE0F	🐻‍❄️	🐻‍❄️	🐻 ❄	polar bear
+1464	U+1F426 U+200D U+2B1B	🐦‍⬛	🐦‍⬛	🐦 ⬛	black bird
+1465	U+1F426 U+200D U+1F525	🐦‍🔥	🐦‍🔥	🐦 🔥	phoenix
+1466	U+1F34B U+200D U+1F7E9	🍋‍🟩	🍋‍🟩	🍋 🟩	lime
+1467	U+1F344 U+200D U+1F7EB	🍄‍🟫	🍄‍🟫	🍄 🟫	brown mushroom
+1468	U+26D3 U+FE0F U+200D U+1F4A5	⛓️‍💥	⛓️‍💥	⛓ 💥	broken chain
+1469	U+1F3F3 U+FE0F U+200D U+1F308	🏳️‍🌈	🏳️‍🌈	🏳 🌈	rainbow flag
+1470	U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F	🏳️‍⚧️	🏳️‍⚧️	🏳 ⚧	transgender flag
+1471	U+1F3F4 U+200D U+2620 U+FE0F	🏴‍☠️	🏴‍☠️	🏴 ☠	pirate flag
